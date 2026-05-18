@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "description": "IDEOLOGI, POLITIK, PERTAHANAN DAN KEAMANAN (A)",
+        "tipe_satker": "2,3,4"
+    },
+    {
+        "id": 2,
+        "description": "SOSIAL BUDAYA DAN KEMASYARAKATAN (B)",
+        "tipe_satker": "2,3,4"
+    },
+    {
+        "id": 3,
+        "description": "EKONOMI DAN KEUANGAN (C)",
+        "tipe_satker": "2,3,4"
+    },
+    {
+        "id": 4,
+        "description": "PENGAMANAN PEMBANGUNAN STRATEGIS (D)",
+        "tipe_satker": "2,3,4"
+    },
+    {
+        "id": 5,
+        "description": "TEKNOLOGI INFORMASI DAN PRODUKSI INTELIJEN (E)",
+        "tipe_satker": "2,3,4"
+    },
+    {
+        "id": 6,
+        "description": "PENERANGAN HUKUM",
+        "tipe_satker": "2,3,4"
+    },
+    {
+        "id": 7,
+        "description": "SUBDIT A.1",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 8,
+        "description": "SUBDIT A.2",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 9,
+        "description": "SUBDIT A.3",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 10,
+        "description": "SUBDIT A.4",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 11,
+        "description": "SUBDIT B.1",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 12,
+        "description": "SUBDIT B.2",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 13,
+        "description": "SUBDIT B.3",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 14,
+        "description": "SUBDIT B.4",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 15,
+        "description": "SUBDIT C.1",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 16,
+        "description": "SUBDIT C.2",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 17,
+        "description": "SUBDIT C.3",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 18,
+        "description": "SUBDIT C.4",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 19,
+        "description": "SUBDIT D.1",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 20,
+        "description": "SUBDIT D.2",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 21,
+        "description": "SUBDIT D.3",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 22,
+        "description": "SUBDIT D.4",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 23,
+        "description": "SUBDIT E.1",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 24,
+        "description": "SUBDIT E.2",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 25,
+        "description": "SUBDIT E.3",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 26,
+        "description": "SUBDIT E.4",
+        "tipe_satker": "1"
+    },
+    {
+        "id": 27,
+        "description": "PENERANGAN HUKUM",
+        "tipe_satker": "1"
+    }
+]

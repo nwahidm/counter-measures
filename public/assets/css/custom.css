@@ -1,0 +1,180 @@
+.why-icon {
+    height: 1.75rem;
+}
+
+.icon-lg-2line {
+    height: 3rem;
+    line-height: 3rem;
+    width: 4rem;
+}
+
+@media screen and (max-width: 600px) {
+    .icon-lg-2line {
+        height: 3rem;
+        line-height: 3rem;
+        width: 3.5rem;
+    }
+}
+
+.footer-background {
+    background: #24A29F url(https://www.bankbsi.co.id/img/background_footer.png) !important;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-repeat: repeat;
+    color: #fff !important;
+    border-top: 24px solid #F6AD3C;
+}
+
+.footer-title {
+    color: var(--bs-heading-color);
+    /* border-bottom: 3px solid #F6AD3C; */
+}
+
+.breadcrumb-white li a {
+    color: white !important;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.breadcrumb-item-white+.breadcrumb-item-white:before {
+    color: #fff !important;
+    font-size: 15px;
+}
+
+.breadcrumb-item-white.active {
+    color: #e8e7eb;
+    font-size: 15px;
+    font-weight: 400;
+  }
+
+.breadcrumb-border-bottom {
+    border-bottom: 0.5px solid #cccccc !important;
+    border-bottom-color: rgb(236, 235, 241);
+}
+
+.shadow-sm-no-line-top {
+    box-shadow: 0 3px 3px rgba(3, 0, 71, .09) !important;
+}
+
+.badge-custom {
+    border-radius: 6px 0 6px 0;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 3px 6px;
+}
+
+/* 1.25 Sweet Alert */
+.swal-button {
+    border-radius: 3px !important;
+    font-size: 16px !important;
+}
+
+.swal-button:focus {
+    box-shadow: none !important;
+}
+
+.swal-button.swal-button--confirm {
+    box-shadow: 0 2px 6px #b9aceb !important;
+    background-color: #754ffe !important;
+}
+
+.swal-button.swal-button--confirm:focus {
+    opacity: 0.8 !important;
+}
+
+.swal-button.swal-button--confirm:hover {
+    opacity: 1 !important;
+}
+
+.swal-footer {
+    text-align: center !important;
+}
+
+.swal-text {
+    text-align: center !important;
+    line-height: 24px !important;
+    font-weight: 500 !important;
+}
+
+.btn-progress {
+    position: relative;
+    background-image: url("../images/spinner/spinner-white.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    color: transparent !important;
+    pointer-events: none;
+}
+
+.as-modal-sign__persuasive {
+    color: #546071;
+    display: block;
+    height: 24px;
+    margin: 32px auto 18px;
+    position: relative;
+    text-align: center;
+    width: 220px;
+}
+
+.as-modal-sign__persuasive {
+    color: #546071;
+    text-align: center;
+}
+
+.as-modal-sign__persuasive::before {
+    left: -73px;
+}
+
+
+.as-modal-sign__persuasive::after {
+    right: -73px;
+}
+
+.as-modal-sign__persuasive::after,
+.as-modal-sign__persuasive::before {
+    background-color: rgba(58, 65, 102, .4);
+    bottom: 0;
+    content: "";
+    height: 1px;
+    margin: auto 0;
+    position: absolute;
+    top: 0;
+    width: 95px;
+}
+
+.section-title {
+    font-size: 1.5rem;
+}
+
+@media screen and (max-width: 600px) {
+    .section-title {
+        font-size: 1.25rem;
+    }
+
+    .as-modal-sign__persuasive::before {
+        left: -32px;
+    }
+    
+    
+    .as-modal-sign__persuasive::after {
+        right: -32px;
+    }
+    
+    .as-modal-sign__persuasive::after,
+    .as-modal-sign__persuasive::before {
+        background-color: rgba(58, 65, 102, .4);
+        bottom: 0;
+        content: "";
+        height: 1px;
+        margin: auto 0;
+        position: absolute;
+        top: 0;
+        width: 65px;
+    }
+}
+
+.form-group.required .form-label:after {
+    content:" *";
+    font-size: 16px;
+    color: #e5403d;
+}

@@ -1,0 +1,264 @@
+<x-backoffice.layout.app-layout title="Tambah Infiltration Result Achievement">
+    @push('css')
+        <style>
+            thead {
+                background: #f5f4f8;
+                text-align: center;
+            }
+        </style>
+    @endpush
+    <x-backoffice.toolbar heading="Tambah Infiltration Result Achievement" subheading=""
+                          breadcrumb="close-tailing-pemahaman-perilaku-report-create"
+                          icon="fas fa-users">
+        <div class="d-flex align-items-center w-25">
+
+        </div>
+    </x-backoffice.toolbar>
+
+    <div class="app-container container-xxl">
+        <div class="app-main flex-column flex-row-fluid" id="kt_app_main">
+            <div class="d-flex flex-column flex-column-fluid">
+                <div id="kt_app_content" class="app-content flex-column-fluid">
+                    <div class="row g-5 g-xl-8">
+                        <div class="col-md-12">
+                            <div class="card">
+                                <div class="card-body">
+                                    <form id="form" action="{{ route('close.infiltration.result-achievement.store') }}"
+                                          method="post"
+                                          enctype="multipart/form-data" autocomplete="off">
+                                        @csrf
+                                        <div class="card ">
+                                            <div class="card-body">
+                                                
+                                                <div class="row mb-7">
+                                                    <div class="form-group col-md-6">
+                                                        <label for="id_satker" class="fs-6 fw-semibold mb-2 required">Satuan Kerja</label>
+                                                        <select
+                                                            class="form-select form-select-solid select @error('id_satker') is-invalid @enderror"
+                                                            name="id_satker" id="id_satker"
+                                                            data-control="select2" data-hide-search="true"
+                                                            @if(auth()->user()->user_roles != "superadmin") disabled @endif>
+                                                            <option value="">---Pilih Satker---</option>
+                                                            @foreach ($satker as $row)
+                                                                <option value="{{ $row['id'] }}"
+                                                                        @if($row['id'] === auth()->user()->satker->id_satker) selected @endif>{{ $row['text'] }}</option>
+                                                            @endforeach
+                                                        </select>
+                                                        @error('id_satker')
+                                                        <p class="text-danger">{{ $message }}</p>
+                                                        @enderror
+                                                        @if(auth()->user()->user_roles != "superadmin")
+                                                            <input type="hidden" name="id_satker" value="{{ auth()->user()?->satker?->id_satker }}">
+                                                        @endif
+                                                    </div>
+                                                    <div class="form-group col-md-6">
+                                                        <label for="id_case"
+                                                               class="fs-6 fw-semibold mb-2 required">Kasus</label>
+                                                        <select
+                                                            class="form-select form-select-solid select @error('id_case') is-invalid @enderror"
+                                                            name="id_case" id="id_case"
+                                                            data-control="select2" data-hide-search="true">
+                                                            <option value="">---Pilih Kasus---</option>
+                                                            @foreach ($case as $row)
+                                                                <option
+                                                                    value="{{ $row['id'] }}"
+                                                                    @if($row['id'] === old('id_case')) selected @endif>{{ $row['text'] }}</option>
+                                                            @endforeach
+                                                        </select>
+                                                        @error('id_case')
+                                                        <p class="text-danger">{{ $message }}</p>
+                                                        @enderror
+                                                    </div>
+                                                </div>
+
+                                                <div class="row mb-7">
+                                                    <div class="form-group col-md-6">
+                                                        <label for="infiltration_operasi_rahasia_id" class="fs-6 fw-semibold mb-2">Operasi Rahasia</label>
+                                                        <select
+                                                            class="form-select form-select-solid select @error('infiltration_operasi_rahasia_id') is-invalid @enderror"
+                                                            name="infiltration_operasi_rahasia_id" id="infiltration_operasi_rahasia_id"
+                                                            data-control="select2" data-hide-search="true">
+                                                            <option value="">---Pilih Operasi Rahasia---</option>
+                                                            <!-- @foreach ($operasi_rahasia as $row)
+                                                                <option value="{{ $row->id }}">{!! $row->nama_operasi_rahasia !!}</option>
+                                                            @endforeach -->
+                                                        </select>
+                                                        @error('infiltration_operasi_rahasia_id')
+                                                        <p class="text-danger">{{ $message }}</p>
+                                                        @enderror
+                                                    </div>
+                                                    <div class="form-group col-md-6">
+                                                        <label for="infiltration_dinamika_target_id" class="fs-6 fw-semibold mb-2">Dinamika Target</label>
+                                                        <select
+                                                            class="form-select form-select-solid select @error('infiltration_dinamika_target_id') is-invalid @enderror"
+                                                            name="infiltration_dinamika_target_id" id="infiltration_dinamika_target_id"
+                                                            data-control="select2" data-hide-search="true">
+                                                            <option value="">---Pilih Dinamika Target---</option>
+                                                            <!-- @foreach ($dinamika_target as $row)
+                                                                <option value="{{ $row->id }}">{{ $row->dinamika_teramati }}</option>
+                                                            @endforeach -->
+                                                        </select>
+                                                        @error('infiltration_dinamika_target_id')
+                                                        <p class="text-danger">{{ $message }}</p>
+                                                        @enderror
+                                                    </div>
+
+                                                    
+                                                    
+                                                </div>
+                                               
+                                                <div class="row mb-7">
+                                                   <div class="form-group col-md-12">
+                                                        <label for="hasil_yang_dicapai"
+                                                               class="fs-6 fw-semibold mb-2 required">Hasil Yang Dicapai</label>
+                                                        <textarea
+                                                            class="form-control form-control-solid @error('hasil_yang_dicapai') is-invalid @enderror"
+                                                            name="hasil_yang_dicapai" id="hasil_yang_dicapai">{{ old('hasil_yang_dicapai') }}</textarea>
+                                                        @error('hasil_yang_dicapai')
+                                                        <p class="text-danger">{{ $message }}</p>
+                                                        @enderror
+                                                    </div>
+                                                </div>
+
+                                                 <div class="row mb-7">
+                                                    <div class="form-group col-md-12">
+                                                        <label for="upload_hasil_yang_dicapai"
+                                                               class="fs-6 fw-semibold mb-2 required">Upload File Dokumen
+                                                            </label>
+                                                        <input
+                                                            class="form-control form-control-solid @error('upload_hasil_yang_dicapai') is-invalid @enderror"
+                                                            name="upload_hasil_yang_dicapai"
+                                                            type="file"
+                                                            id="upload_hasil_yang_dicapai"
+                                                            value="{{ old('upload_hasil_yang_dicapai') }}">
+                                                        @error('upload_hasil_yang_dicapai')
+                                                        <p class="text-danger">{{ $message }}</p>
+                                                        @enderror
+                                                    </div>
+                                                </div>
+
+                                                <input type="hidden" name="submit_type" id="submit_type" value="">
+                                                <div class="row">
+                                                    <div class="col-md-1">
+                                                        <button
+                                                            class="btn btn-dark waves-effect waves-classic waves-effect waves-classic"
+                                                            onclick="setSubmitType('save')"
+                                                            type="submit">Simpan
+                                                        </button>
+                                                    </div>
+                                                    <div class="col-md-4">
+                                                        <button
+                                                            class="btn btn-dark waves-effect waves-classic waves-effect waves-classic"
+                                                            onclick="setSubmitType('save_and_finish')"
+                                                            type="submit">Simpan dan Selesai
+                                                        </button>
+                                                       
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @push('js')
+        <script>
+            function setSubmitType(type) {
+                document.getElementById('submit_type').value = type;
+            }
+        </script>
+        <script type="module">
+            document.onreadystatechange = function () {
+                if (document.readyState === 'complete') {
+                    $('.select').select2();
+
+                    ClassicEditor
+                        .create(document.querySelector('#hasil_yang_dicapai'),{
+                            ckfinder: {
+                                uploadUrl: "{{route('ckeditor.upload').'?_token='.csrf_token()}}",
+                            }
+                        })
+                        .catch(error => {
+                            console.error(error);
+                        });
+                }
+            };
+
+            $('#id_satker').change(function() {
+                var id_satker = $(this).val();
+                $('#id_case').empty();
+                $('#id_case').append('<option value="">---Pilih Kasus---</option>');
+                $('#infiltration_operasi_rahasia_id').empty();
+                $('#infiltration_operasi_rahasia_id').append('<option value="">---Pilih Operasi Rahasia---</option>');
+                $('#infiltration_dinamika_target_id').empty();
+                $('#infiltration_dinamika_target_id').append('<option value="">---Pilih Dinamika Target---</option>');
+
+                $.ajax({
+                    url: '/close/helper-case', 
+                    type: 'GET',
+                    data: {satker_id: id_satker},
+                    success: function(response) {
+
+                        $.each(response, function(key, value) {
+                            $('#id_case').append('<option value="' + value.id + '">' + value.text + '</option>');
+                        });
+
+                        $('#id_case').select2();
+                    }
+                });
+            });
+
+            $('#id_case, #id_satker').change(function() {
+                    var case_id = $(this).val();
+                    $('#infiltration_operasi_rahasia_id').empty();
+                    $('#infiltration_operasi_rahasia_id').append('<option value="">---Pilih Operasi Rahasia---</option>');
+                    $('#infiltration_dinamika_target_id').empty();
+                    $('#infiltration_dinamika_target_id').append('<option value="">---Pilih Dinamika Target---</option>');
+                    // Make an AJAX request to your controller to retrieve the list of cases based on the selected case_id
+                    $.ajax({
+                        url: '/close/helper-infiltration-operasi-rahasia', // Replace this with the actual route to your controller
+                        type: 'GET',
+                        data: {case_id: case_id},
+                        success: function(response) {
+
+                            $.each(response, function(key, value) {
+                                $('#infiltration_operasi_rahasia_id').append('<option value="' + value.id + '">' + value.text + '</option>');
+                            });
+
+                            $('#infiltration_operasi_rahasia_id').select2(); // Reinitialize select2
+                        }
+                    });
+            });
+
+            
+
+            $('#infiltration_operasi_rahasia_id, #id_case, #id_satker').change(function() {
+                    var infiltration_operasi_rahasia_idd = $(this).val();
+                    $('#infiltration_dinamika_target_id').empty();
+                    $('#infiltration_dinamika_target_id').append('<option value="">---Pilih Dinamika Target---</option>');
+
+                    // Make an AJAX request to your controller to retrieve the list of cases based on the selected case_id
+                    $.ajax({
+                        url: '/close/helper-infiltration-dinamika-target', // Replace this with the actual route to your controller
+                        type: 'GET',
+                        data: {infiltration_operasi_rahasia_idd: infiltration_operasi_rahasia_idd},
+                        success: function(response) {
+
+                            $.each(response, function(key, value) {
+                                $('#infiltration_dinamika_target_id').append('<option value="' + value.id + '">' + value.text + '</option>');
+                            });
+
+                            $('#infiltration_dinamika_target_id').select2(); // Reinitialize select2
+                        }
+                    });
+            });
+
+        </script>
+    @endpush
+</x-backoffice.layout.app-layout>

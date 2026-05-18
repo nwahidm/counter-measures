@@ -1,0 +1,233 @@
+[
+  {
+    "nama": "SYAHRIL, S.H.,M.H",
+    "nip": "197812232003121004",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Aceh",
+    "nrp": "60478001",
+    "id_satker": 2
+  },
+  {
+    "nama": "INDRA AHMADI EFENDI HASIBUAN, S.H.",
+    "nip": "197801142002121002",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Sumatera Utara",
+    "nrp": "403780080",
+    "id_satker": 28
+  },
+  {
+    "nama": "ANTONIUS SAHAT TUA HARO, S.H.",
+    "nip": "198206072006031002",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Sumatera Barat",
+    "nrp": "60682380",
+    "id_satker": 66
+  },
+  {
+    "nama": "SIMON, S.H.M.H.",
+    "nip": "197904132005011009",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Riau",
+    "nrp": "60579002",
+    "id_satker": 89
+  },
+  {
+    "nama": "HERIKA IBRA MACHDERI, S.H., M.H.",
+    "nip": "197701212003121005",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Jambi",
+    "nrp": "60477074",
+    "id_satker": 102
+  },
+  {
+    "nama": "DIAN MARVITA, S.H.",
+    "nip": "197503201994031003",
+    "jabatan": "Kepala Seksi IDEOLOGI, POLITIK,PERTAHANAN DAN KEAMANAN",
+    "nrp": "49475115",
+    "id_satker": 115
+  },
+  {
+    "nama": "OKI PERMANA, S.H.",
+    "nip": "197810032002121003",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Bengkulu",
+    "nrp": "60378025",
+    "id_satker": 131
+  },
+  {
+    "nama": "MOCHAMMAD NURUL HIDAYAT, S.H.",
+    "nip": "197909022003121002",
+    "jabatan": "KEPALA SEKSI IDEOLOGI, POLITIK,PERTAHANAN DAN KEAMANAN",
+    "nrp": "60479117",
+    "id_satker": 142
+  },
+  {
+    "nama": "ARIO WAHYU HAPSORO, S.H., M.H.",
+    "nip": "198108312005011004",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Dki Jakarta",
+    "nrp": "60581082",
+    "id_satker": 158
+  },
+  {
+    "nama": "SINGGIH KURNIAWAN, S.H., M.H.",
+    "nip": "198206272006031001",
+    "jabatan": "KEPALA SEKSI IDEOLOGI, POLITIK,PERTAHANAN DAN KEAMANAN",
+    "nrp": "60682436",
+    "id_satker": 164
+  },
+  {
+    "nama": "FAETONY YOSY ABDULLAH, S.H.",
+    "nip": "197701312000121002",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Jawa Tengah",
+    "nrp": "60177249",
+    "id_satker": 190
+  },
+  {
+    "nama": "AGUS ARI WIBOWO, S.H.",
+    "nip": "197708022003121005",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi D.I Yogyakarta",
+    "nrp": "60477155",
+    "id_satker": 228
+  },
+  {
+    "nama": "TEGUH SUKEMI, S.H., M.H.",
+    "nip": "198205102008121001",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Jawa Timur",
+    "nrp": "600982757",
+    "id_satker": 234
+  },
+  {
+    "nama": "FERDIANSYAH, S.H., M.H.",
+    "nip": "197802212001121004",
+    "jabatan": "KEPALA SEKSI IDEOLOGI, POLITIK, PERTAHANAN DAN KEAMANAN (A) PADA ASISTEN BIDANG INTELIJEN KEJAKSAAN TINGGI KALIMANTAN BARAT",
+    "nrp": "60278133",
+    "id_satker": 273
+  },
+  {
+    "nama": "ALI MUKHTAR, S.H.",
+    "nip": "197003171991031010",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Kalimantan Tengah",
+    "nrp": "39170137",
+    "id_satker": 287
+  },
+  {
+    "nama": "KHALID SARDI HATAPAYO, S.H.",
+    "nip": "197802232002121002",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Kalimantan Selatan",
+    "nrp": "60378301",
+    "id_satker": 303
+  },
+  {
+    "nama": "RUDY TALANIPA, S.H., M.H.",
+    "nip": "197407262000121002",
+    "jabatan": "Kepala Seksi IDEOLOGI, POLITIK,PERTAHANAN DAN KEAMANAN",
+    "nrp": "60174206",
+    "id_satker": 317
+  },
+  {
+    "nama": "IWAN KURNIAWAN, S.H.",
+    "nip": "197701312001121001",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Sulawesi Utara",
+    "nrp": "60277280",
+    "id_satker": 331
+  },
+  {
+    "nama": "ARMADHA TANGDIBALI, S.H., M.H.",
+    "nip": "197012161999031001",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Sulawesi Tengah",
+    "nrp": "69970156",
+    "id_satker": 346
+  },
+  {
+    "nama": "EKI MOHAMMAD HASIM, S.H.",
+    "nip": "196607041992031002",
+    "jabatan": "Kepala Seksi IDEOLOGI, POLITIK,PERTAHANAN DAN KEAMANAN",
+    "nrp": "49266147",
+    "id_satker": 371
+  },
+  {
+    "nama": "ARDIANSAH AKBAR, S.H., M.H.",
+    "nip": "198102232007031001",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Sulawesi Selatan",
+    "nrp": "60781314",
+    "id_satker": 382
+  },
+  {
+    "nama": "I DEWA GEDE BASKARA HARYASA, S.H.",
+    "nip": "197610152003121006",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Bali",
+    "nrp": "60476337",
+    "id_satker": 416
+  },
+  {
+    "nama": "RULY HARYANDRA, S.H., M.H.",
+    "nip": "197701312003121002",
+    "jabatan": "KEPALA SEKSI IDEOLOGI, POLITIK,PERTAHANAN DAN KEAMANAN",
+    "nrp": "60477046",
+    "id_satker": 427
+  },
+  {
+    "nama": "ALBOIN MAURICIO BLEGUR, S.H., M.H.",
+    "nip": "197206071994031006",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Nusa Tenggara Timur",
+    "nrp": "49472413",
+    "id_satker": 435
+  },
+  {
+    "nama": "KAREL SAMPE, S.H., M.H.",
+    "nip": "197906192006031001",
+    "jabatan": "KEPALA SEKSI IDEOLOGI, POLITIK,PERTAHANAN DAN KEAMANAN",
+    "nrp": "60679366",
+    "id_satker": 455
+  },
+  {
+    "nama": "BOBBY OKTAVIAN JEVERSON SELANG, S.H.",
+    "nip": "197710212003121004",
+    "jabatan": "Kepala Seksi IDEOLOGI, POLITIK,PERTAHANAN DAN KEAMANAN",
+    "nrp": "60477267",
+    "id_satker": 470
+  },
+  {
+    "nama": "SAFRI ABDUL MUIN, S.H., M.H.",
+    "nip": "197905132003121003",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Maluku Utara",
+    "nrp": "60479391",
+    "id_satker": 478
+  },
+  {
+    "nama": "Dr. TEDI NOPRIADI, S.H., M.H.",
+    "nip": "198311292002121003",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Banten",
+    "nrp": "403830385",
+    "id_satker": 489
+  },
+  {
+    "nama": "FARID ANFASYA, S.H., M.H.",
+    "nip": "198407192007031001",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Kepulauan Bangka Belitung",
+    "nrp": "60784095",
+    "id_satker": 497
+  },
+  {
+    "nama": "I DEWA  KETUT AGUNG IUDARA, S.H.",
+    "nip": "197201022000031006",
+    "jabatan": "Kepala Seksi IDEOLOGI, POLITIK,PERTAHANAN DAN KEAMANAN",
+    "nrp": "60072180",
+    "id_satker": 506
+  },
+  {
+    "nama": "AKA SAIDI, S.H.",
+    "nip": "196708031988031001",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Kepulauan Riau",
+    "nrp": "48867181",
+    "id_satker": 513
+  },
+  {
+    "nama": "ABDUL RAHMAN MORRA, S.H., M.H.",
+    "nip": "196802271991031002",
+    "jabatan": "Kepala Seksi Ideologi, Politik, Pertahanan dan Keamanan pada Asisten Bidang Intelijen Kejaksaan Tinggi Sulawesi Barat",
+    "nrp": "49168246",
+    "id_satker": 523
+  },
+  {
+    "nama": "MATHYS ADRIEN RAHANRA, S.H., M.H",
+    "nip": "197807292002121002",
+    "jabatan": "KEPALA SEKSI IDEOLOGI, POLITIK,PERTAHANAN DAN KEAMANAN",
+    "nrp": "60378303",
+    "id_satker": 529
+  }
+]

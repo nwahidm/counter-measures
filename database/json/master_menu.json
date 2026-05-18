@@ -1,0 +1,1141 @@
+[
+  {
+    "name" : "IN",
+    "description" : "IN",
+    "route_name" : null,
+    "route_url" : "#",
+    "group" : "LAPORANPANIL",
+    "asset" : {
+        "icon" : "",
+        "icon_color" : "#000",
+        "background_color" : "#fff"
+    },
+    "child" : [
+        {
+            "route_name": null,
+            "name": "IN.1",
+            "description": "SURAT PERINTAH TUGAS",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.2",
+            "description": "SURAT PERINTAH PENGAMANAN PEMBANGUNAN STRATEGIS (PPS)",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.3",
+            "description": "SURAT PERINTAH OPERASI INTELIJEN",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.4",
+            "description": "ANALISA SASARAN",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.5",
+            "description": "ANALISA TUGAS",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.6",
+            "description": "TARGET OPERASI",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.7",
+            "description": "RENCANA PENYELIDIKAN",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.8",
+            "description": "RENCANA PENGAMANAN/RENCANA PENGGALANGAN",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.9",
+            "description": "SURAT DINAS PERMINTAAN KETERANGAN",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.10",
+            "description": "BERITA ACARA PERMINTAAN KETERANGAN",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.11",
+            "description": "CATATAN WAWANCARA",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.12",
+            "description": "SURAT UNDANGAN PAPARAN PENGAWALAN DAN PENGAMANAN PEMERINTAHAN DAN PEMBANGUNAN STRATEGIS",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.13",
+            "description": "SURAT PERSETUJUAN PENGAWALAN DAN PENGAMANAN PELAKSANAAN PROYEK STRATEGIS",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.14.",
+            "description": "SURAT PEMBERITAHUAN PERMOHONAN PENGAWALAN DAN PENGAMANAN PELAKSANAAN PROYEK STRATEGIS TIDAK DAPAT DITINDAKLANJUTI",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.15",
+            "description": "SURAT PERMINTAAN PERKEMBANGAN KEGIATAN PENGAWALAN DAN PENGAMANAN PROYEK STRATEGIS",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.16",
+            "description": "SURAT PEMBERHENTIAN PENGAWALAN DAN PENGAMANAN",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.17",
+            "description": "SURAT PEMEBRITAHUAN PENGAWALAN DAN PENGAMANAN TELAH SELESAI",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.18",
+            "description": "SURAT KOORDINASI PELAKSANAAN PENGAWALAN DAN PENGAMANAN",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.19",
+            "description": "SURAT PERMOHONAN PEMANTAUAN",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.20",
+            "description": "SURAT KETERANGAN MEMBAWA PERALATAN INTELIJEN",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.21",
+            "description": "SURAT PERINTAH (KEGIATAN PENERANGAN HUKUM)",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.22",
+            "description": "ANALISA BERITA",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": null,
+            "name": "IN.23",
+            "description": "TANDA TERIMA PENYAMPAIAN INFORMASI PADA PPH DAN PPM",
+            "route_url": "#",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        }
+    ]           
+  },
+
+  {
+      "name" : "LIN",
+      "description" : "LIN",
+      "route_name" : null,
+      "route_url" : "#",
+      "group" : "LAPORANPANIL",
+      "asset" : {
+          "icon" : "",
+          "icon_color" : "#000",
+          "background_color" : "#fff"
+      },
+      "child" : [
+        {
+            "route_name": "lapinhar.index",
+            "name": "L.IN.1",
+            "description": "LAPORAN INFORMASI HARIAN",
+            "route_url": "/lapinhar",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "lisus.index",
+            "name": "L.IN.2",
+            "description": "LAPORAN INFORMASI KHUSUS",
+            "route_url": "/lisus",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "lapinsus.index",
+            "name": "L.IN.3",
+            "description": "LAPORAN INTELIJEN KHUSUS",
+            "route_url": "/lapinsus",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "laphastug.index",
+            "name": "L.IN.4",
+            "description": "LAPORAN HASIL PELAKSANAAN TUGAS",
+            "route_url": "/laphastug",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "lapopsin.index",
+            "name": "L.IN.5",
+            "description": "LAPORAN OPERASI INTELIJEN",
+            "route_url": "/lapopsin",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "lapatensi.index",
+            "name": "L.IN.6",
+            "description": "LAPORAN ATENSI",
+            "route_url": "/lapatensi",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "telaahan-intelijen.index",
+            "name": "L.IN.7",
+            "description": "TELAAHAN INTELIJEN",
+            "route_url": "/telaahan-intelijen",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "perkiraan-keadaan-intelijen.index",
+            "name": "L.IN.8",
+            "description": "PERKIRAAN KEADAAN INTELIJEN",
+            "route_url": "/perkiraan-keadaan-intelijen",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "troopinfo.index",
+            "name": "L.IN.9",
+            "description": "TROOP INFO",
+            "route_url": "/troopinfo",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "pelaksanaan_tugas.index",
+            "name": "L.IN.10",
+            "description": "LAPORAN BULANAN PELAKSANAAN TUGAS",
+            "route_url": "/pelaksanaan_tugas",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "sprintug.index",
+            "name": "L.IN.11",
+            "description": "LAPORAN REKAPITULASI SURAT PERINTAH TUGAS",
+            "route_url": "/sprintug",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "operasi_intel.index",
+            "name": "L.IN.12",
+            "description": "LAPORAN PELAKSANAAN OPERASI INTELIJEN",
+            "route_url": "/operasi_intel",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "perwakilan-kejaksaan.index",
+            "name": "L.IN.13",
+            "description": "LAPORAN REKAPITULASI OPERASI INTELIJEN",
+            "route_url": "/perwakilan-kejaksaan",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "lapbul-cekal.index",
+            "name": "L.IN.14",
+            "description": "LAPORAN PENCEGAHAN DAN PENANGKALAN",
+            "route_url": "/lapbul-cekal",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "lapbul_orang_asing.index",
+            "name": "L.IN.15",
+            "description": "LAPORAN PENGAWASAN LALU LINTAS ORANG ASING",
+            "route_url": "/lapbul_orang_asing",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "laporan-perkara-warga-asing.index",
+            "name": "L.IN.16",
+            "description": "LAPORAN WARGA NEGARA ASING YANG TERLIBAT TINDAK PIDANA",
+            "route_url": "/laporan-perkara-warga-asing",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "lapbul_sdo.index",
+            "name": "L.IN.17",
+            "description": "LAPORAN PENGAMANAN SUMBER DAYA ORGANISASI KEJAKSAAN DAN PENGAMANAN PENANGANAN PERKARA",
+            "route_url": "/lapbul_sdo",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "pengawasan-barang-cetak.index",
+            "name": "L.IN.18",
+            "description": "LAPORAN PENGAWASAN BARANG CETAKAN",
+            "route_url": "/pengawasan-barang-cetak",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "pengawasan-media-komunikasi.index",
+            "name": "L.IN.19",
+            "description": "LAPORAN PENGAWASAN MEDIA KOMUNIKASI",
+            "route_url": "/pengawasan-media-komunikasi",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "wasbatra.index",
+            "name": "L.IN.20",
+            "description": "LAPORAN PENGOBATAN TRADISIONAL",
+            "route_url": "/wasbatra",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "pakem.index",
+            "name": "L.IN.21",
+            "description": "LAPORAN PENGAWASAN ALIRAN KEPERCAYAAN MASYARAKAT",
+            "route_url": "/pakem",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "waslirag.index",
+            "name": "L.IN.22",
+            "description": "LAPORAN PENGAWASAN ALIRAN KEAGAMAAN",
+            "route_url": "/waslirag",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "wasormas.index",
+            "name": "L.IN.23",
+            "description": "LAPORAN PENGAWASAN ORGANISASI KEMASYARAKATAN",
+            "route_url": "/wasormas",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "tibtramum.index",
+            "name": "L.IN.24",
+            "description": "LAPORAN KETERTIBAN DAN KENTERAMAN UMUM",
+            "route_url": "/tibtramum",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "mastaathukum.index",
+            "name": "L.IN.25",
+            "description": "LAPORAN PEMBINAAN MASYARAKAT TAAT HUKUM",
+            "route_url": "/mastaathukum",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "cegahkonfliksos.index",
+            "name": "L.IN.26",
+            "description": "LAPORAN PENCEGAHAN KONFLIK SOSIAL",
+            "route_url": "/cegahkonfliksos",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "perwakilan-kejaksaan.index",
+            "name": "L.IN.27",
+            "description": "LAPORAN POSKO PERWAKILAN KEJAKSAAN",
+            "route_url": "/perwakilan-kejaksaan",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "laporan-pps.index",
+            "name": "L.IN.28",
+            "description": "LAPORAN KEGIATAN PENGAWALAN DAN PENGAMANAN PEMBANGUNAN STRATEGIS",
+            "route_url": "/laporan-pps",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        },
+        {
+            "route_name": "laporan-tabur.index",
+            "name": "L.IN.29",
+            "description": "LAPORAN TANGKAP BURONAN",
+            "route_url": "/laporan-tabur",
+            "group": "LAPORANPANIL",
+            "asset": {
+                "icon": "",
+                "icon_color": "#ffff",
+                "background_color": "#fff"
+            }
+        }
+    ]             
+  },
+
+  {
+      "name" : "RIN",
+      "description" : "RIN",
+      "route_name" : null,
+      "route_url" : "#",
+      "group" : "LAPORANPANIL",
+      "asset" : {
+          "icon" : "",
+          "icon_color" : "#000",
+          "background_color" : "#fff"
+      },
+      "child" : [
+        {
+           "route_name":null,
+           "name":"R.IN.1",
+           "description":"REGISTER SURAT MASUK BIASA/RAHASIA",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.2",
+           "description":"REGISTER SURAT KELUAR BIASA/RAHASIA",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.3",
+           "description":"REGISTER KERJA INTELIJEN",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.4",
+           "description":"REGISTER EKSPEDISI SURAT BIASA/RAHASI",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.5",
+           "description":"REGISTER PRODUK INTELIJEN",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.6",
+           "description":"REGISTER ARSIP",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.7",
+           "description":"REGISTER KEGIATAN BIDANG IDEOLOGI, POLITIK, PERTAHANAN, DAN KEAMANAN, CEGAH TANGKAL DAN PENGAWASAN ORANG ASING, PENGAMANAN SUMBER DAYA ORGANISASI KEJAKSAAN DAN PENGAMANAN PENANGANAN PERKARA",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.8",
+           "description":"REGISTER KEGIATAN BIDANG SOSIAL BUDAYA DAN KEMASYARAKATAN",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.9",
+           "description":"REGISTER KEGIATAN BIDANG EKONOMI DAN KEUANGAN",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.10",
+           "description":"REGISTER KEGIATAN BIDANG PENGAMANAN PEMBANGUNAN STRATEGIS",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.11",
+           "description":"REGISTER KEGIATAN BIDANG TEKNOLOGI INFORMASI DAN PRODUKSI INTELIJEN",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.12",
+           "description":"REGISTER OPERASI INTELIJEN BIDANG IDEOLOGI, POLITIK, PERTAHANAN, DAN KEAMANAN, CEGAH TANGKAL DAN PENGAWASAN ORANG ASING, PENGAMANAN SUMBER DAYA ORGANISASI KEJAKSAAN DAN PENGAMANAN PENANGANAN PERKARA",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.13",
+           "description":"REGISTER OPERASI INTELIJEN BIDANG SOSIAL BUDAYA DAN KEMASYARAKATAN",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.14",
+           "description":"REGISTER OPERASI INTELIJEN BIDANG EKONOMI DAN KEUANGAN",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.15",
+           "description":"REGISTER OPERASI INTELIJEN BIDANG PENGAMANAN PEMBANGUNAN STRATEGIS",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.16",
+           "description":"REGISTER OPERASI INTELIJEN BIDANG TEKNOLOGI INFORMASI DAN PRODUKSI INTELIJEN",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.17",
+           "description":"REGISTER BERITA MASUK BIASA/RAHASIA",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.18",
+           "description":"REGISTER BERITA KELUAR BIASA/RAHASIA",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.19",
+           "description":"REGISTER TELAAHAN INTELIJEN",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.20",
+           "description":"REGISTER EKSPEDISI BERITA BIASA/RAHASIA",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.21",
+           "description":"REGISTER TAMU POS PELAYANAN HUKUM 9PPH) DAN PENERIMAAN PENGADUAN MASYARAKAT (PPM)",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        },
+        {
+           "route_name":null,
+           "name":"R.IN.22",
+           "description":"REGISTER PELAKSANAAN KEGIATAN PENERANGAN HUKUM DAN PENYULUHAN HUKUM",
+           "route_url":"#",
+           "group":"LAPORANPANIL",
+           "asset":{
+              "icon":"",
+              "icon_color":"#ffff",
+              "background_color":"#fff"
+           }
+        }
+     ]         
+  },
+
+  {
+    "name" : "DIN",
+    "description" : "DIN",
+    "route_name" : null,
+    "route_url" : "#",
+    "group" : "LAPORANPANIL",
+    "asset" : {
+        "icon" : "",
+        "icon_color" : "#000",
+        "background_color" : "#fff"
+    },
+    "child" : [
+      {
+         "route_name":null,
+         "name":"D.IN.1",
+         "description":"DATA PETA",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.2",
+         "description":"PETA DAN SIMBOL SEKTOR PDA BIDANG IDEOLOGI, POLITIK PERTAHANAN DAN KEAMANAN",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.3",
+         "description":"PETA DAN SIMBOL SEKTOR PADA BIDANG SOSIAL, BUDAYA DAN KEMASYARAKATAN",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.4",
+         "description":"PETA DAN SIMBOL SEKTOR PDA BIDANG EKONOMI DAN KEUANGAN",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.5",
+         "description":"PETA DAN SIMBOL SEKTOR PADA BIDANG PENGAMANA PEMBANGUNAN STRATEGIS",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.6",
+         "description":"PETA DAN SIMBOL SEKTOR PADA BIDANG TEKNOLOGI INFORMASI DAN PRODUKSI INTELIJEN",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.7",
+         "description":"DATA PELAKSANAAN KEGIATAN PENERANGAN HUKUM DAN PENYULUHAN HUKUM",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.8",
+         "description":"DAT FOTO DOKUMENTASI KEGIATAN PENERANGAN HUKUM DAN PENYULUHAN HUKUM",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.9",
+         "description":"DATA GRAFIK BATANG KEGIATAN PENERANGAN HUKUM DAN PENYULUHAN HUKUM",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.10",
+         "description":"FORMULIR DATA ORANG ASING",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.11",
+         "description":"DATA GRAFIK",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.12",
+         "description":"KARTU TIK BIODATA",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.13",
+         "description":"KARTU TIK BARANG CETAKAN",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.14",
+         "description":"KARTU TIK ORGANISASI",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.15",
+         "description":"KARTU TIK TERSANGKA/TERDAKWA/TERPIDANA",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      },
+      {
+         "route_name":null,
+         "name":"D.IN.16",
+         "description":"KARTU TIK PENGAWASAN MEDIA KOMUNIKASI",
+         "route_url":"#",
+         "group":"LAPORANPANIL",
+         "asset":{
+            "icon":"",
+            "icon_color":"#ffff",
+            "background_color":"#fff"
+         }
+      }
+   ]         
+  }
+]

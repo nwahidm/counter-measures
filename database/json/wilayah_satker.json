@@ -1,0 +1,2470 @@
+[
+  {
+    "id_satker": 32,
+    "id_wilayah": 6132
+  },
+  {
+    "id_satker": 58,
+    "id_wilayah": 6825
+  },
+  {
+    "id_satker": 38,
+    "id_wilayah": 8503
+  },
+  {
+    "id_satker": 41,
+    "id_wilayah": 8599
+  },
+  {
+    "id_satker": 58,
+    "id_wilayah": 9386
+  },
+  {
+    "id_satker": 38,
+    "id_wilayah": 11253
+  },
+  {
+    "id_satker": 45,
+    "id_wilayah": 11342
+  },
+  {
+    "id_satker": 45,
+    "id_wilayah": 11455
+  },
+  {
+    "id_satker": 32,
+    "id_wilayah": 11768
+  },
+  {
+    "id_satker": 45,
+    "id_wilayah": 11974
+  },
+  {
+    "id_satker": 74,
+    "id_wilayah": 12250
+  },
+  {
+    "id_satker": 67,
+    "id_wilayah": 12474
+  },
+  {
+    "id_satker": 13,
+    "id_wilayah": 251
+  },
+  {
+    "id_satker": 16,
+    "id_wilayah": 613
+  },
+  {
+    "id_satker": 9,
+    "id_wilayah": 1096
+  },
+  {
+    "id_satker": 10,
+    "id_wilayah": 1374
+  },
+  {
+    "id_satker": 22,
+    "id_wilayah": 1676
+  },
+  {
+    "id_satker": 5,
+    "id_wilayah": 2244
+  },
+  {
+    "id_satker": 6,
+    "id_wilayah": 2673
+  },
+  {
+    "id_satker": 15,
+    "id_wilayah": 2922
+  },
+  {
+    "id_satker": 18,
+    "id_wilayah": 3716
+  },
+  {
+    "id_satker": 14,
+    "id_wilayah": 3965
+  },
+  {
+    "id_satker": 23,
+    "id_wilayah": 4529
+  },
+  {
+    "id_satker": 21,
+    "id_wilayah": 4674
+  },
+  {
+    "id_satker": 19,
+    "id_wilayah": 4808
+  },
+  {
+    "id_satker": 24,
+    "id_wilayah": 4971
+  },
+  {
+    "id_satker": 17,
+    "id_wilayah": 5181
+  },
+  {
+    "id_satker": 25,
+    "id_wilayah": 5387
+  },
+  {
+    "id_satker": 26,
+    "id_wilayah": 5606
+  },
+  {
+    "id_satker": 4,
+    "id_wilayah": 5903
+  },
+  {
+    "id_satker": 7,
+    "id_wilayah": 5923
+  },
+  {
+    "id_satker": 8,
+    "id_wilayah": 5986
+  },
+  {
+    "id_satker": 27,
+    "id_wilayah": 6051
+  },
+  {
+    "id_satker": 28,
+    "id_wilayah": 6131
+  },
+  {
+    "id_satker": 42,
+    "id_wilayah": 6345
+  },
+  {
+    "id_satker": 69,
+    "id_wilayah": 12683
+  },
+  {
+    "id_satker": 43,
+    "id_wilayah": 6464
+  },
+  {
+    "id_satker": 63,
+    "id_wilayah": 6585
+  },
+  {
+    "id_satker": 48,
+    "id_wilayah": 6989
+  },
+  {
+    "id_satker": 49,
+    "id_wilayah": 7170
+  },
+  {
+    "id_satker": 39,
+    "id_wilayah": 7260
+  },
+  {
+    "id_satker": 40,
+    "id_wilayah": 7389
+  },
+  {
+    "id_satker": 34,
+    "id_wilayah": 7597
+  },
+  {
+    "id_satker": 35,
+    "id_wilayah": 7801
+  },
+  {
+    "id_satker": 47,
+    "id_wilayah": 7894
+  },
+  {
+    "id_satker": 46,
+    "id_wilayah": 8295
+  },
+  {
+    "id_satker": 52,
+    "id_wilayah": 8884
+  },
+  {
+    "id_satker": 53,
+    "id_wilayah": 9000
+  },
+  {
+    "id_satker": 54,
+    "id_wilayah": 9123
+  },
+  {
+    "id_satker": 55,
+    "id_wilayah": 9277
+  },
+  {
+    "id_satker": 59,
+    "id_wilayah": 9449
+  },
+  {
+    "id_satker": 57,
+    "id_wilayah": 9887
+  },
+  {
+    "id_satker": 61,
+    "id_wilayah": 10036
+  },
+  {
+    "id_satker": 56,
+    "id_wilayah": 10166
+  },
+  {
+    "id_satker": 60,
+    "id_wilayah": 10401
+  },
+  {
+    "id_satker": 62,
+    "id_wilayah": 10548
+  },
+  {
+    "id_satker": 64,
+    "id_wilayah": 10910
+  },
+  {
+    "id_satker": 72,
+    "id_wilayah": 13322
+  },
+  {
+    "id_satker": 37,
+    "id_wilayah": 11788
+  },
+  {
+    "id_satker": 29,
+    "id_wilayah": 11556
+  },
+  {
+    "id_satker": 30,
+    "id_wilayah": 11822
+  },
+  {
+    "id_satker": 44,
+    "id_wilayah": 11898
+  },
+  {
+    "id_satker": 66,
+    "id_wilayah": 12071
+  },
+  {
+    "id_satker": 79,
+    "id_wilayah": 12072
+  },
+  {
+    "id_satker": 80,
+    "id_wilayah": 12083
+  },
+  {
+    "id_satker": 75,
+    "id_wilayah": 12254
+  },
+  {
+    "id_satker": 81,
+    "id_wilayah": 12330
+  },
+  {
+    "id_satker": 77,
+    "id_wilayah": 12394
+  },
+  {
+    "id_satker": 82,
+    "id_wilayah": 12584
+  },
+  {
+    "id_satker": 107,
+    "id_wilayah": 16704
+  },
+  {
+    "id_satker": 83,
+    "id_wilayah": 12595
+  },
+  {
+    "id_satker": 71,
+    "id_wilayah": 12684
+  },
+  {
+    "id_satker": 120,
+    "id_wilayah": 17851
+  },
+  {
+    "id_satker": 70,
+    "id_wilayah": 12717
+  },
+  {
+    "id_satker": 78,
+    "id_wilayah": 12767
+  },
+  {
+    "id_satker": 84,
+    "id_wilayah": 12834
+  },
+  {
+    "id_satker": 87,
+    "id_wilayah": 12882
+  },
+  {
+    "id_satker": 88,
+    "id_wilayah": 12940
+  },
+  {
+    "id_satker": 85,
+    "id_wilayah": 12983
+  },
+  {
+    "id_satker": 86,
+    "id_wilayah": 12984
+  },
+  {
+    "id_satker": 67,
+    "id_wilayah": 13075
+  },
+  {
+    "id_satker": 73,
+    "id_wilayah": 13194
+  },
+  {
+    "id_satker": 120,
+    "id_wilayah": 19583
+  },
+  {
+    "id_satker": 76,
+    "id_wilayah": 13231
+  },
+  {
+    "id_satker": 68,
+    "id_wilayah": 13248
+  },
+  {
+    "id_satker": 89,
+    "id_wilayah": 13390
+  },
+  {
+    "id_satker": 91,
+    "id_wilayah": 13635
+  },
+  {
+    "id_satker": 93,
+    "id_wilayah": 13822
+  },
+  {
+    "id_satker": 94,
+    "id_wilayah": 13972
+  },
+  {
+    "id_satker": 99,
+    "id_wilayah": 14203
+  },
+  {
+    "id_satker": 96,
+    "id_wilayah": 14321
+  },
+  {
+    "id_satker": 100,
+    "id_wilayah": 14468
+  },
+  {
+    "id_satker": 98,
+    "id_wilayah": 14783
+  },
+  {
+    "id_satker": 90,
+    "id_wilayah": 15103
+  },
+  {
+    "id_satker": 92,
+    "id_wilayah": 15191
+  },
+  {
+    "id_satker": 102,
+    "id_wilayah": 15231
+  },
+  {
+    "id_satker": 108,
+    "id_wilayah": 15507
+  },
+  {
+    "id_satker": 109,
+    "id_wilayah": 16121
+  },
+  {
+    "id_satker": 106,
+    "id_wilayah": 16350
+  },
+  {
+    "id_satker": 2,
+    "id_wilayah": 82197
+  },
+  {
+    "id_satker": 3,
+    "id_wilayah": 82887
+  },
+  {
+    "id_satker": 33,
+    "id_wilayah": 83078
+  },
+  {
+    "id_satker": 51,
+    "id_wilayah": 83215
+  },
+  {
+    "id_satker": 31,
+    "id_wilayah": 83544
+  },
+  {
+    "id_satker": 36,
+    "id_wilayah": 83560
+  },
+  {
+    "id_satker": 95,
+    "id_wilayah": 83730
+  },
+  {
+    "id_satker": 97,
+    "id_wilayah": 83871
+  },
+  {
+    "id_satker": 104,
+    "id_wilayah": 84033
+  },
+  {
+    "id_satker": 105,
+    "id_wilayah": 84035
+  },
+  {
+    "id_satker": 103,
+    "id_wilayah": 84118
+  },
+  {
+    "id_satker": 11,
+    "id_wilayah": 82198
+  },
+  {
+    "id_satker": 136,
+    "id_wilayah": 20849
+  },
+  {
+    "id_satker": 148,
+    "id_wilayah": 23757
+  },
+  {
+    "id_satker": 519,
+    "id_wilayah": 24568
+  },
+  {
+    "id_satker": 519,
+    "id_wilayah": 24741
+  },
+  {
+    "id_satker": 160,
+    "id_wilayah": 24891
+  },
+  {
+    "id_satker": 160,
+    "id_wilayah": 24948
+  },
+  {
+    "id_satker": 188,
+    "id_wilayah": 26350
+  },
+  {
+    "id_satker": 179,
+    "id_wilayah": 27419
+  },
+  {
+    "id_satker": 188,
+    "id_wilayah": 30302
+  },
+  {
+    "id_satker": 179,
+    "id_wilayah": 30464
+  },
+  {
+    "id_satker": 248,
+    "id_wilayah": 47692
+  },
+  {
+    "id_satker": 114,
+    "id_wilayah": 15971
+  },
+  {
+    "id_satker": 112,
+    "id_wilayah": 16254
+  },
+  {
+    "id_satker": 113,
+    "id_wilayah": 16267
+  },
+  {
+    "id_satker": 115,
+    "id_wilayah": 16774
+  },
+  {
+    "id_satker": 118,
+    "id_wilayah": 16775
+  },
+  {
+    "id_satker": 117,
+    "id_wilayah": 16929
+  },
+  {
+    "id_satker": 121,
+    "id_wilayah": 17240
+  },
+  {
+    "id_satker": 122,
+    "id_wilayah": 18045
+  },
+  {
+    "id_satker": 125,
+    "id_wilayah": 18276
+  },
+  {
+    "id_satker": 129,
+    "id_wilayah": 18879
+  },
+  {
+    "id_satker": 130,
+    "id_wilayah": 19130
+  },
+  {
+    "id_satker": 126,
+    "id_wilayah": 19363
+  },
+  {
+    "id_satker": 127,
+    "id_wilayah": 19513
+  },
+  {
+    "id_satker": 116,
+    "id_wilayah": 19669
+  },
+  {
+    "id_satker": 123,
+    "id_wilayah": 19782
+  },
+  {
+    "id_satker": 124,
+    "id_wilayah": 19891
+  },
+  {
+    "id_satker": 131,
+    "id_wilayah": 19938
+  },
+  {
+    "id_satker": 135,
+    "id_wilayah": 19939
+  },
+  {
+    "id_satker": 133,
+    "id_wilayah": 20094
+  },
+  {
+    "id_satker": 138,
+    "id_wilayah": 20464
+  },
+  {
+    "id_satker": 137,
+    "id_wilayah": 20654
+  },
+  {
+    "id_satker": 140,
+    "id_wilayah": 21104
+  },
+  {
+    "id_satker": 490,
+    "id_wilayah": 49028
+  },
+  {
+    "id_satker": 132,
+    "id_wilayah": 21358
+  },
+  {
+    "id_satker": 142,
+    "id_wilayah": 21426
+  },
+  {
+    "id_satker": 145,
+    "id_wilayah": 21427
+  },
+  {
+    "id_satker": 150,
+    "id_wilayah": 21676
+  },
+  {
+    "id_satker": 153,
+    "id_wilayah": 22363
+  },
+  {
+    "id_satker": 154,
+    "id_wilayah": 22515
+  },
+  {
+    "id_satker": 155,
+    "id_wilayah": 22531
+  },
+  {
+    "id_satker": 151,
+    "id_wilayah": 22805
+  },
+  {
+    "id_satker": 152,
+    "id_wilayah": 23065
+  },
+  {
+    "id_satker": 157,
+    "id_wilayah": 23284
+  },
+  {
+    "id_satker": 156,
+    "id_wilayah": 23428
+  },
+  {
+    "id_satker": 149,
+    "id_wilayah": 23758
+  },
+  {
+    "id_satker": 428,
+    "id_wilayah": 50331
+  },
+  {
+    "id_satker": 143,
+    "id_wilayah": 23875
+  },
+  {
+    "id_satker": 144,
+    "id_wilayah": 23896
+  },
+  {
+    "id_satker": 146,
+    "id_wilayah": 24006
+  },
+  {
+    "id_satker": 158,
+    "id_wilayah": 24890
+  },
+  {
+    "id_satker": 159,
+    "id_wilayah": 24899
+  },
+  {
+    "id_satker": 161,
+    "id_wilayah": 24981
+  },
+  {
+    "id_satker": 163,
+    "id_wilayah": 25040
+  },
+  {
+    "id_satker": 164,
+    "id_wilayah": 25175
+  },
+  {
+    "id_satker": 184,
+    "id_wilayah": 25606
+  },
+  {
+    "id_satker": 181,
+    "id_wilayah": 25997
+  },
+  {
+    "id_satker": 170,
+    "id_wilayah": 26630
+  },
+  {
+    "id_satker": 177,
+    "id_wilayah": 27684
+  },
+  {
+    "id_satker": 183,
+    "id_wilayah": 28051
+  },
+  {
+    "id_satker": 178,
+    "id_wilayah": 28469
+  },
+  {
+    "id_satker": 176,
+    "id_wilayah": 28778
+  },
+  {
+    "id_satker": 175,
+    "id_wilayah": 29052
+  },
+  {
+    "id_satker": 180,
+    "id_wilayah": 29809
+  },
+  {
+    "id_satker": 186,
+    "id_wilayah": 30113
+  },
+  {
+    "id_satker": 167,
+    "id_wilayah": 30557
+  },
+  {
+    "id_satker": 432,
+    "id_wilayah": 51098
+  },
+  {
+    "id_satker": 428,
+    "id_wilayah": 51397
+  },
+  {
+    "id_satker": 168,
+    "id_wilayah": 30624
+  },
+  {
+    "id_satker": 165,
+    "id_wilayah": 30661
+  },
+  {
+    "id_satker": 172,
+    "id_wilayah": 30851
+  },
+  {
+    "id_satker": 185,
+    "id_wilayah": 30913
+  },
+  {
+    "id_satker": 189,
+    "id_wilayah": 30981
+  },
+  {
+    "id_satker": 190,
+    "id_wilayah": 31097
+  },
+  {
+    "id_satker": 198,
+    "id_wilayah": 31098
+  },
+  {
+    "id_satker": 204,
+    "id_wilayah": 31699
+  },
+  {
+    "id_satker": 206,
+    "id_wilayah": 32199
+  },
+  {
+    "id_satker": 205,
+    "id_wilayah": 32636
+  },
+  {
+    "id_satker": 210,
+    "id_wilayah": 33701
+  },
+  {
+    "id_satker": 200,
+    "id_wilayah": 33961
+  },
+  {
+    "id_satker": 215,
+    "id_wilayah": 34347
+  },
+  {
+    "id_satker": 216,
+    "id_wilayah": 34508
+  },
+  {
+    "id_satker": 214,
+    "id_wilayah": 34798
+  },
+  {
+    "id_satker": 207,
+    "id_wilayah": 34974
+  },
+  {
+    "id_satker": 209,
+    "id_wilayah": 35452
+  },
+  {
+    "id_satker": 199,
+    "id_wilayah": 36397
+  },
+  {
+    "id_satker": 212,
+    "id_wilayah": 36717
+  },
+  {
+    "id_satker": 208,
+    "id_wilayah": 37464
+  },
+  {
+    "id_satker": 211,
+    "id_wilayah": 38744
+  },
+  {
+    "id_satker": 195,
+    "id_wilayah": 39026
+  },
+  {
+    "id_satker": 201,
+    "id_wilayah": 39098
+  },
+  {
+    "id_satker": 192,
+    "id_wilayah": 39139
+  },
+  {
+    "id_satker": 194,
+    "id_wilayah": 39298
+  },
+  {
+    "id_satker": 111,
+    "id_wilayah": 84104
+  },
+  {
+    "id_satker": 119,
+    "id_wilayah": 84214
+  },
+  {
+    "id_satker": 134,
+    "id_wilayah": 84519
+  },
+  {
+    "id_satker": 141,
+    "id_wilayah": 84628
+  },
+  {
+    "id_satker": 162,
+    "id_wilayah": 85062
+  },
+  {
+    "id_satker": 174,
+    "id_wilayah": 85281
+  },
+  {
+    "id_satker": 182,
+    "id_wilayah": 85563
+  },
+  {
+    "id_satker": 169,
+    "id_wilayah": 85591
+  },
+  {
+    "id_satker": 197,
+    "id_wilayah": 86309
+  },
+  {
+    "id_satker": 213,
+    "id_wilayah": 86365
+  },
+  {
+    "id_satker": 203,
+    "id_wilayah": 86553
+  },
+  {
+    "id_satker": 191,
+    "id_wilayah": 86651
+  },
+  {
+    "id_satker": 128,
+    "id_wilayah": 18578
+  },
+  {
+    "id_satker": 202,
+    "id_wilayah": 35731
+  },
+  {
+    "id_satker": 139,
+    "id_wilayah": 84604
+  },
+  {
+    "id_satker": 171,
+    "id_wilayah": 85750
+  },
+  {
+    "id_satker": 432,
+    "id_wilayah": 51448
+  },
+  {
+    "id_satker": 439,
+    "id_wilayah": 52148
+  },
+  {
+    "id_satker": 446,
+    "id_wilayah": 53112
+  },
+  {
+    "id_satker": 444,
+    "id_wilayah": 53309
+  },
+  {
+    "id_satker": 446,
+    "id_wilayah": 54108
+  },
+  {
+    "id_satker": 448,
+    "id_wilayah": 54217
+  },
+  {
+    "id_satker": 448,
+    "id_wilayah": 54281
+  },
+  {
+    "id_satker": 444,
+    "id_wilayah": 54450
+  },
+  {
+    "id_satker": 439,
+    "id_wilayah": 54681
+  },
+  {
+    "id_satker": 280,
+    "id_wilayah": 55054
+  },
+  {
+    "id_satker": 277,
+    "id_wilayah": 55289
+  },
+  {
+    "id_satker": 217,
+    "id_wilayah": 31930
+  },
+  {
+    "id_satker": 219,
+    "id_wilayah": 33095
+  },
+  {
+    "id_satker": 225,
+    "id_wilayah": 33346
+  },
+  {
+    "id_satker": 222,
+    "id_wilayah": 35180
+  },
+  {
+    "id_satker": 223,
+    "id_wilayah": 36955
+  },
+  {
+    "id_satker": 218,
+    "id_wilayah": 37185
+  },
+  {
+    "id_satker": 224,
+    "id_wilayah": 38468
+  },
+  {
+    "id_satker": 226,
+    "id_wilayah": 39326
+  },
+  {
+    "id_satker": 228,
+    "id_wilayah": 39355
+  },
+  {
+    "id_satker": 233,
+    "id_wilayah": 39447
+  },
+  {
+    "id_satker": 231,
+    "id_wilayah": 39531
+  },
+  {
+    "id_satker": 230,
+    "id_wilayah": 39677
+  },
+  {
+    "id_satker": 229,
+    "id_wilayah": 39771
+  },
+  {
+    "id_satker": 234,
+    "id_wilayah": 39825
+  },
+  {
+    "id_satker": 263,
+    "id_wilayah": 39826
+  },
+  {
+    "id_satker": 250,
+    "id_wilayah": 39992
+  },
+  {
+    "id_satker": 254,
+    "id_wilayah": 40287
+  },
+  {
+    "id_satker": 253,
+    "id_wilayah": 40441
+  },
+  {
+    "id_satker": 270,
+    "id_wilayah": 40948
+  },
+  {
+    "id_satker": 268,
+    "id_wilayah": 41252
+  },
+  {
+    "id_satker": 252,
+    "id_wilayah": 41634
+  },
+  {
+    "id_satker": 237,
+    "id_wilayah": 41840
+  },
+  {
+    "id_satker": 247,
+    "id_wilayah": 42092
+  },
+  {
+    "id_satker": 242,
+    "id_wilayah": 42310
+  },
+  {
+    "id_satker": 264,
+    "id_wilayah": 42529
+  },
+  {
+    "id_satker": 266,
+    "id_wilayah": 42668
+  },
+  {
+    "id_satker": 265,
+    "id_wilayah": 42986
+  },
+  {
+    "id_satker": 245,
+    "id_wilayah": 43668
+  },
+  {
+    "id_satker": 249,
+    "id_wilayah": 43960
+  },
+  {
+    "id_satker": 255,
+    "id_wilayah": 44256
+  },
+  {
+    "id_satker": 272,
+    "id_wilayah": 44531
+  },
+  {
+    "id_satker": 256,
+    "id_wilayah": 44730
+  },
+  {
+    "id_satker": 258,
+    "id_wilayah": 44958
+  },
+  {
+    "id_satker": 241,
+    "id_wilayah": 45171
+  },
+  {
+    "id_satker": 257,
+    "id_wilayah": 45585
+  },
+  {
+    "id_satker": 251,
+    "id_wilayah": 46353
+  },
+  {
+    "id_satker": 262,
+    "id_wilayah": 46690
+  },
+  {
+    "id_satker": 261,
+    "id_wilayah": 46959
+  },
+  {
+    "id_satker": 243,
+    "id_wilayah": 47138
+  },
+  {
+    "id_satker": 259,
+    "id_wilayah": 47321
+  },
+  {
+    "id_satker": 238,
+    "id_wilayah": 47647
+  },
+  {
+    "id_satker": 236,
+    "id_wilayah": 47715
+  },
+  {
+    "id_satker": 276,
+    "id_wilayah": 56570
+  },
+  {
+    "id_satker": 246,
+    "id_wilayah": 47772
+  },
+  {
+    "id_satker": 240,
+    "id_wilayah": 47803
+  },
+  {
+    "id_satker": 239,
+    "id_wilayah": 47858
+  },
+  {
+    "id_satker": 235,
+    "id_wilayah": 47887
+  },
+  {
+    "id_satker": 267,
+    "id_wilayah": 47970
+  },
+  {
+    "id_satker": 269,
+    "id_wilayah": 48054
+  },
+  {
+    "id_satker": 273,
+    "id_wilayah": 54859
+  },
+  {
+    "id_satker": 282,
+    "id_wilayah": 54860
+  },
+  {
+    "id_satker": 283,
+    "id_wilayah": 54936
+  },
+  {
+    "id_satker": 278,
+    "id_wilayah": 55123
+  },
+  {
+    "id_satker": 279,
+    "id_wilayah": 55284
+  },
+  {
+    "id_satker": 281,
+    "id_wilayah": 55924
+  },
+  {
+    "id_satker": 284,
+    "id_wilayah": 56197
+  },
+  {
+    "id_satker": 285,
+    "id_wilayah": 56325
+  },
+  {
+    "id_satker": 286,
+    "id_wilayah": 56478
+  },
+  {
+    "id_satker": 274,
+    "id_wilayah": 56898
+  },
+  {
+    "id_satker": 277,
+    "id_wilayah": 56733
+  },
+  {
+    "id_satker": 275,
+    "id_wilayah": 56931
+  },
+  {
+    "id_satker": 289,
+    "id_wilayah": 57051
+  },
+  {
+    "id_satker": 290,
+    "id_wilayah": 57234
+  },
+  {
+    "id_satker": 291,
+    "id_wilayah": 57296
+  },
+  {
+    "id_satker": 294,
+    "id_wilayah": 57458
+  },
+  {
+    "id_satker": 292,
+    "id_wilayah": 57547
+  },
+  {
+    "id_satker": 299,
+    "id_wilayah": 57649
+  },
+  {
+    "id_satker": 300,
+    "id_wilayah": 57807
+  },
+  {
+    "id_satker": 301,
+    "id_wilayah": 57907
+  },
+  {
+    "id_satker": 302,
+    "id_wilayah": 57941
+  },
+  {
+    "id_satker": 295,
+    "id_wilayah": 58252
+  },
+  {
+    "id_satker": 296,
+    "id_wilayah": 58374
+  },
+  {
+    "id_satker": 288,
+    "id_wilayah": 58477
+  },
+  {
+    "id_satker": 303,
+    "id_wilayah": 58510
+  },
+  {
+    "id_satker": 312,
+    "id_wilayah": 58511
+  },
+  {
+    "id_satker": 306,
+    "id_wilayah": 58642
+  },
+  {
+    "id_satker": 307,
+    "id_wilayah": 58844
+  },
+  {
+    "id_satker": 313,
+    "id_wilayah": 59122
+  },
+  {
+    "id_satker": 305,
+    "id_wilayah": 59454
+  },
+  {
+    "id_satker": 310,
+    "id_wilayah": 59967
+  },
+  {
+    "id_satker": 315,
+    "id_wilayah": 60097
+  },
+  {
+    "id_satker": 316,
+    "id_wilayah": 60250
+  },
+  {
+    "id_satker": 304,
+    "id_wilayah": 60400
+  },
+  {
+    "id_satker": 314,
+    "id_wilayah": 60452
+  },
+  {
+    "id_satker": 321,
+    "id_wilayah": 60476
+  },
+  {
+    "id_satker": 320,
+    "id_wilayah": 60616
+  },
+  {
+    "id_satker": 322,
+    "id_wilayah": 60849
+  },
+  {
+    "id_satker": 318,
+    "id_wilayah": 61396
+  },
+  {
+    "id_satker": 319,
+    "id_wilayah": 61433
+  },
+  {
+    "id_satker": 323,
+    "id_wilayah": 61979
+  },
+  {
+    "id_satker": 227,
+    "id_wilayah": 86524
+  },
+  {
+    "id_satker": 260,
+    "id_wilayah": 87434
+  },
+  {
+    "id_satker": 293,
+    "id_wilayah": 88703
+  },
+  {
+    "id_satker": 297,
+    "id_wilayah": 88822
+  },
+  {
+    "id_satker": 298,
+    "id_wilayah": 88836
+  },
+  {
+    "id_satker": 311,
+    "id_wilayah": 88968
+  },
+  {
+    "id_satker": 221,
+    "id_wilayah": 86497
+  },
+  {
+    "id_satker": 280,
+    "id_wilayah": 56778
+  },
+  {
+    "id_satker": 327,
+    "id_wilayah": 61346
+  },
+  {
+    "id_satker": 326,
+    "id_wilayah": 61514
+  },
+  {
+    "id_satker": 326,
+    "id_wilayah": 61945
+  },
+  {
+    "id_satker": 338,
+    "id_wilayah": 62785
+  },
+  {
+    "id_satker": 338,
+    "id_wilayah": 63088
+  },
+  {
+    "id_satker": 345,
+    "id_wilayah": 63230
+  },
+  {
+    "id_satker": 334,
+    "id_wilayah": 63427
+  },
+  {
+    "id_satker": 348,
+    "id_wilayah": 63825
+  },
+  {
+    "id_satker": 357,
+    "id_wilayah": 64321
+  },
+  {
+    "id_satker": 369,
+    "id_wilayah": 64711
+  },
+  {
+    "id_satker": 348,
+    "id_wilayah": 64840
+  },
+  {
+    "id_satker": 357,
+    "id_wilayah": 65401
+  },
+  {
+    "id_satker": 369,
+    "id_wilayah": 65639
+  },
+  {
+    "id_satker": 405,
+    "id_wilayah": 67996
+  },
+  {
+    "id_satker": 405,
+    "id_wilayah": 68452
+  },
+  {
+    "id_satker": 424,
+    "id_wilayah": 49624
+  },
+  {
+    "id_satker": 425,
+    "id_wilayah": 49676
+  },
+  {
+    "id_satker": 426,
+    "id_wilayah": 49805
+  },
+  {
+    "id_satker": 423,
+    "id_wilayah": 49867
+  },
+  {
+    "id_satker": 419,
+    "id_wilayah": 49938
+  },
+  {
+    "id_satker": 420,
+    "id_wilayah": 49939
+  },
+  {
+    "id_satker": 421,
+    "id_wilayah": 49996
+  },
+  {
+    "id_satker": 422,
+    "id_wilayah": 50065
+  },
+  {
+    "id_satker": 418,
+    "id_wilayah": 50144
+  },
+  {
+    "id_satker": 427,
+    "id_wilayah": 50330
+  },
+  {
+    "id_satker": 429,
+    "id_wilayah": 50451
+  },
+  {
+    "id_satker": 430,
+    "id_wilayah": 50600
+  },
+  {
+    "id_satker": 328,
+    "id_wilayah": 61149
+  },
+  {
+    "id_satker": 325,
+    "id_wilayah": 61497
+  },
+  {
+    "id_satker": 374,
+    "id_wilayah": 68838
+  },
+  {
+    "id_satker": 329,
+    "id_wilayah": 61597
+  },
+  {
+    "id_satker": 324,
+    "id_wilayah": 61709
+  },
+  {
+    "id_satker": 331,
+    "id_wilayah": 62002
+  },
+  {
+    "id_satker": 376,
+    "id_wilayah": 68972
+  },
+  {
+    "id_satker": 335,
+    "id_wilayah": 62027
+  },
+  {
+    "id_satker": 333,
+    "id_wilayah": 62198
+  },
+  {
+    "id_satker": 336,
+    "id_wilayah": 62465
+  },
+  {
+    "id_satker": 340,
+    "id_wilayah": 62628
+  },
+  {
+    "id_satker": 342,
+    "id_wilayah": 62959
+  },
+  {
+    "id_satker": 332,
+    "id_wilayah": 63586
+  },
+  {
+    "id_satker": 337,
+    "id_wilayah": 63677
+  },
+  {
+    "id_satker": 346,
+    "id_wilayah": 63824
+  },
+  {
+    "id_satker": 334,
+    "id_wilayah": 63790
+  },
+  {
+    "id_satker": 350,
+    "id_wilayah": 63907
+  },
+  {
+    "id_satker": 355,
+    "id_wilayah": 64151
+  },
+  {
+    "id_satker": 356,
+    "id_wilayah": 64311
+  },
+  {
+    "id_satker": 359,
+    "id_wilayah": 64336
+  },
+  {
+    "id_satker": 358,
+    "id_wilayah": 64382
+  },
+  {
+    "id_satker": 351,
+    "id_wilayah": 64488
+  },
+  {
+    "id_satker": 353,
+    "id_wilayah": 64501
+  },
+  {
+    "id_satker": 364,
+    "id_wilayah": 64596
+  },
+  {
+    "id_satker": 365,
+    "id_wilayah": 64643
+  },
+  {
+    "id_satker": 362,
+    "id_wilayah": 65012
+  },
+  {
+    "id_satker": 375,
+    "id_wilayah": 69313
+  },
+  {
+    "id_satker": 363,
+    "id_wilayah": 65025
+  },
+  {
+    "id_satker": 367,
+    "id_wilayah": 65257
+  },
+  {
+    "id_satker": 368,
+    "id_wilayah": 65312
+  },
+  {
+    "id_satker": 347,
+    "id_wilayah": 65762
+  },
+  {
+    "id_satker": 380,
+    "id_wilayah": 69469
+  },
+  {
+    "id_satker": 376,
+    "id_wilayah": 70287
+  },
+  {
+    "id_satker": 382,
+    "id_wilayah": 65783
+  },
+  {
+    "id_satker": 408,
+    "id_wilayah": 65784
+  },
+  {
+    "id_satker": 402,
+    "id_wilayah": 65931
+  },
+  {
+    "id_satker": 396,
+    "id_wilayah": 66004
+  },
+  {
+    "id_satker": 403,
+    "id_wilayah": 66072
+  },
+  {
+    "id_satker": 411,
+    "id_wilayah": 66184
+  },
+  {
+    "id_satker": 393,
+    "id_wilayah": 66330
+  },
+  {
+    "id_satker": 410,
+    "id_wilayah": 66461
+  },
+  {
+    "id_satker": 386,
+    "id_wilayah": 66542
+  },
+  {
+    "id_satker": 389,
+    "id_wilayah": 66573
+  },
+  {
+    "id_satker": 388,
+    "id_wilayah": 66701
+  },
+  {
+    "id_satker": 387,
+    "id_wilayah": 66784
+  },
+  {
+    "id_satker": 394,
+    "id_wilayah": 66902
+  },
+  {
+    "id_satker": 395,
+    "id_wilayah": 66910
+  },
+  {
+    "id_satker": 407,
+    "id_wilayah": 67008
+  },
+  {
+    "id_satker": 400,
+    "id_wilayah": 67114
+  },
+  {
+    "id_satker": 399,
+    "id_wilayah": 67171
+  },
+  {
+    "id_satker": 398,
+    "id_wilayah": 67242
+  },
+  {
+    "id_satker": 397,
+    "id_wilayah": 67533
+  },
+  {
+    "id_satker": 404,
+    "id_wilayah": 67643
+  },
+  {
+    "id_satker": 413,
+    "id_wilayah": 67770
+  },
+  {
+    "id_satker": 412,
+    "id_wilayah": 68157
+  },
+  {
+    "id_satker": 414,
+    "id_wilayah": 68327
+  },
+  {
+    "id_satker": 406,
+    "id_wilayah": 68453
+  },
+  {
+    "id_satker": 391,
+    "id_wilayah": 68386
+  },
+  {
+    "id_satker": 383,
+    "id_wilayah": 68608
+  },
+  {
+    "id_satker": 384,
+    "id_wilayah": 68689
+  },
+  {
+    "id_satker": 385,
+    "id_wilayah": 68760
+  },
+  {
+    "id_satker": 390,
+    "id_wilayah": 68785
+  },
+  {
+    "id_satker": 381,
+    "id_wilayah": 69903
+  },
+  {
+    "id_satker": 377,
+    "id_wilayah": 70053
+  },
+  {
+    "id_satker": 380,
+    "id_wilayah": 70453
+  },
+  {
+    "id_satker": 374,
+    "id_wilayah": 70540
+  },
+  {
+    "id_satker": 372,
+    "id_wilayah": 71001
+  },
+  {
+    "id_satker": 376,
+    "id_wilayah": 70672
+  },
+  {
+    "id_satker": 375,
+    "id_wilayah": 70766
+  },
+  {
+    "id_satker": 373,
+    "id_wilayah": 71070
+  },
+  {
+    "id_satker": 344,
+    "id_wilayah": 71686
+  },
+  {
+    "id_satker": 380,
+    "id_wilayah": 70854
+  },
+  {
+    "id_satker": 341,
+    "id_wilayah": 89337
+  },
+  {
+    "id_satker": 380,
+    "id_wilayah": 70931
+  },
+  {
+    "id_satker": 343,
+    "id_wilayah": 89413
+  },
+  {
+    "id_satker": 511,
+    "id_wilayah": 71565
+  },
+  {
+    "id_satker": 339,
+    "id_wilayah": 89459
+  },
+  {
+    "id_satker": 354,
+    "id_wilayah": 89540
+  },
+  {
+    "id_satker": 352,
+    "id_wilayah": 89550
+  },
+  {
+    "id_satker": 366,
+    "id_wilayah": 89561
+  },
+  {
+    "id_satker": 361,
+    "id_wilayah": 89593
+  },
+  {
+    "id_satker": 360,
+    "id_wilayah": 89660
+  },
+  {
+    "id_satker": 401,
+    "id_wilayah": 89726
+  },
+  {
+    "id_satker": 392,
+    "id_wilayah": 89776
+  },
+  {
+    "id_satker": 371,
+    "id_wilayah": 90057
+  },
+  {
+    "id_satker": 378,
+    "id_wilayah": 90198
+  },
+  {
+    "id_satker": 379,
+    "id_wilayah": 69563
+  },
+  {
+    "id_satker": 524,
+    "id_wilayah": 71914
+  },
+  {
+    "id_satker": 524,
+    "id_wilayah": 72443
+  },
+  {
+    "id_satker": 465,
+    "id_wilayah": 72688
+  },
+  {
+    "id_satker": 464,
+    "id_wilayah": 72955
+  },
+  {
+    "id_satker": 464,
+    "id_wilayah": 73565
+  },
+  {
+    "id_satker": 462,
+    "id_wilayah": 73694
+  },
+  {
+    "id_satker": 476,
+    "id_wilayah": 75056
+  },
+  {
+    "id_satker": 471,
+    "id_wilayah": 75479
+  },
+  {
+    "id_satker": 471,
+    "id_wilayah": 75573
+  },
+  {
+    "id_satker": 476,
+    "id_wilayah": 75666
+  },
+  {
+    "id_satker": 472,
+    "id_wilayah": 75767
+  },
+  {
+    "id_satker": 471,
+    "id_wilayah": 75807
+  },
+  {
+    "id_satker": 471,
+    "id_wilayah": 75868
+  },
+  {
+    "id_satker": 531,
+    "id_wilayah": 75908
+  },
+  {
+    "id_satker": 530,
+    "id_wilayah": 76163
+  },
+  {
+    "id_satker": 531,
+    "id_wilayah": 76476
+  },
+  {
+    "id_satker": 536,
+    "id_wilayah": 23656
+  },
+  {
+    "id_satker": 497,
+    "id_wilayah": 24032
+  },
+  {
+    "id_satker": 499,
+    "id_wilayah": 24033
+  },
+  {
+    "id_satker": 501,
+    "id_wilayah": 24113
+  },
+  {
+    "id_satker": 504,
+    "id_wilayah": 24162
+  },
+  {
+    "id_satker": 505,
+    "id_wilayah": 24219
+  },
+  {
+    "id_satker": 503,
+    "id_wilayah": 24347
+  },
+  {
+    "id_satker": 498,
+    "id_wilayah": 24390
+  },
+  {
+    "id_satker": 513,
+    "id_wilayah": 24435
+  },
+  {
+    "id_satker": 516,
+    "id_wilayah": 24491
+  },
+  {
+    "id_satker": 518,
+    "id_wilayah": 24492
+  },
+  {
+    "id_satker": 517,
+    "id_wilayah": 24522
+  },
+  {
+    "id_satker": 521,
+    "id_wilayah": 24655
+  },
+  {
+    "id_satker": 520,
+    "id_wilayah": 24742
+  },
+  {
+    "id_satker": 531,
+    "id_wilayah": 76601
+  },
+  {
+    "id_satker": 515,
+    "id_wilayah": 24800
+  },
+  {
+    "id_satker": 514,
+    "id_wilayah": 24869
+  },
+  {
+    "id_satker": 537,
+    "id_wilayah": 40705
+  },
+  {
+    "id_satker": 489,
+    "id_wilayah": 48079
+  },
+  {
+    "id_satker": 492,
+    "id_wilayah": 48080
+  },
+  {
+    "id_satker": 493,
+    "id_wilayah": 48418
+  },
+  {
+    "id_satker": 495,
+    "id_wilayah": 48754
+  },
+  {
+    "id_satker": 494,
+    "id_wilayah": 49454
+  },
+  {
+    "id_satker": 531,
+    "id_wilayah": 77246
+  },
+  {
+    "id_satker": 496,
+    "id_wilayah": 49567
+  },
+  {
+    "id_satker": 431,
+    "id_wilayah": 50848
+  },
+  {
+    "id_satker": 433,
+    "id_wilayah": 51017
+  },
+  {
+    "id_satker": 435,
+    "id_wilayah": 51490
+  },
+  {
+    "id_satker": 531,
+    "id_wilayah": 77695
+  },
+  {
+    "id_satker": 453,
+    "id_wilayah": 51491
+  },
+  {
+    "id_satker": 437,
+    "id_wilayah": 51673
+  },
+  {
+    "id_satker": 438,
+    "id_wilayah": 51952
+  },
+  {
+    "id_satker": 449,
+    "id_wilayah": 52233
+  },
+  {
+    "id_satker": 442,
+    "id_wilayah": 52407
+  },
+  {
+    "id_satker": 443,
+    "id_wilayah": 52533
+  },
+  {
+    "id_satker": 441,
+    "id_wilayah": 52649
+  },
+  {
+    "id_satker": 440,
+    "id_wilayah": 52843
+  },
+  {
+    "id_satker": 445,
+    "id_wilayah": 53382
+  },
+  {
+    "id_satker": 451,
+    "id_wilayah": 53679
+  },
+  {
+    "id_satker": 450,
+    "id_wilayah": 53825
+  },
+  {
+    "id_satker": 473,
+    "id_wilayah": 77742
+  },
+  {
+    "id_satker": 473,
+    "id_wilayah": 77934
+  },
+  {
+    "id_satker": 506,
+    "id_wilayah": 71117
+  },
+  {
+    "id_satker": 473,
+    "id_wilayah": 78053
+  },
+  {
+    "id_satker": 473,
+    "id_wilayah": 78215
+  },
+  {
+    "id_satker": 507,
+    "id_wilayah": 71118
+  },
+  {
+    "id_satker": 509,
+    "id_wilayah": 71318
+  },
+  {
+    "id_satker": 510,
+    "id_wilayah": 71399
+  },
+  {
+    "id_satker": 512,
+    "id_wilayah": 71671
+  },
+  {
+    "id_satker": 475,
+    "id_wilayah": 78439
+  },
+  {
+    "id_satker": 508,
+    "id_wilayah": 71792
+  },
+  {
+    "id_satker": 523,
+    "id_wilayah": 71846
+  },
+  {
+    "id_satker": 528,
+    "id_wilayah": 71847
+  },
+  {
+    "id_satker": 527,
+    "id_wilayah": 72017
+  },
+  {
+    "id_satker": 526,
+    "id_wilayah": 72196
+  },
+  {
+    "id_satker": 455,
+    "id_wilayah": 72497
+  },
+  {
+    "id_satker": 474,
+    "id_wilayah": 78526
+  },
+  {
+    "id_satker": 459,
+    "id_wilayah": 72498
+  },
+  {
+    "id_satker": 457,
+    "id_wilayah": 72547
+  },
+  {
+    "id_satker": 458,
+    "id_wilayah": 72575
+  },
+  {
+    "id_satker": 465,
+    "id_wilayah": 72870
+  },
+  {
+    "id_satker": 475,
+    "id_wilayah": 78825
+  },
+  {
+    "id_satker": 468,
+    "id_wilayah": 73038
+  },
+  {
+    "id_satker": 467,
+    "id_wilayah": 73231
+  },
+  {
+    "id_satker": 466,
+    "id_wilayah": 73325
+  },
+  {
+    "id_satker": 469,
+    "id_wilayah": 73443
+  },
+  {
+    "id_satker": 456,
+    "id_wilayah": 73644
+  },
+  {
+    "id_satker": 475,
+    "id_wilayah": 79199
+  },
+  {
+    "id_satker": 478,
+    "id_wilayah": 73726
+  },
+  {
+    "id_satker": 486,
+    "id_wilayah": 73727
+  },
+  {
+    "id_satker": 484,
+    "id_wilayah": 73892
+  },
+  {
+    "id_satker": 482,
+    "id_wilayah": 73957
+  },
+  {
+    "id_satker": 481,
+    "id_wilayah": 74148
+  },
+  {
+    "id_satker": 483,
+    "id_wilayah": 74401
+  },
+  {
+    "id_satker": 487,
+    "id_wilayah": 74483
+  },
+  {
+    "id_satker": 480,
+    "id_wilayah": 74821
+  },
+  {
+    "id_satker": 532,
+    "id_wilayah": 76327
+  },
+  {
+    "id_satker": 475,
+    "id_wilayah": 79408
+  },
+  {
+    "id_satker": 475,
+    "id_wilayah": 79584
+  },
+  {
+    "id_satker": 474,
+    "id_wilayah": 79652
+  },
+  {
+    "id_satker": 533,
+    "id_wilayah": 76732
+  },
+  {
+    "id_satker": 477,
+    "id_wilayah": 79045
+  },
+  {
+    "id_satker": 474,
+    "id_wilayah": 79985
+  },
+  {
+    "id_satker": 474,
+    "id_wilayah": 80768
+  },
+  {
+    "id_satker": 471,
+    "id_wilayah": 81299
+  },
+  {
+    "id_satker": 474,
+    "id_wilayah": 81357
+  },
+  {
+    "id_satker": 500,
+    "id_wilayah": 84943
+  },
+  {
+    "id_satker": 502,
+    "id_wilayah": 84970
+  },
+  {
+    "id_satker": 491,
+    "id_wilayah": 87816
+  },
+  {
+    "id_satker": 452,
+    "id_wilayah": 88366
+  },
+  {
+    "id_satker": 454,
+    "id_wilayah": 88443
+  },
+  {
+    "id_satker": 525,
+    "id_wilayah": 90446
+  },
+  {
+    "id_satker": 461,
+    "id_wilayah": 90465
+  },
+  {
+    "id_satker": 463,
+    "id_wilayah": 90571
+  },
+  {
+    "id_satker": 485,
+    "id_wilayah": 90694
+  },
+  {
+    "id_satker": 488,
+    "id_wilayah": 90704
+  },
+  {
+    "id_satker": 479,
+    "id_wilayah": 90712
+  },
+  {
+    "id_satker": 529,
+    "id_wilayah": 90845
+  },
+  {
+    "id_satker": 447,
+    "id_wilayah": 88282
+  },
+  {
+    "id_satker": 474,
+    "id_wilayah": 81633
+  },
+  {
+    "id_satker": 474,
+    "id_wilayah": 81987
+  },
+  {
+    "id_satker": 41,
+    "id_wilayah": 83334
+  },
+  {
+    "id_satker": 107,
+    "id_wilayah": 83936
+  },
+  {
+    "id_satker": 120,
+    "id_wilayah": 84472
+  },
+  {
+    "id_satker": 148,
+    "id_wilayah": 84741
+  },
+  {
+    "id_satker": 490,
+    "id_wilayah": 87833
+  },
+  {
+    "id_satker": 428,
+    "id_wilayah": 88042
+  },
+  {
+    "id_satker": 448,
+    "id_wilayah": 88329
+  },
+  {
+    "id_satker": 276,
+    "id_wilayah": 88545
+  },
+  {
+    "id_satker": 327,
+    "id_wilayah": 89149
+  },
+  {
+    "id_satker": 345,
+    "id_wilayah": 89267
+  },
+  {
+    "id_satker": 345,
+    "id_wilayah": 89431
+  },
+  {
+    "id_satker": 471,
+    "id_wilayah": 90730
+  },
+  {
+    "id_satker": 472,
+    "id_wilayah": 90766
+  },
+  {
+    "id_satker": 530,
+    "id_wilayah": 90955
+  },
+  {
+    "id_satker": 531,
+    "id_wilayah": 90974
+  },
+  {
+    "id_satker": 530,
+    "id_wilayah": 91049
+  },
+  {
+    "id_satker": 530,
+    "id_wilayah": 91055
+  },
+  {
+    "id_satker": 475,
+    "id_wilayah": 91276
+  },
+  {
+    "id_satker": 474,
+    "id_wilayah": 91366
+  },
+  {
+    "id_satker": 317,
+    "id_wilayah": 60475
+  },
+  {
+    "id_satker": 317,
+    "id_wilayah": 61513
+  },
+  {
+    "id_satker": 470,
+    "id_wilayah": 74909
+  },
+  {
+    "id_satker": 470,
+    "id_wilayah": 77741
+  },
+  {
+    "id_satker": 470,
+    "id_wilayah": 78438
+  },
+  {
+    "id_satker": 470,
+    "id_wilayah": 79651
+  },
+  {
+    "id_satker": 1,
+    "id_wilayah": 24890
+  },
+  {
+    "id_satker": 12,
+    "id_wilayah": 1
+  },
+  {
+    "id_satker": 20,
+    "id_wilayah": 3849
+  },
+  {
+    "id_satker": 50,
+    "id_wilayah": 11556
+  },
+  {
+    "id_satker": 101,
+    "id_wilayah": 15004
+  },
+  {
+    "id_satker": 110,
+    "id_wilayah": 15723
+  },
+  {
+    "id_satker": 220,
+    "id_wilayah": 31376
+  },
+  {
+    "id_satker": 522,
+    "id_wilayah": 24436
+  },
+  {
+    "id_satker": 147,
+    "id_wilayah": 21982
+  },
+  {
+    "id_satker": 535,
+    "id_wilayah": 23555
+  },
+  {
+    "id_satker": 173,
+    "id_wilayah": 25176
+  },
+  {
+    "id_satker": 187,
+    "id_wilayah": 31070
+  },
+  {
+    "id_satker": 193,
+    "id_wilayah": 39044
+  },
+  {
+    "id_satker": 232,
+    "id_wilayah": 39356
+  },
+  {
+    "id_satker": 244,
+    "id_wilayah": 43338
+  },
+  {
+    "id_satker": 271,
+    "id_wilayah": 47838
+  },
+  {
+    "id_satker": 416,
+    "id_wilayah": 49623
+  },
+  {
+    "id_satker": 417,
+    "id_wilayah": 50287
+  },
+  {
+    "id_satker": 434,
+    "id_wilayah": 51287
+  },
+  {
+    "id_satker": 436,
+    "id_wilayah": 54807
+  },
+  {
+    "id_satker": 287,
+    "id_wilayah": 56960
+  },
+  {
+    "id_satker": 308,
+    "id_wilayah": 59760
+  },
+  {
+    "id_satker": 349,
+    "id_wilayah": 63839
+  },
+  {
+    "id_satker": 370,
+    "id_wilayah": 65640
+  },
+  {
+    "id_satker": 409,
+    "id_wilayah": 67426
+  },
+  {
+    "id_satker": 415,
+    "id_wilayah": 68386
+  },
+  {
+    "id_satker": 460,
+    "id_wilayah": 73049
+  },
+  {
+    "id_satker": 534,
+    "id_wilayah": 76940
+  },
+  {
+    "id_satker": 309,
+    "id_wilayah": 88999
+  },
+  {
+    "id_satker": 65,
+    "id_wilayah": 11198
+  },
+  {
+    "id_satker": 330,
+    "id_wilayah": 61292
+  },
+  {
+    "id_satker": 166,
+    "id_wilayah": 85731
+  }
+]

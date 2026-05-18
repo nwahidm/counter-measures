@@ -1,0 +1,734 @@
+[
+    {
+       "key":"Accounting / Financial. (Akunting/Keuangan)",
+       "value":"0001"
+    },
+    {
+       "key":"Customer Service",
+       "value":"0002"
+    },
+    {
+       "key":"Engineering",
+       "value":"0003"
+    },
+    {
+       "key":"Eksekutif(Pjbt Perusahaan Swasta/Asing)",
+       "value":"0004"
+    },
+    {
+       "key":"General Admnistration (Administrasi Umum)",
+       "value":"0005"
+    },
+    {
+       "key":"Komputer",
+       "value":"0006"
+    },
+    {
+       "key":"Consultant (Konsultan)",
+       "value":"0007"
+    },
+    {
+       "key":"Marketing",
+       "value":"0008"
+    },
+    {
+       "key":"Pendidik Swasta (Guru/Dosen/Tutor)",
+       "value":"0009"
+    },
+    {
+       "key":"Government (Pemerintahan)",
+       "value":"0010"
+    },
+    {
+       "key":"Military (Militer)",
+       "value":"0011"
+    },
+    {
+       "key":"Pensiunan Umum",
+       "value":"0012"
+    },
+    {
+       "key":"Student/College (Pelajar/Mahasiswa)",
+       "value":"0013"
+    },
+    {
+       "key":"Enterpreneur (Pengusaha/dagang Besar)",
+       "value":"0014"
+    },
+    {
+       "key":"Lain-Lain",
+       "value":"0015"
+    },
+    {
+       "key":"Hakim",
+       "value":"0016"
+    },
+    {
+       "key":"Notaris/Ppat",
+       "value":"0017"
+    },
+    {
+       "key":"Accountant/Auditor",
+       "value":"0018"
+    },
+    {
+       "key":"Konsultan Manajemen/Pajak/Keuangan",
+       "value":"0019"
+    },
+    {
+       "key":"Dealer/Broker/Pialang",
+       "value":"0020"
+    },
+    {
+       "key":"Ibu Rumah Tangga",
+       "value":"0021"
+    },
+    {
+       "key":"BUMN",
+       "value":"0022"
+    },
+    {
+       "key":"Pegawai Bank",
+       "value":"0023"
+    },
+    {
+       "key":"Pegawai Asuransi",
+       "value":"0024"
+    },
+    {
+       "key":"Pengacara",
+       "value":"0025"
+    },
+    {
+       "key":"Pegawai Swasta Asing",
+       "value":"0026"
+    },
+    {
+       "key":"Anggota Dewan MPR/DPR/DPD/DPRD/DPRK",
+       "value":"0027"
+    },
+    {
+       "key":"Anggota POLRI Perwira",
+       "value":"0028"
+    },
+    {
+       "key":"Anggota Militer (TNI AD/AU/AL) Perwira",
+       "value":"0029"
+    },
+    {
+       "key":"Pengurus/Partisipan Partai Politik",
+       "value":"0030"
+    },
+    {
+       "key":"Pegawai Lembaga Negara non Departemen",
+       "value":"0031"
+    },
+    {
+       "key":"Pejabat (Negara/Pemerintah/Lbaga Negara)",
+       "value":"0032"
+    },
+    {
+       "key":"Pegawai Pemerintah terkait layanan publik",
+       "value":"0033"
+    },
+    {
+       "key":"Orang tanpa Pekerjaan (Pengangguran)",
+       "value":"0034"
+    },
+    {
+       "key":"Pegawai Swasta Nasional (PNS)",
+       "value":"0035"
+    },
+    {
+       "key":"Jasa / Profesional",
+       "value":"0036"
+    },
+    {
+       "key":"ACCOUNT OFFICER",
+       "value":"0037"
+    },
+    {
+       "key":"AGENCY OFFICER",
+       "value":"0038"
+    },
+    {
+       "key":"ANALYST OFFICER",
+       "value":"0039"
+    },
+    {
+       "key":"APPRAISAL OFFICER",
+       "value":"0040"
+    },
+    {
+       "key":"AREA SALES MANAGER",
+       "value":"0041"
+    },
+    {
+       "key":"AREA SUPERVISOR",
+       "value":"0042"
+    },
+    {
+       "key":"ASSIST.ANALIS OFFICER",
+       "value":"0043"
+    },
+    {
+       "key":"AUDITOR",
+       "value":"0044"
+    },
+    {
+       "key":"BACK OFFICE",
+       "value":"0045"
+    },
+    {
+       "key":"BACK OFFICE OFFICER",
+       "value":"0046"
+    },
+    {
+       "key":"BUSINESS DEVELOPMENT OFFICER",
+       "value":"0047"
+    },
+    {
+       "key":"CFBC MANAGER",
+       "value":"0048"
+    },
+    {
+       "key":"CREDIT RISK OFFICER",
+       "value":"0049"
+    },
+    {
+       "key":"CUSTOMER SERVICE",
+       "value":"0050"
+    },
+    {
+       "key":"CUSTOMER SERVICE OFFICER",
+       "value":"0051"
+    },
+    {
+       "key":"D & C OFFICER",
+       "value":"0052"
+    },
+    {
+       "key":"DIREKTUR LAZ",
+       "value":"0053"
+    },
+    {
+       "key":"DOMESTIC & CLEARING",
+       "value":"0054"
+    },
+    {
+       "key":"EKSPEDISI",
+       "value":"0055"
+    },
+    {
+       "key":"EXECUTIVE SECRETARY OFFICER",
+       "value":"0056"
+    },
+    {
+       "key":"FOREX OFFICER",
+       "value":"0057"
+    },
+    {
+       "key":"FUNDING OFFICER",
+       "value":"0058"
+    },
+    {
+       "key":"GENERAL AUDITOR",
+       "value":"0059"
+    },
+    {
+       "key":"HEAD TELLER",
+       "value":"0060"
+    },
+    {
+       "key":"INFORMASI TEKNOLOGI (IT)",
+       "value":"0061"
+    },
+    {
+       "key":"JABATAN DI BSM",
+       "value":"0062"
+    },
+    {
+       "key":"KEPALA BAGIAN",
+       "value":"0063"
+    },
+    {
+       "key":"KEPALA CAPEM",
+       "value":"0064"
+    },
+    {
+       "key":"KEPALA DESK",
+       "value":"0065"
+    },
+    {
+       "key":"KEPALA DIVISI",
+       "value":"0066"
+    },
+    {
+       "key":"KEPALA KANTOR CABANG PEMBANTU",
+       "value":"0067"
+    },
+    {
+       "key":"KEPALA KANTOR LAYANAN SYARIAH",
+       "value":"0068"
+    },
+    {
+       "key":"KEPALA KANWIL",
+       "value":"0069"
+    },
+    {
+       "key":"KEPALA KAS",
+       "value":"0070"
+    },
+    {
+       "key":"KEPALA SEKSI",
+       "value":"0071"
+    },
+    {
+       "key":"KEPALA WARUNG MIKRO",
+       "value":"0072"
+    },
+    {
+       "key":"LEGAL OFFICER",
+       "value":"0073"
+    },
+    {
+       "key":"LEGAL STAF",
+       "value":"0074"
+    },
+    {
+       "key":"LIQUIDITY OFFICER",
+       "value":"0075"
+    },
+    {
+       "key":"MANAGEMENT DEVELOPMENT PROGRAM",
+       "value":"0076"
+    },
+    {
+       "key":"MANAGER TPMO",
+       "value":"0077"
+    },
+    {
+       "key":"MARKETING MANAGER",
+       "value":"0078"
+    },
+    {
+       "key":"MARKETING OFFICER",
+       "value":"0079"
+    },
+    {
+       "key":"MENTOR USAHA",
+       "value":"0080"
+    },
+    {
+       "key":"MICRO ACCOUNT OFFICER",
+       "value":"0081"
+    },
+    {
+       "key":"MONITORING AUDITOR",
+       "value":"0082"
+    },
+    {
+       "key":"OFFICE BOY",
+       "value":"0083"
+    },
+    {
+       "key":"OFFICE PKP CABANG",
+       "value":"0084"
+    },
+    {
+       "key":"OPERASIONAL & PELAYANAN HAJI",
+       "value":"0085"
+    },
+    {
+       "key":"OPERATION MANAGER",
+       "value":"0086"
+    },
+    {
+       "key":"OPERATION RISK OFFICER",
+       "value":"0087"
+    },
+    {
+       "key":"OPERATIONAL OFFICER",
+       "value":"0088"
+    },
+    {
+       "key":"PEJABAT SEMENTARA",
+       "value":"0089"
+    },
+    {
+       "key":"PELAKSANA",
+       "value":"0090"
+    },
+    {
+       "key":"PENAKSIR GADAI",
+       "value":"0091"
+    },
+    {
+       "key":"PENGEMUDI",
+       "value":"0092"
+    },
+    {
+       "key":"PJ D&C OFFICER",
+       "value":"0093"
+    },
+    {
+       "key":"PJ KEPALA CAPEM",
+       "value":"0094"
+    },
+    {
+       "key":"PJ KEPALA KLS",
+       "value":"0095"
+    },
+    {
+       "key":"PJ MARKETING MANAGER",
+       "value":"0096"
+    },
+    {
+       "key":"PJ OPERATION MANAGER",
+       "value":"0097"
+    },
+    {
+       "key":"PJ OPERATION OFFICER",
+       "value":"0098"
+    },
+    {
+       "key":"PJ. BACK OFFICE OFFICER (LAINNYA)",
+       "value":"0099"
+    },
+    {
+       "key":"PJ. CUSTOMER SERVICE OFFICER",
+       "value":"0100"
+    },
+    {
+       "key":"PJ. HEAD TELLER",
+       "value":"0101"
+    },
+    {
+       "key":"PJ. KASI SDI",
+       "value":"0102"
+    },
+    {
+       "key":"PJ. KEPALA KANTOR KAS",
+       "value":"0103"
+    },
+    {
+       "key":"PJ. KEPALA KANTOR LAYANAN SYARIAH",
+       "value":"0104"
+    },
+    {
+       "key":"PJ. KEPALA WARUNG MIKRO",
+       "value":"0105"
+    },
+    {
+       "key":"PJ. OFFICER GADAI",
+       "value":"0106"
+    },
+    {
+       "key":"PJ.ADMIN PEMBIAYAAN&TS OFFICER",
+       "value":"0107"
+    },
+    {
+       "key":"PJ.AREA SALES MANAGER CFBC",
+       "value":"0108"
+    },
+    {
+       "key":"PJ.CFBC MANAGER",
+       "value":"0109"
+    },
+    {
+       "key":"PJ.CS OFFICER",
+       "value":"0110"
+    },
+    {
+       "key":"PJ.CSO KANTOR LAYANAN SYARIAH",
+       "value":"0111"
+    },
+    {
+       "key":"PJ.KADIV",
+       "value":"0112"
+    },
+    {
+       "key":"PJ.KAPALA BAGIAN",
+       "value":"0113"
+    },
+    {
+       "key":"PJ.KASI",
+       "value":"0114"
+    },
+    {
+       "key":"PJ.KEPALA CABANG",
+       "value":"0115"
+    },
+    {
+       "key":"PJ.KEPALA DESK",
+       "value":"0116"
+    },
+    {
+       "key":"PJ.KEPALA KANWIL",
+       "value":"0117"
+    },
+    {
+       "key":"PJ.LOAN ADMIN & TSO",
+       "value":"0118"
+    },
+    {
+       "key":"PJ.LOAN ADMIN OFFICER",
+       "value":"0119"
+    },
+    {
+       "key":"PJ.LOAN ADMIN TREASURY OFFICER",
+       "value":"0120"
+    },
+    {
+       "key":"PJ.MICRO ACCOUNT OFFICER",
+       "value":"0121"
+    },
+    {
+       "key":"PJ.OFFICER ADMIN PEMBAIAYAAN",
+       "value":"0122"
+    },
+    {
+       "key":"PJ.OFFICER ADMIN PEMBIAYAAN&TS",
+       "value":"0123"
+    },
+    {
+       "key":"PJ.WAKADIV",
+       "value":"0124"
+    },
+    {
+       "key":"PKP KOORDINATOR WILAYAH",
+       "value":"0125"
+    },
+    {
+       "key":"PMS KC",
+       "value":"0126"
+    },
+    {
+       "key":"PMS KCP",
+       "value":"0127"
+    },
+    {
+       "key":"PO & PJ.KEPALA CABANG",
+       "value":"0128"
+    },
+    {
+       "key":"PO KANTOR CABANG",
+       "value":"0129"
+    },
+    {
+       "key":"PO KAS",
+       "value":"0130"
+    },
+    {
+       "key":"PO.PJ KEPALA CAPEM",
+       "value":"0131"
+    },
+    {
+       "key":"PROFESIONAL STAF",
+       "value":"0132"
+    },
+    {
+       "key":"PROGRAMMER",
+       "value":"0133"
+    },
+    {
+       "key":"PROJECT MANAGER",
+       "value":"0134"
+    },
+    {
+       "key":"PROJECT OFFICER",
+       "value":"0135"
+    },
+    {
+       "key":"QUALITY ASSURANCE OFFICER",
+       "value":"0136"
+    },
+    {
+       "key":"RELATIONSHIP BUSINESS OFFICER",
+       "value":"0137"
+    },
+    {
+       "key":"RELATIONSHIP MANAGER",
+       "value":"0138"
+    },
+    {
+       "key":"RESEARCH&MARKET INTEL.OFFICER",
+       "value":"0139"
+    },
+    {
+       "key":"REVIEW & BRANCH SUPERVISION",
+       "value":"0140"
+    },
+    {
+       "key":"SATPAM",
+       "value":"0141"
+    },
+    {
+       "key":"SEKRETARIS",
+       "value":"0142"
+    },
+    {
+       "key":"SENIOR ANALYST OFFICER",
+       "value":"0143"
+    },
+    {
+       "key":"SERVICE OFFICER",
+       "value":"0144"
+    },
+    {
+       "key":"SIGN OFFICER",
+       "value":"0145"
+    },
+    {
+       "key":"TEAM LEADER",
+       "value":"0146"
+    },
+    {
+       "key":"TEKNISI SUPPORT",
+       "value":"0147"
+    },
+    {
+       "key":"TELLER",
+       "value":"0148"
+    },
+    {
+       "key":"TENAGA AHLI",
+       "value":"0149"
+    },
+    {
+       "key":"TIM TASK FORCE",
+       "value":"0150"
+    },
+    {
+       "key":"TRADE SERVICE OFFICER",
+       "value":"0151"
+    },
+    {
+       "key":"WAKIL DIREKTUR",
+       "value":"0152"
+    },
+    {
+       "key":"Panitera Pengadilan",
+       "value":"0153"
+    },
+    {
+       "key":"Kurator",
+       "value":"0154"
+    },
+    {
+       "key":"Pimpinan/Pemilik/Pegawai Money Changer",
+       "value":"0155"
+    },
+    {
+       "key":"Pengurus LSM (Ormas/Yysn/Pkrja Sosial)",
+       "value":"0156"
+    },
+    {
+       "key":"Pekerja Seni (Artis/Musisi/Pelukis/dll)",
+       "value":"0157"
+    },
+    {
+       "key":"Transport Udara Swasta (Pilot/Pramugari)",
+       "value":"0158"
+    },
+    {
+       "key":"Transport Laut Swasta (Nahkoda/ABK)",
+       "value":"0159"
+    },
+    {
+       "key":"Transport Darat Swasta (Masinis/Sopir/dll)",
+       "value":"0160"
+    },
+    {
+       "key":"Perhotelan&Restoran(Chef/Bartender/Playn)",
+       "value":"0161"
+    },
+    {
+       "key":"Pemuka Agama(Ulama/Pendeta)",
+       "value":"0162"
+    },
+    {
+       "key":"Pertukangan&Pengrajin(Kayu/Kulit/Seni)",
+       "value":"0163"
+    },
+    {
+       "key":"Buruh (Pabrik/Bangunan/Tani dll)",
+       "value":"0164"
+    },
+    {
+       "key":"Pekerjaan Informal(ART/Parkir/Keamanan)",
+       "value":"0165"
+    },
+    {
+       "key":"Petani",
+       "value":"0166"
+    },
+    {
+       "key":"Peternak",
+       "value":"0167"
+    },
+    {
+       "key":"Nelayan",
+       "value":"0168"
+    },
+    {
+       "key":"Pegawai Negeri Sipil (PNS) Eselon II-I",
+       "value":"0169"
+    },
+    {
+       "key":"Pegawai Negeri Sipil (PNS) Gol II-Eselon III",
+       "value":"0170"
+    },
+    {
+       "key":"Pegawai BUMN/BUMD",
+       "value":"0171"
+    },
+    {
+       "key":"Paramedis (Perawat/Mantri)",
+       "value":"0172"
+    },
+    {
+       "key":"Dokter Swasta",
+       "value":"0173"
+    },
+    {
+       "key":"Dokter PNS",
+       "value":"0174"
+    },
+    {
+       "key":"Pimpinan BUMN/BUMD",
+       "value":"0175"
+    },
+    {
+       "key":"Jaksa",
+       "value":"0176"
+    },
+    {
+       "key":"WiraswastaKecil (Warung/UMKM/Keliling)",
+       "value":"0177"
+    },
+    {
+       "key":"CPNS/Pegawai Honorer",
+       "value":"0178"
+    },
+    {
+       "key":"Pensiunan Polri",
+       "value":"0179"
+    },
+    {
+       "key":"Anggota Militer (TNI AD/AU/AL) Non Perwira",
+       "value":"0180"
+    },
+    {
+       "key":"Anggota POLRI Non Perwira",
+       "value":"0181"
+    },
+    {
+       "key":"Pendidik PNS (Dosen PTN / Guru)",
+       "value":"0182"
+    },
+    {
+       "key":"Paramedis Swasta ( Perawat/Bidan/Terapis)",
+       "value":"0183"
+    }
+ ]

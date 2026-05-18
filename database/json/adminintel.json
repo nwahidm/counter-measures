@@ -1,0 +1,3271 @@
+[
+    {
+     "nip": "197506102000121001",
+     "nama": "MUKHZAN, S.H., M.H.",
+     "nrp": "60175002",
+     "jabatan": "ASISTEN BIDANG INTELIJEN PADA KEJAKSAAN TINGGI ACEH",
+     "id_satker": 2
+    },
+    {
+     "nip": "196801071992031002",
+     "nama": "I MADE SUDARMAWAN, S.H., M.H.",
+     "nrp": "6926865",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Sumatera Utara",
+     "id_satker": 28
+    },
+    {
+     "nip": "196712271987031002",
+     "nama": "MUSTAQPIRIN, S.H.,M.H.",
+     "nrp": "48767214",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Sumatera Barat",
+     "id_satker": 66
+    },
+    {
+     "nip": "197502282000121002",
+     "nama": "MARCOS MARUDUT MANGAPUL SIMAREMARE, S.H., M.Hum.",
+     "nrp": "60175025",
+     "jabatan": "Asisten Intelijen pada Kejaksaan Tinggi Riau",
+     "id_satker": 89
+    },
+    {
+     "nip": "197511102001121006",
+     "nama": "NOPHY TENNOPHERO SUOTH, S.H., M.H.",
+     "nrp": "60275185",
+     "jabatan": "Asisten Intelijen pada Kejaksaan Tinggi Jambi",
+     "id_satker": 102
+    },
+    {
+     "nip": "196702021992031003",
+     "nama": "BAMBANG PANCA WAHYUDI HARIADI, SH ., M.H.",
+     "nrp": "6926752",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Sumatera Selatan",
+     "id_satker": 115
+    },
+    {
+     "nip": "197010071998031003",
+     "nama": "MOCHAMAD JUDHY ISMONO, S.H., M.H.",
+     "nrp": "69870140",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Bengkulu",
+     "id_satker": 131
+    },
+    {
+     "nip": "197209052000031003",
+     "nama": "Dr. ALIANSYAH, SH. MH.",
+     "nrp": "60072040",
+     "jabatan": "Asisten INTELIJEN",
+     "id_satker": 142
+    },
+    {
+     "nip": "197705072000121001",
+     "nama": "Dr. DWI ANTORO, S.H., M.H.",
+     "nrp": "60177284",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Dki Jakarta",
+     "id_satker": 158
+    },
+    {
+     "nip": "196706101992021001",
+     "nama": "ZULLIKAR TANJUNG, S.H., M.H.",
+     "nrp": "4926709",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Jawa Barat",
+     "id_satker": 164
+    },
+    {
+     "nip": "197310212000121001",
+     "nama": "Dr. SUNARWAN, S.H., M.Hum.",
+     "nrp": "60173114",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Jawa Tengah",
+     "id_satker": 190
+    },
+    {
+     "nip": "197608162000121001",
+     "nama": "AGUS RUJITO, S.H., M.H.",
+     "nrp": "60176288",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi D.I Yogyakarta",
+     "id_satker": 228
+    },
+    {
+     "nip": "196702111994031001",
+     "nama": "ZULBAHRI, S.H., M.H.",
+     "nrp": "69467143",
+     "jabatan": "Asisten INTELIJEN",
+     "id_satker": 234
+    },
+    {
+     "nip": "197001051990031001",
+     "nama": "TALIWONDO, S.H., M.H.",
+     "nrp": "4907013",
+     "jabatan": "Asisten INTELIJEN",
+     "id_satker": 273
+    },
+    {
+     "nip": "197004021992031001",
+     "nama": "KOMAIDI, S.H.",
+     "nrp": "4927098",
+     "jabatan": "Asisten INTELIJEN",
+     "id_satker": 287
+    },
+    {
+     "nip": "197605112001121001",
+     "nama": "I WAYAN WIRADARMA, S.H., M.H.",
+     "nrp": "60276244",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Kalimantan Selatan",
+     "id_satker": 303
+    },
+    {
+     "nip": "197812162001121003",
+     "nama": "AJI KALBU PRIBADI, S.H., M.H.",
+     "nrp": "60278172",
+     "jabatan": "Asisten Intelijen pada Kejaksaan Tinggi Kalimantan Timur",
+     "id_satker": 317
+    },
+    {
+     "nip": "197006141998031002",
+     "nama": "MARTHEN TANDI, S.H. MH",
+     "nrp": "69870241",
+     "jabatan": "Asisten INTELIJEN",
+     "id_satker": 331
+    },
+    {
+     "nip": "196712161992031003",
+     "nama": "ARDI SURYANTO, S.H., M.H.",
+     "nrp": "6926753",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Sulawesi Tengah",
+     "id_satker": 346
+    },
+    {
+     "nip": "197110161997031001",
+     "nama": "ADE HERMAWAN, S.H., M.H.",
+     "nrp": "69771072",
+     "jabatan": "Asisten INTELIJEN",
+     "id_satker": 371
+    },
+    {
+     "nip": "197103161991031003",
+     "nama": "ARDIANSYAH, S.H., M.H.",
+     "nrp": "49171324",
+     "jabatan": "Asisten Intelijen pada Kejaksaan Tinggi Sulawesi Selatan",
+     "id_satker": 382
+    },
+    {
+     "nip": "197309291993031001",
+     "nama": "CHANDRA PURNAMA, S.H., M.H.",
+     "nrp": "4937392",
+     "jabatan": "Asisten Intelijen pada Kejaksaan Tinggi Bali",
+     "id_satker": 416
+    },
+    {
+     "nip": "197712312003121010",
+     "nama": "I WAYAN RIANA, S.H., M.H.",
+     "nrp": "60477333",
+     "jabatan": "Asisten Intelijen pada Kejaksaan Tinggi Nusa Tenggara Barat",
+     "id_satker": 427
+    },
+    {
+     "nip": "197212191998031002",
+     "nama": "BAMBANG DWI MURCOLONO, S.H., M.H.",
+     "nrp": "69872137",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Nusa Tenggara Timur",
+     "id_satker": 435
+    },
+    {
+     "nip": "197109051991031002",
+     "nama": "RAJENDRA DHARMALINGA WIRITANAYA, S.H.",
+     "nrp": "49171169",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Maluku",
+     "id_satker": 455
+    },
+    {
+     "nip": "197205292000031002",
+     "nama": "ERWIN PURBA, S.H.",
+     "nrp": "60072017",
+     "jabatan": "Asisten Intelijen pada Kejaksaan Tinggi Papua",
+     "id_satker": 470
+    },
+    {
+     "nip": "196912211989031003",
+     "nama": "SUNDORO ADI, S.H.,M.H.",
+     "nrp": "489297",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Maluku Utara",
+     "id_satker": 478
+    },
+    {
+     "nip": "197710282002121006",
+     "nama": "AJIE PRASETYA, S.H., M.H.",
+     "nrp": "60377079",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Banten",
+     "id_satker": 489
+    },
+    {
+     "nip": "197403022000031005",
+     "nama": "FADIL REGAN, S.H., M.H.",
+     "nrp": "60074036",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Kepulauan Bangka Belitung",
+     "id_satker": 497
+    },
+    {
+     "nip": "197710142002121002",
+     "nama": "OTTO SOMPOTAN, S.H.M.H",
+     "nrp": "60377222",
+     "jabatan": "Asisten Intelijen pada Kejaksaan Tinggi Gorontalo",
+     "id_satker": 506
+    },
+    {
+     "nip": "197504132000121001",
+     "nama": "TENGKU FIRDAUS, S.H., M.H.",
+     "nrp": "60175029",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Kepulauan Riau",
+     "id_satker": 513
+    },
+    {
+     "nip": "197003261998031003",
+     "nama": "DHARMABELLA TYMBASZ, S.H., M.H.",
+     "nrp": "69870264",
+     "jabatan": "ASISTEN BIDANG INTELIJEN PADA KEJAKSAAN TINGGI SULAWESI BARAT",
+     "id_satker": 523
+    },
+    {
+     "nip": "197301261998031002",
+     "nama": "MUHAMMAD BARDAN, S.H., M.H.",
+     "nrp": "69873190",
+     "jabatan": "Asisten Bidang Intelijen pada Kejaksaan Tinggi Papua Barat",
+     "id_satker": 529
+    },
+    {
+     "nip": "198204262002121004",
+     "nama": "MUHARIZAL, S.H.,M.H.",
+     "nrp": "403820033",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 3
+    },
+    {
+     "nip": "199203232015021001",
+     "nama": "FILMAN RAMADHAN, S.H., M.H.",
+     "nrp": "6159211",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sabang",
+     "id_satker": 4
+    },
+    {
+     "nip": "198101302002121001",
+     "nama": "YUDHI PERMANA, S.H., M.H.",
+     "nrp": "403810006",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pidie",
+     "id_satker": 5
+    },
+    {
+     "nip": "198012232006031001",
+     "nama": "THERRY GUTAMA, S.H., M.H.",
+     "nrp": "60680079",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI LHOKSEUMAWE",
+     "id_satker": 7
+    },
+    {
+     "nip": "198104292008121001",
+     "nama": "CARLES APRIANTO, S.H. MH",
+     "nrp": "60098166",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Langsa",
+     "id_satker": 8
+    },
+    {
+     "nip": "198307102007031001",
+     "nama": "RISTA ZULLIBAR PA, S.H., M.H.",
+     "nrp": "60783003",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Aceh Tengah",
+     "id_satker": 9
+    },
+    {
+     "nip": "198309152009121001",
+     "nama": "M AGUNG KURNIAWAN, S.H., M.H.",
+     "nrp": "6108333",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 10
+    },
+    {
+     "nip": "198406102009121005",
+     "nama": "M ALFRYANDI HAKIM, S.H.",
+     "nrp": "6108460",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Aceh Selatan",
+     "id_satker": 11
+    },
+    {
+     "nip": "198008292007031001",
+     "nama": "ZAINUL ARIFIN, S.H.",
+     "nrp": "60780026",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Aceh Tenggara",
+     "id_satker": 13
+    },
+    {
+     "nip": "198605242009121003",
+     "nama": "ABDI FIKRI, S.H., M.H.",
+     "nrp": "6108680",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI BIREUEN",
+     "id_satker": 14
+    },
+    {
+     "nip": "198104272005011006",
+     "nama": "REZA RAHIM, S.H. M.H",
+     "nrp": "60581019",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI ACEH UTARA",
+     "id_satker": 15
+    },
+    {
+     "nip": "198508102008121001",
+     "nama": "AGUSTA KANIN, S.H., M.H",
+     "nrp": "60985422",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Aceh Timur",
+     "id_satker": 16
+    },
+    {
+     "nip": "198205202007031001",
+     "nama": "FAHMI JALIL, S.H.,M.H.",
+     "nrp": "60782002",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Aceh Tamiang",
+     "id_satker": 17
+    },
+    {
+     "nip": "198502092006041002",
+     "nama": "SUHERI WIRA FERNANDA, S.H.MH.",
+     "nrp": "40685023",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Simeulu",
+     "id_satker": 18
+    },
+    {
+     "nip": "198405242008121001",
+     "nama": "DEDI SAPUTRA, S.H., M.H.",
+     "nrp": "60098431",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 19
+    },
+    {
+     "nip": "198402192005011001",
+     "nama": "BUDI FEBRIANDI, S.H.",
+     "nrp": "40584027",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Aceh Singkil",
+     "id_satker": 20
+    },
+    {
+     "nip": "198009092007121002",
+     "nama": "HANDRI, S.H.",
+     "nrp": "6088024",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 21
+    },
+    {
+     "nip": "198412022006041003",
+     "nama": "MAULIJAR, S.HI., S.H., M.H.",
+     "nrp": "40684003",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 22
+    },
+    {
+     "nip": "197606252001121003",
+     "nama": "JONI ASTRIAMAN, S.H.",
+     "nrp": "60276105",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Aceh Barat Daya",
+     "id_satker": 23
+    },
+    {
+     "nip": "198501072008121002",
+     "nama": "ACHMAD RENDRA PRATAMA R, S.H.,MH",
+     "nrp": "6098579",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 24
+    },
+    {
+     "nip": "198705132009121001",
+     "nama": "ERWIN SIREGAR, S.H.",
+     "nrp": "6108717",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bener Meriah",
+     "id_satker": 25
+    },
+    {
+     "nip": "198503162009121002",
+     "nama": "HAFRIZAL, S.H., M.H.",
+     "nrp": "610854",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 26
+    },
+    {
+     "nip": "198006282005011005",
+     "nama": "DELFIANDI, S.H.",
+     "nrp": "60580106",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sulubussalam",
+     "id_satker": 27
+    },
+    {
+     "nip": "197904132005011009",
+     "nama": "SIMON, S.H.M.H.",
+     "nrp": "60579002",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Medan",
+     "id_satker": 29
+    },
+    {
+     "nip": "198405262007031002",
+     "nama": "ADRE WANDA GINTING, S.H.",
+     "nrp": "60784032",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 30
+    },
+    {
+     "nip": "198505012008121001",
+     "nama": "RENDRA YOKI PARDEDE, S.H., M.H.",
+     "nrp": "600985881",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pematang Siantar",
+     "id_satker": 31
+    },
+    {
+     "nip": "198406062008121001",
+     "nama": "MOHAMAD JUNIO RAMANDRE, S.H., M.H.",
+     "nrp": "60984458",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sibolga",
+     "id_satker": 32
+    },
+    {
+     "nip": "198204182003121003",
+     "nama": "BOY AMALI, S.H., M.H.",
+     "nrp": "50482002",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Deli Serdang",
+     "id_satker": 33
+    },
+    {
+     "nip": "198307152008121001",
+     "nama": "HIRAS AFANDY SILABAN, S.H,.M.H",
+     "nrp": "600983451",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tebing Tinggi",
+     "id_satker": 36
+    },
+    {
+     "nip": "198503272009121001",
+     "nama": "ANDI SAHPUTRA SITEPU, S.H.",
+     "nrp": "6108521",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 37
+    },
+    {
+     "nip": "198610252009121001",
+     "nama": "FIRMAN HERMAWAN SIMORANGKIR, S.H., M.H.",
+     "nrp": "610677",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Labuhan Batu",
+     "id_satker": 38
+    },
+    {
+     "nip": "198212272008121001",
+     "nama": "IKA LIUS NARDO, S.H.",
+     "nrp": "600982468",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 39
+    },
+    {
+     "nip": "198401272009121002",
+     "nama": "ERWINTA TARIGAN, S.H.",
+     "nrp": "6108411",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 41
+    },
+    {
+     "nip": "198410092009121003",
+     "nama": "MANGASITUA SIMANJUNTAK, S.H., M.H.",
+     "nrp": "61084575",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tapanuli Utara",
+     "id_satker": 42
+    },
+    {
+     "nip": "197806282003121005",
+     "nama": "YUNIUS ZEGA",
+     "nrp": "60478032",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri padang Sidempuan",
+     "id_satker": 44
+    },
+    {
+     "nip": "198404202009121001",
+     "nama": "SULAIMAN A RIFAI H, S.H.",
+     "nrp": "6108454",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 45
+    },
+    {
+     "nip": "198911012015021001",
+     "nama": "AGUINALDO MARBUN, S.H., M.H.",
+     "nrp": "6158945",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI ASAHAN",
+     "id_satker": 46
+    },
+    {
+     "nip": "198210102008121002",
+     "nama": "EDISON SUMITRO SITUMORANG, S.H.",
+     "nrp": "600982429",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Simalungun",
+     "id_satker": 47
+    },
+    {
+     "nip": "198306062010121001",
+     "nama": "SABRI FITRIANSYAH MARBUN, S.H.",
+     "nrp": "61183141",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 48
+    },
+    {
+     "nip": "198512092009121003",
+     "nama": "OPPON BESLIN SIREGAR, S.H., M.H.",
+     "nrp": "61085479",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Belawan",
+     "id_satker": 50
+    },
+    {
+     "nip": "198304272008121001",
+     "nama": "OLOAN IHKWAN MARULI TUA SINAGA, S.H.",
+     "nrp": "600983486",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Toba Samosir",
+     "id_satker": 51
+    },
+    {
+     "nip": "197111241992031003",
+     "nama": "FATIZARO ZAI, S.H., M.H.",
+     "nrp": "49271103",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 53
+    },
+    {
+     "nip": "198607032014031006",
+     "nama": "ROMEL TARIGAN, S.H.",
+     "nrp": "61486350",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 56
+    },
+    {
+     "nip": "198506152005011002",
+     "nama": "GERRY ANDERSON GULTOM, S.H., M.H.",
+     "nrp": "40585095",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 57
+    },
+    {
+     "nip": "198411042008121001",
+     "nama": "HIRONIMUS TAFONAO, S.H.,M.H",
+     "nrp": "60984954",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 58
+    },
+    {
+     "nip": "198203302002121002",
+     "nama": "DONI IRAWAN HARAHAP, S.H., M.H.",
+     "nrp": "403820061",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 60
+    },
+    {
+     "nip": "198005142007121001",
+     "nama": "RICHARD NAYER PARNINGOTAN SIMAREMARE, S.H.",
+     "nrp": "6088041",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Samosir",
+     "id_satker": 61
+    },
+    {
+     "nip": "198204292002121002",
+     "nama": "ERWIN EFENDI RANGKUTI, S.H.",
+     "nrp": "403820070",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 62
+    },
+    {
+     "nip": "198409022008121001",
+     "nama": "GUNAWAN MARTHIN PANJAITAN, S.H., M.H.",
+     "nrp": "60984433",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tapanuli Selatan",
+     "id_satker": 63
+    },
+    {
+     "nip": "198912202014031002",
+     "nama": "ANDRI RICO MANURUNG, S.H., M.H.",
+     "nrp": "61489184",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri padang Lawas",
+     "id_satker": 64
+    },
+    {
+     "nip": "198205032009121003",
+     "nama": "SAHBANA PILIHANTA SURBAKTI, S.H., M.H.",
+     "nrp": "61082115",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 65
+    },
+    {
+     "nip": "198002092002121001",
+     "nama": "AFLIANDI, S.H., M.H.",
+     "nrp": "403800177",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri padang",
+     "id_satker": 67
+    },
+    {
+     "nip": "196805221991031001",
+     "nama": "WIWIN ISKANDAR ISLAMY, S.H., M.H.",
+     "nrp": "3916845",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bukittinggi",
+     "id_satker": 68
+    },
+    {
+     "nip": "198712162010121001",
+     "nama": "GUGI DOLANSYAH, S.H.",
+     "nrp": "6118719",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 69
+    },
+    {
+     "nip": "198012152007121001",
+     "nama": "SAFARMAN, S.H.",
+     "nrp": "608801",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pariaman",
+     "id_satker": 72
+    },
+    {
+     "nip": "198711062009121001",
+     "nama": "DEDE MAULADI, S.H.",
+     "nrp": "610879",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 73
+    },
+    {
+     "nip": "198601082008121001",
+     "nama": "ROVA YOFIRSTA, S.H.",
+     "nrp": "60098676",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 74
+    },
+    {
+     "nip": "198204102008121001",
+     "nama": "ANTONI WINATA, S.H., M.H.",
+     "nrp": "60982190",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri padang Panjang",
+     "id_satker": 76
+    },
+    {
+     "nip": "198312232008121001",
+     "nama": "DEDET DARMADI, S.H.",
+     "nrp": "600983852",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tanah Datar",
+     "id_satker": 77
+    },
+    {
+     "nip": "198209032007121002",
+     "nama": "PAHALA ERIC SILVANDRO, S.H.",
+     "nrp": "60882274",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 78
+    },
+    {
+     "nip": "198509162009121001",
+     "nama": "DODY SUSISTRO, S.H.",
+     "nrp": "61085169",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 79
+    },
+    {
+     "nip": "198402112007121002",
+     "nama": "DIAN AFFANDI PANJAITAN, S.H.",
+     "nrp": "6088460",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sijunjung",
+     "id_satker": 81
+    },
+    {
+     "nip": "197909121998031002",
+     "nama": "HERI ANTONI, S.H.",
+     "nrp": "49879308",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Agam",
+     "id_satker": 82
+    },
+    {
+     "nip": "198209142008121001",
+     "nama": "RIFKI RIZA, S.H.",
+     "nrp": "600982414",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kepulauan Mentawai",
+     "id_satker": 84
+    },
+    {
+     "nip": "196702251993041001",
+     "nama": "ELIANTO, S.H.",
+     "nrp": "49367251",
+     "jabatan": "KEPALA SEKSI TINDAK PIDANA UMUM",
+     "id_satker": 85
+    },
+    {
+     "nip": "198004052002121002",
+     "nama": "HENRI SETIAWAN, S.H. M.H.",
+     "nrp": "403800179",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pasaman Barat",
+     "id_satker": 85
+    },
+    {
+     "nip": "198907152015021001",
+     "nama": "ROBBY HIDAYAD, S.H.",
+     "nrp": "6158965",
+     "jabatan": "Kepala Subseksi Prapenuntutan pada Seksi Tindak Pidana Umum Kejaksaan Negeri Kampar",
+     "id_satker": 87
+    },
+    {
+     "nip": "198708212009121001",
+     "nama": "AGIS SAHPUTRA, S.H.",
+     "nrp": "61087145",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 88
+    },
+    {
+     "nip": "198605312008121001",
+     "nama": "LASARGI MAREL, S.H., M.H.",
+     "nrp": "60986530",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pekanbaru",
+     "id_satker": 90
+    },
+    {
+     "nip": "199102132015021001",
+     "nama": "MUHAMMAD ULINNUHA, S.H.",
+     "nrp": "61591248",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Indragiri Hulu",
+     "id_satker": 91
+    },
+    {
+     "nip": "197511072002121003",
+     "nama": "ABU NAWAS, S.H., M.H.",
+     "nrp": "403750260",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Dumai",
+     "id_satker": 92
+    },
+    {
+     "nip": "198404012009121004",
+     "nama": "HERDIANTO, S.H.",
+     "nrp": "61084135",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bengkalis",
+     "id_satker": 93
+    },
+    {
+     "nip": "198408272009121004",
+     "nama": "FREDERIC DANIEL TOBING, S.H.",
+     "nrp": "61084137",
+     "jabatan": "Kepala Seksi Intelijen pada  Kejaksaan Negeri Indragiri Hilir",
+     "id_satker": 94
+    },
+    {
+     "nip": "198507142009121005",
+     "nama": "RENDY WINATA, S.H.",
+     "nrp": "61085214",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 95
+    },
+    {
+     "nip": "198302152009121002",
+     "nama": "ADHI THYA FEBRICAR, S.H., M.H.",
+     "nrp": "61083142",
+     "jabatan": "Kepala Seksi Intelijen pada  Kejaksaan Negeri Rokan Hulu",
+     "id_satker": 96
+    },
+    {
+     "nip": "198703252009121001",
+     "nama": "RAWATAN MANIK, S.H., M.H.",
+     "nrp": "6108714",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 97
+    },
+    {
+     "nip": "198407152007121002",
+     "nama": "ROZI JULIANTONO, S.H.",
+     "nrp": "60884158",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kuantan Singingi",
+     "id_satker": 98
+    },
+    {
+     "nip": "199208192015021002",
+     "nama": "MISAEL ASARYA TAMBUNAN, S.H.",
+     "nrp": "6159250",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pelalawan",
+     "id_satker": 99
+    },
+    {
+     "nip": "198702202014031002",
+     "nama": "YOPENTINU ADI NUGRAHA, S.H.",
+     "nrp": "61487399",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Rokan Hilir",
+     "id_satker": 100
+    },
+    {
+     "nip": "198412072008121001",
+     "nama": "TIYAN ANDESTA, S.H., M.H.",
+     "nrp": "6098437",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kepulauan Meranti",
+     "id_satker": 101
+    },
+    {
+     "nip": "198502032009121004",
+     "nama": "WESLI SIRAIT, S.H., M.H.",
+     "nrp": "61085212",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Jambi",
+     "id_satker": 103
+    },
+    {
+     "nip": "198308042002121003",
+     "nama": "RUDI FIRMANSYAH, S.H., M.H.",
+     "nrp": "403830216",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Batanghari",
+     "id_satker": 104
+    },
+    {
+     "nip": "198111082008121001",
+     "nama": "ANDI SUGANDI DARMANSYAH, S.H.",
+     "nrp": "600981555",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 107
+    },
+    {
+     "nip": "198201012008121001",
+     "nama": "ARIE PRATAMA, S.H.",
+     "nrp": "60982421",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Merangin",
+     "id_satker": 108
+    },
+    {
+     "nip": "198009012007121001",
+     "nama": "MUHAMMAD LUTFI, S.H., M.H.",
+     "nrp": "6088010",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tanjung Jabung Barat",
+     "id_satker": 109
+    },
+    {
+     "nip": "199006202014031004",
+     "nama": "RIKSON LOTHAR, S.H.",
+     "nrp": "6149098",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sarolangun",
+     "id_satker": 110
+    },
+    {
+     "nip": "198102082007031001",
+     "nama": "FEBROW ADHIAKSA SOESENO, S.H., M.H.",
+     "nrp": "60781035",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 111
+    },
+    {
+     "nip": "198305182008121003",
+     "nama": "BAMBANG HARMOKO, S.H.M.H",
+     "nrp": "600983855",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 112
+    },
+    {
+     "nip": "198405082006041002",
+     "nama": "SUSILO, S.H., M.H.",
+     "nrp": "406061",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 114
+    },
+    {
+     "nip": "198506112007121001",
+     "nama": "Dr. HARDIANSYAH, S.H., M.H., M.I.Pol.",
+     "nrp": "60885178",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Palembang",
+     "id_satker": 116
+    },
+    {
+     "nip": "198505032007031001",
+     "nama": "ALEX AKBAR, S.H., M.H.",
+     "nrp": "60785077",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 121
+    },
+    {
+     "nip": "198107082005011003",
+     "nama": "VARISKA ARDINA KODRIANSYAH, S.H.,M.H.",
+     "nrp": "60581121",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 118
+    },
+    {
+     "nip": "198506062010121001",
+     "nama": "ZIT MUTTAQIN, S.H., M.H.",
+     "nrp": "6118526",
+     "jabatan": "KEPALA SEKSI INTELIJEN KEJAKSAAN NEGERI LAHAT",
+     "id_satker": 119
+    },
+    {
+     "nip": "197208121998031003",
+     "nama": "WENHARNOL, S.H, MH",
+     "nrp": "69872115",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Lubuk Linggau",
+     "id_satker": 120
+    },
+    {
+     "nip": "198301072005011001",
+     "nama": "ANJASRA KARYA, S.H., M.H.",
+     "nrp": "40583197",
+     "jabatan": "KEPALA SEKSI INTELIJAN PADA KEJAKSAAN NEGERI MUARA ENIM",
+     "id_satker": 121
+    },
+    {
+     "nip": "198605222010121001",
+     "nama": "RIZKI RAMDHANI, S.H.",
+     "nrp": "6118644",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Musi Banyuasin",
+     "id_satker": 122
+    },
+    {
+     "nip": "198111042005011006",
+     "nama": "SOSOR AGUNG SURYADI PANGGABEAN, S.H., M.H.",
+     "nrp": "405201",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 123
+    },
+    {
+     "nip": "198210262007031001",
+     "nama": "MUHAMAD RIDHO SAPUTRA, S.H.",
+     "nrp": "60782069",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI PRABUMULIH",
+     "id_satker": 124
+    },
+    {
+     "nip": "199005142014031002",
+     "nama": "DIDI ADITYA RUSTANTO, S.H., M.H.",
+     "nrp": "61490313",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Banyuasin",
+     "id_satker": 125
+    },
+    {
+     "nip": "198409082008121001",
+     "nama": "NIKU SENDA, S.H.",
+     "nrp": "60984238",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI EMPAT LAWANG",
+     "id_satker": 126
+    },
+    {
+     "nip": "198212052003121004",
+     "nama": "RIDO DHARMA HERMANDO, S.H.,M.H.",
+     "nrp": "40482063",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Penukal Abab Lematang Ilir",
+     "id_satker": 127
+    },
+    {
+     "nip": "198312132007121002",
+     "nama": "ADITYA CHRISTIAN TARIGAN, S.H.",
+     "nrp": "6088354",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Ogan Komering Ulu Timur",
+     "id_satker": 128
+    },
+    {
+     "nip": "198301062009121002",
+     "nama": "DAVID LAFINSON SIPAYUNG, S.H.",
+     "nrp": "61083739",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Ogan Komering Ulu Selatan",
+     "id_satker": 129
+    },
+    {
+     "nip": "199004232014031001",
+     "nama": "GITA SANTIKA RAMADHANI, S.H., M.H.",
+     "nrp": "61490476",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Ogan Ilir",
+     "id_satker": 130
+    },
+    {
+     "nip": "197906142007031001",
+     "nama": "FERY JUNAIDI, S.H.",
+     "nrp": "60779101",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bengkulu",
+     "id_satker": 132
+    },
+    {
+     "nip": "198309222007121002",
+     "nama": "DAVID JOHNIE, S.H.",
+     "nrp": "608835",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 133
+    },
+    {
+     "nip": "198603112014031003",
+     "nama": "EKKE WIDOTO KHAHAR, S.H., M.H.",
+     "nrp": "61486328",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bengkulu Utara",
+     "id_satker": 134
+    },
+    {
+     "nip": "198307162001121002",
+     "nama": "HENDRA CATUR PUTRA, S.H., M.H.",
+     "nrp": "40283039",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 135
+    },
+    {
+     "nip": "198110202001121002",
+     "nama": "RADIMAN, S.H.",
+     "nrp": "40281052",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Mukomuko",
+     "id_satker": 136
+    },
+    {
+     "nip": "198510292008121001",
+     "nama": "ANDI SETIAWAN, S.H., M.H",
+     "nrp": "600985611",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Seluma",
+     "id_satker": 137
+    },
+    {
+     "nip": "198702242006041001",
+     "nama": "ANDI PEBRIANDA, S.H., M.H.",
+     "nrp": "40687083",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kaur",
+     "id_satker": 138
+    },
+    {
+     "nip": "197904172006031001",
+     "nama": "MINANG ZAZALI, S.H.",
+     "nrp": "60679175",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Lebong",
+     "id_satker": 139
+    },
+    {
+     "nip": "198511072008121001",
+     "nama": "NANDA HARDIKA, S.H.",
+     "nrp": "600985446",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kepahiang",
+     "id_satker": 140
+    },
+    {
+     "nip": "198010102006031002",
+     "nama": "SUDARMANTO, S.H.,M.H",
+     "nrp": "60680124",
+     "jabatan": "KEPALA SEKSI TINDAK PIDANA KHUSUS",
+     "id_satker": 140
+    },
+    {
+     "nip": "198703312008121001",
+     "nama": "MARJEK RAVILO, S.H., M.H.",
+     "nrp": "600987607",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bengkulu Tengah",
+     "id_satker": 141
+    },
+    {
+     "nip": "198703242009121003",
+     "nama": "M ANGGA MAHATAMA, S.H., M.H.",
+     "nrp": "61087713",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bandar Lampung",
+     "id_satker": 143
+    },
+    {
+     "nip": "198908122014031003",
+     "nama": "VOLANDA AZIS SALEH, SH.,SE.,MH.",
+     "nrp": "61489394",
+     "jabatan": "KEPALA SEKSI INTELIJEN KEJAKSAAN NEGERI LAMPUNG SELATAN",
+     "id_satker": 145
+    },
+    {
+     "nip": "198406102002121002",
+     "nama": "DEBI RESTA YUDHA, S.H.,M.H",
+     "nrp": "403841249",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 146
+    },
+    {
+     "nip": "198402112007121001",
+     "nama": "GUNTORO JANJANG SAPTODIE, S.H.MH",
+     "nrp": "60884484",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Lampung Utara",
+     "id_satker": 147
+    },
+    {
+     "nip": "199002052015021001",
+     "nama": "FERDY ANDRIAN, S.H., M.H.",
+     "nrp": "61590130",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Lampung Barat",
+     "id_satker": 148
+    },
+    {
+     "nip": "198204152009121002",
+     "nama": "TOPO DASAWULAN, S.H., M.H.",
+     "nrp": "61082316",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 150
+    },
+    {
+     "nip": "198508142009121002",
+     "nama": "MUHAMMAD RONY, S.H., M.H.",
+     "nrp": "61085715",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Lampung Timur",
+     "id_satker": 151
+    },
+    {
+     "nip": "198407252008121001",
+     "nama": "RAHMAT EFFENDI, S.H.,M.H.",
+     "nrp": "6009849",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Way Kanan",
+     "id_satker": 152
+    },
+    {
+     "nip": "198804042010121001",
+     "nama": "RACHMAT DJATI WALUYA, S.H.",
+     "nrp": "6118849",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tulang Bawang",
+     "id_satker": 153
+    },
+    {
+     "nip": "198604012009121004",
+     "nama": "APRIYONO, S.H., M.H",
+     "nrp": "61086712",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tanggamus",
+     "id_satker": 154
+    },
+    {
+     "nip": "198511252008121001",
+     "nama": "I KADEK DWI ARIATMAJA, S.H., M.H.",
+     "nrp": "6098561",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pringsewu",
+     "id_satker": 156
+    },
+    {
+     "nip": "197706102002121004",
+     "nama": "ANDY PRANOMO, S.H.",
+     "nrp": "403770319",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pesawaran",
+     "id_satker": 157
+    },
+    {
+     "nip": "198601122008121001",
+     "nama": "BANI IMMANUEL GINTING S, S.H., M.H.",
+     "nrp": "60986487",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 159
+    },
+    {
+     "nip": "198101062007121002",
+     "nama": "RANS FISMY, S.H., M.H.",
+     "nrp": "60881256",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Jakarta Utara",
+     "id_satker": 160
+    },
+    {
+     "nip": "198501142009121001",
+     "nama": "LINGGA NUARIE, S.H., M.H.",
+     "nrp": "61085574",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Jakarta Barat",
+     "id_satker": 161
+    },
+    {
+     "nip": "198602172008121001",
+     "nama": "YOGI SUDHARSONO, S.H., M.H.",
+     "nrp": "60986632",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI JAKARTA TIMUR",
+     "id_satker": 162
+    },
+    {
+     "nip": "198411132007031001",
+     "nama": "REZA PRASETYO HANDONO, S.H.",
+     "nrp": "60784229",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 163
+    },
+    {
+     "nip": "198006062005011004",
+     "nama": "WAWAN SETIAWAN, S.H.",
+     "nrp": "60580114",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 165
+    },
+    {
+     "nip": "197809051998031004",
+     "nama": "SLAMET HARYADI, S.H.",
+     "nrp": "49878309",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 166
+    },
+    {
+     "nip": "197904292003121005",
+     "nama": "SIGIT PRABAWA NUGRAHA, S.E., S.H., M.H.",
+     "nrp": "40479456",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 167
+    },
+    {
+     "nip": "197611062003121001",
+     "nama": "DAVID RAZI, S.E., S.H., M.H",
+     "nrp": "60476432",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 168
+    },
+    {
+     "nip": "197902192003121006",
+     "nama": "FEBRIANTO ARY KUSTIAWAN, S.H., M.Si.",
+     "nrp": "60479071",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Purwakarta",
+     "id_satker": 169
+    },
+    {
+     "nip": "197609192000121001",
+     "nama": "JAYA P SITOMPUL, S.H., M.H.",
+     "nrp": "60176071",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI GARUT",
+     "id_satker": 170
+    },
+    {
+     "nip": "198203222006031001",
+     "nama": "INDRA ABDI PERKASA, S.H.",
+     "nrp": "60682137",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Tasikmalaya",
+     "id_satker": 171
+    },
+    {
+     "nip": "197309031998031002",
+     "nama": "YADI CAHYADI, S.H.,M.H.",
+     "nrp": "49873007",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Bekasi",
+     "id_satker": 172
+    },
+    {
+     "nip": "197704122002121003",
+     "nama": "MARJUKI, S.H., M.H.",
+     "nrp": "403771183",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kabupaten Bogor",
+     "id_satker": 173
+    },
+    {
+     "nip": "198304032008121001",
+     "nama": "HADRIAN SUHARYONO, S.H.",
+     "nrp": "600983967",
+     "jabatan": "Kepala Seksi Intelijen pada  Kejaksaan Negeri Kabupaten Tasikmalaya",
+     "id_satker": 174
+    },
+    {
+     "nip": "198702082010121001",
+     "nama": "ARIE PRASETYO, S.H.",
+     "nrp": "61187130",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Indramayu",
+     "id_satker": 175
+    },
+    {
+     "nip": "198011212005012006",
+     "nama": "GUSTI RAI ADRIANI, S.H.",
+     "nrp": "60580285",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sumedang",
+     "id_satker": 176
+    },
+    {
+     "nip": "198509152007121001",
+     "nama": "BRIAN KUKUH MEDIARTO, S.H.",
+     "nrp": "6088572",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kuningan",
+     "id_satker": 177
+    },
+    {
+     "nip": "199009232014031002",
+     "nama": "MOCH. RIDWAN DERMAWAN, S.H.",
+     "nrp": "61490198",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 178
+    },
+    {
+     "nip": "198210232007121001",
+     "nama": "ARIEF GUNADI, S.H.",
+     "nrp": "60882192",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Ciamis",
+     "id_satker": 179
+    },
+    {
+     "nip": "198412312008121001",
+     "nama": "RUDI ISKONJAYA, S.H., M.H.",
+     "nrp": "600984897",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 180
+    },
+    {
+     "nip": "198702232009121001",
+     "nama": "IMAM TAUHID, S.H.",
+     "nrp": "61087339",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Cianjur",
+     "id_satker": 181
+    },
+    {
+     "nip": "198103012005011003",
+     "nama": "AKHMAD ADI SUGIARTO, S.H., M.H.",
+     "nrp": "50581060",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 182
+    },
+    {
+     "nip": "198610232009121001",
+     "nama": "IVAN YOKO WIBOWO, S.H.",
+     "nrp": "61086725",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 183
+    },
+    {
+     "nip": "198408222003121007",
+     "nama": "WAWAN KURNIAWAN, S.H.",
+     "nrp": "40484476",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kabupaten Sukabumi",
+     "id_satker": 184
+    },
+    {
+     "nip": "198510132008121002",
+     "nama": "MUHAMMAD ARIEF UBAIDILLAH, S.H., M.H.",
+     "nrp": "60985864",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Depok",
+     "id_satker": 185
+    },
+    {
+     "nip": "198512112006041003",
+     "nama": "RAHMADHY SENO LUMAKSO, S.H.",
+     "nrp": "40685151",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kabupaten Bekasi",
+     "id_satker": 186
+    },
+    {
+     "nip": "198511232009121003",
+     "nama": "AKHMAD FAKHRI, S.H.",
+     "nrp": "61085424",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Banjar",
+     "id_satker": 187
+    },
+    {
+     "nip": "197807222000031002",
+     "nama": "MUMUH ARDIYANSYAH, S.H.",
+     "nrp": "40078475",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kabupaten Bandung",
+     "id_satker": 188
+    },
+    {
+     "nip": "198411092008121002",
+     "nama": "CARLO ROMULO LUMBANBATU, S.H., M.H.",
+     "nrp": "600984977",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Cimahi",
+     "id_satker": 189
+    },
+    {
+     "nip": "198611222008121003",
+     "nama": "CAKRA NUR BUDI HARTANTO, S.H.,M.H.",
+     "nrp": "60986868",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Semarang",
+     "id_satker": 191
+    },
+    {
+     "nip": "197608201998031002",
+     "nama": "AGUS ROBANI, S.H., M.H.",
+     "nrp": "49876387",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Surakarta",
+     "id_satker": 193
+    },
+    {
+     "nip": "198003042002121002",
+     "nama": "ANDRITAMA ANASISKA, S.H., M.H.",
+     "nrp": "60380116",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 194
+    },
+    {
+     "nip": "198501172009121003",
+     "nama": "CHRISTIAN ERRY WIBOWO MARYUANNA, S.H., M.H.",
+     "nrp": "61085511",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Magelang",
+     "id_satker": 195
+    },
+    {
+     "nip": "197310042002121002",
+     "nama": "FRENGKY SILABAN, S.H., M.H.",
+     "nrp": "403730485",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Purwokerto",
+     "id_satker": 196
+    },
+    {
+     "nip": "197510061997031001",
+     "nama": "TEGUH DWICAHYONO, S.H.,M.H.",
+     "nrp": "49775163",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pati",
+     "id_satker": 197
+    },
+    {
+     "nip": "198204112007031001",
+     "nama": "WAWAN RUSMAWAN, S.H., M.H.",
+     "nrp": "60782202",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 198
+    },
+    {
+     "nip": "198310192008121002",
+     "nama": "WISNU NGUDI WIBOWO, S.H., M.H.",
+     "nrp": "60983249",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kudus",
+     "id_satker": 199
+    },
+    {
+     "nip": "198609212009121001",
+     "nama": "RULLY NASRULLOH, S.H., M.H.",
+     "nrp": "61086246",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Klaten",
+     "id_satker": 200
+    },
+    {
+     "nip": "198308302007121001",
+     "nama": "MIRZANTIO ERDINANDA, S.H., M.H.",
+     "nrp": "60883320",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Salatiga",
+     "id_satker": 201
+    },
+    {
+     "nip": "198407062008121001",
+     "nama": "AGUS YULIANA INDRA SANTOSO, S.H., M.H.",
+     "nrp": "600984574",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Rembang",
+     "id_satker": 202
+    },
+    {
+     "nip": "197301081999031002",
+     "nama": "ERMAWAN, S.H., M.M.",
+     "nrp": "59973013",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 203
+    },
+    {
+     "nip": "198410252008121001",
+     "nama": "BAMBANG WAHYU WARDHANA, S.H.",
+     "nrp": "60984867",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Purbalingga",
+     "id_satker": 204
+    },
+    {
+     "nip": "198503142008121003",
+     "nama": "ISSANDI HAKIM, S.H., M.H.",
+     "nrp": "600985817",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Purworejo",
+     "id_satker": 205
+    },
+    {
+     "nip": "198409262008121001",
+     "nama": "AHMAD SUDARMAJI, S.H.",
+     "nrp": "60984159",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kebumen",
+     "id_satker": 206
+    },
+    {
+     "nip": "199401182019022008",
+     "nama": "HANDAYANI EKA BUDHIANITA, S.H., M.H.",
+     "nrp": "61994199",
+     "jabatan": "Kepala Subseksi Pertimbangan Hukum pada Seksi Perdata dan Tata Usaha Negara Kejaksaan Negeri Kebumen",
+     "id_satker": 206
+    },
+    {
+     "nip": "198206022005011009",
+     "nama": "MUJIB SYARIS, S.H., M.H.",
+     "nrp": "60582360",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 207
+    },
+    {
+     "nip": "198305082008121001",
+     "nama": "LANGGENG PRABOWO, S.H.",
+     "nrp": "60983832",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kendal",
+     "id_satker": 208
+    },
+    {
+     "nip": "198301172005011002",
+     "nama": "JATMIKO RAHARJO, S.H.,M.H.",
+     "nrp": "40583656",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Blora",
+     "id_satker": 209
+    },
+    {
+     "nip": "198504042009121008",
+     "nama": "BASKORO ADI NUGROHO, SH",
+     "nrp": "61085502",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 210
+    },
+    {
+     "nip": "198110302009121001",
+     "nama": "ZAINAL MUTTAQIN DANAWIHARDJA, S.H.",
+     "nrp": "61081222",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Brebes",
+     "id_satker": 211
+    },
+    {
+     "nip": "198107142007031001",
+     "nama": "YULIANTO ARIBOWO, S.H., M.H.",
+     "nrp": "60781161",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 212
+    },
+    {
+     "nip": "198111262002121002",
+     "nama": "RONI INDRA, S.H., M.H.",
+     "nrp": "403810167",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Jepara",
+     "id_satker": 213
+    },
+    {
+     "nip": "198506082007121001",
+     "nama": "BAYU, S.H.",
+     "nrp": "60885492",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Karanganyar",
+     "id_satker": 214
+    },
+    {
+     "nip": "198911032014031002",
+     "nama": "GALIH MARTINO DWI CAHYO, S.H.",
+     "nrp": "61489232",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sukoharjo",
+     "id_satker": 215
+    },
+    {
+     "nip": "198409072008121001",
+     "nama": "ENDANG DARSONO, S.H.",
+     "nrp": "600984547",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 216
+    },
+    {
+     "nip": "197610142000031001",
+     "nama": "TAUFIK HIDAYAT, S.H.",
+     "nrp": "40076140",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 217
+    },
+    {
+     "nip": "198502062008121001",
+     "nama": "Dr. ARIF HIDAYAT, S.H.,M.H.",
+     "nrp": "60985905",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 218
+    },
+    {
+     "nip": "198108232006031001",
+     "nama": "DJOKO TRI ATMODJO, S.H.",
+     "nrp": "60681393",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Wonosobo",
+     "id_satker": 219
+    },
+    {
+     "nip": "198008102002121004",
+     "nama": "AGUSTINUS GABRIEL RANTE UBLEEUW, S.H.",
+     "nrp": "403801000",
+     "jabatan": "Kepala Seksi Intelijen pada  Kejaksaan Negeri Banyumas",
+     "id_satker": 220
+    },
+    {
+     "nip": "198109052005011009",
+     "nama": "DIPO IQBAL, S.H.",
+     "nrp": "60581390",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Batang",
+     "id_satker": 221
+    },
+    {
+     "nip": "198206072003121004",
+     "nama": "FRENGKI WIBOWO, S.H.,M.H.",
+     "nrp": "40482123",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Grobogan",
+     "id_satker": 222
+    },
+    {
+     "nip": "198503162009121001",
+     "nama": "DERMAWAN WICAKSONO, S.H.",
+     "nrp": "61085509",
+     "jabatan": "Kepala Seksi Intelijen Kejaksaan Negeri Kabupaten Semarang",
+     "id_satker": 223
+    },
+    {
+     "nip": "197308191999031003",
+     "nama": "YUSUF LUQITA DANAWIHARDJA, S.H., M.H.",
+     "nrp": "49973294",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 224
+    },
+    {
+     "nip": "198404042007121001",
+     "nama": "ARIEFULLOH, S.H., M.H.",
+     "nrp": "60884413",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Tegal",
+     "id_satker": 226
+    },
+    {
+     "nip": "198506092008121003",
+     "nama": "ALEXIUS BRAHMA TARIGAN, S.H., M.H.",
+     "nrp": "600985948",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kabupaten Pekalongan",
+     "id_satker": 227
+    },
+    {
+     "nip": "198110262003121002",
+     "nama": "BAGUS KURNIANTO, S.H.",
+     "nrp": "60481358",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 229
+    },
+    {
+     "nip": "198408112009121002",
+     "nama": "GINANJAR DAMAR PAMENANG, SH.MH",
+     "nrp": "61084435",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sleman",
+     "id_satker": 230
+    },
+    {
+     "nip": "197903241999031004",
+     "nama": "HERMAN HIDAYAT, S.H.,M.H",
+     "nrp": "49979146",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Gunung Kidul",
+     "id_satker": 231
+    },
+    {
+     "nip": "198002232005011004",
+     "nama": "DWI FEBRI NURHANANTO, S.H.",
+     "nrp": "60580190",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kulonprogo",
+     "id_satker": 232
+    },
+    {
+     "nip": "198105152007121001",
+     "nama": "PUTU ARYA WIBISANA, S.H., M.H.",
+     "nrp": "60881200",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 235
+    },
+    {
+     "nip": "198512162009121001",
+     "nama": "EKO BUDISUSANTO, S.H., M.H",
+     "nrp": "61085257",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Malang",
+     "id_satker": 236
+    },
+    {
+     "nip": "197710152002121001",
+     "nama": "ARIEF FATCHURROHMAN, S.H. M.H",
+     "nrp": "403770522",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Jember",
+     "id_satker": 237
+    },
+    {
+     "nip": "197907312003121001",
+     "nama": "BOMA WIRA GUMILAR, S.H., M.H.",
+     "nrp": "60479148",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Kediri",
+     "id_satker": 238
+    },
+    {
+     "nip": "198208282007031001",
+     "nama": "DICKY ANDI FIRMANSYAH, S.H.",
+     "nrp": "60782289",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Madiun",
+     "id_satker": 239
+    },
+    {
+     "nip": "196604281993031002",
+     "nama": "ARIF SURYONO, S.H.",
+     "nrp": "69366164",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Pasuruan",
+     "id_satker": 240
+    },
+    {
+     "nip": "198306212007031001",
+     "nama": "REZA ADITYA WARDHANA, S.H., M.H.",
+     "nrp": "60783219",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 241
+    },
+    {
+     "nip": "198010242003121002",
+     "nama": "SYAMSU YONI SUPRAPTO, S.H.",
+     "nrp": "40480389",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 242
+    },
+    {
+     "nip": "198006052007121001",
+     "nama": "ARDIAN JUNAEDI, S.H., M.H.",
+     "nrp": "60880215",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pamekasan",
+     "id_satker": 243
+    },
+    {
+     "nip": "198307262008121003",
+     "nama": "ANDRIE DWI SUBIANTO, S.H., M.H.",
+     "nrp": "60983960",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sidoarjo",
+     "id_satker": 244
+    },
+    {
+     "nip": "198212142008121001",
+     "nama": "LILIK DWY PRASETIO, S.H., M.H.",
+     "nrp": "600982791",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kabupaten Mojokerto",
+     "id_satker": 245
+    },
+    {
+     "nip": "198509072007121001",
+     "nama": "THESAR YUDI PRASETYA, S.H.,M.H.",
+     "nrp": "60885234",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Probolinggo",
+     "id_satker": 246
+    },
+    {
+     "nip": "198409152008121001",
+     "nama": "RIZKY SEPTA KURNIADHI, S.H., M.H.",
+     "nrp": "60998476",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Banyuwangi",
+     "id_satker": 247
+    },
+    {
+     "nip": "197710012003121002",
+     "nama": "PRABOWO SAPUTRO, S.H., M.H.",
+     "nrp": "404774169",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Blitar",
+     "id_satker": 248
+    },
+    {
+     "nip": "198501182009121002",
+     "nama": "DENNY SAPUTRA KURNIAWAN, S.H.",
+     "nrp": "61085650",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Jombang",
+     "id_satker": 249
+    },
+    {
+     "nip": "198207242001121001",
+     "nama": "AGUNG RIYADI, S.H., M.H.",
+     "nrp": "40282093",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Ponorogo",
+     "id_satker": 250
+    },
+    {
+     "nip": "198712282010121001",
+     "nama": "RADEN ACHMAD NUR RIZKI, S.H.",
+     "nrp": "6118741",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Gresik",
+     "id_satker": 251
+    },
+    {
+     "nip": "198212182008121003",
+     "nama": "RADEN YUDHI TEGUH SANTOSO, S.H.",
+     "nrp": "600982797",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Lumajang",
+     "id_satker": 252
+    },
+    {
+     "nip": "198310042007031001",
+     "nama": "AMRI RAHMANTO SAYEKTI, S.H., M.H",
+     "nrp": "60783214",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tulung Agung",
+     "id_satker": 253
+    },
+    {
+     "nip": "198505112008121001",
+     "nama": "RIO IRNANDA, S.H., M.H.",
+     "nrp": "60985779",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Trenggalek",
+     "id_satker": 254
+    },
+    {
+     "nip": "198504042007121001",
+     "nama": "APRIADY MIRADIAN, S.H., M.H.",
+     "nrp": "60885242",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Nganjuk",
+     "id_satker": 255
+    },
+    {
+     "nip": "198306222009121002",
+     "nama": "MOH ANDY SOFYAN, S.H.",
+     "nrp": "61083114",
+     "jabatan": "Kepala Seksi Intelijen pada  Kejaksaan Negeri Magetan",
+     "id_satker": 256
+    },
+    {
+     "nip": "198609142008121001",
+     "nama": "MUIS ARI GUNTORO, S.H., M.H.",
+     "nrp": "60986551",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 257
+    },
+    {
+     "nip": "198503212009121001",
+     "nama": "AFIFUL BARIR S, S.H.M.H.",
+     "nrp": "61085636",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Ngawi",
+     "id_satker": 258
+    },
+    {
+     "nip": "198607032006041001",
+     "nama": "MOCH INDRA SUBRATA, S.H., M.H.",
+     "nrp": "40686250",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sumenep",
+     "id_satker": 259
+    },
+    {
+     "nip": "198003072007031001",
+     "nama": "MHD FADLY ARBY, S.H., M.Kn.",
+     "nrp": "60780036",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Lamongan",
+     "id_satker": 260
+    },
+    {
+     "nip": "197906102007031001",
+     "nama": "ACHMAD WAHYUDI, S.H.,M.H.",
+     "nrp": "60779252",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sampang",
+     "id_satker": 261
+    },
+    {
+     "nip": "198506142008121003",
+     "nama": "IMAM HIDAYAT, S.H.,M.H.",
+     "nrp": "600985640",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 262
+    },
+    {
+     "nip": "198106222008121002",
+     "nama": "YUSAQ DJUNARTO, S.H., M.H.",
+     "nrp": "60981633",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pacitan",
+     "id_satker": 263
+    },
+    {
+     "nip": "196602231989031003",
+     "nama": "AGUS BUDIYANTO, S.H.",
+     "nrp": "4896616",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Situbondo",
+     "id_satker": 264
+    },
+    {
+     "nip": "198504252008121001",
+     "nama": "AGUNG TRI RADITYO, S.H., M.H.",
+     "nrp": "600985496",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 265
+    },
+    {
+     "nip": "198203012009121002",
+     "nama": "I MADE DEADY PERMANA PUTRA, S.H.",
+     "nrp": "61082475",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kabupaten Probolinggo",
+     "id_satker": 266
+    },
+    {
+     "nip": "198310062007121001",
+     "nama": "JEMMY SANDRA, S.H., M.H",
+     "nrp": "60883100",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tanjung Perak",
+     "id_satker": 267
+    },
+    {
+     "nip": "197910292002121003",
+     "nama": "DEDDY AGUS OKTAVIANTO, S.H., M.H.",
+     "nrp": "60379192",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kabupaten Malang",
+     "id_satker": 268
+    },
+    {
+     "nip": "198501032008121001",
+     "nama": "MOHAMMAD JANUAR FERDIAN, S.H, M.H",
+     "nrp": "60985899",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Batu",
+     "id_satker": 269
+    },
+    {
+     "nip": "198311182007121001",
+     "nama": "IWAN NUZUARDHI, S.H., M.H.",
+     "nrp": "6088325",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kabupaten Kediri",
+     "id_satker": 270
+    },
+    {
+     "nip": "198307262002121005",
+     "nama": "JOKO SUTRISNO, S.H.",
+     "nrp": "403830320",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Mojokerto",
+     "id_satker": 271
+    },
+    {
+     "nip": "198210202007121001",
+     "nama": "ARDHITIA HARJANTO, S.H.",
+     "nrp": "60882464",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 272
+    },
+    {
+     "nip": "198504282009121002",
+     "nama": "RUDY ASTANTO, S.H., M.H.",
+     "nrp": "61085318",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 274
+    },
+    {
+     "nip": "198708282009121001",
+     "nama": "DAVID NABABAN, S.H., M.H.",
+     "nrp": "61087338",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 275
+    },
+    {
+     "nip": "197912242001121004",
+     "nama": "DENI SUSANTO, S.H., M.H.",
+     "nrp": "40279105",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sintang",
+     "id_satker": 276
+    },
+    {
+     "nip": "198912132015021001",
+     "nama": "PANTER RIVAY SINAMBELA, S.H.",
+     "nrp": "61589164",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Ketapang",
+     "id_satker": 277
+    },
+    {
+     "nip": "198404022008111001",
+     "nama": "ADI RAHMANTO, S.H., M.H.",
+     "nrp": "60984113",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 278
+    },
+    {
+     "nip": "199009022015021001",
+     "nama": "GILANG PRAMA JASA, S.H., M.H.",
+     "nrp": "61590396",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Mempawah",
+     "id_satker": 280
+    },
+    {
+     "nip": "198303072009121003",
+     "nama": "BAYU KUSUMA NUGRAHA, S.H.",
+     "nrp": "61083310",
+     "jabatan": "Staf Tata Usaha CABANG KEJAKSAAN NEGERI",
+     "id_satker": 281
+    },
+    {
+     "nip": "198304202006031001",
+     "nama": "DUDY RITOKO, S.H.",
+     "nrp": "60683206",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sambas",
+     "id_satker": 282
+    },
+    {
+     "nip": "198704212014031002",
+     "nama": "SYAHRUL SYA`BAN, S.H.",
+     "nrp": "61487422",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bengkayang",
+     "id_satker": 284
+    },
+    {
+     "nip": "198904092014031002",
+     "nama": "ERIK ADIARTO, S.H., M.H.",
+     "nrp": "6148929",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 285
+    },
+    {
+     "nip": "198506132009121002",
+     "nama": "JOHN CHRISTIAN LUMBAN GAOL, S.H., M.H.",
+     "nrp": "610851",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sekadau",
+     "id_satker": 286
+    },
+    {
+     "nip": "197811102005011006",
+     "nama": "DATMAN KETAREN, S.H., M.H.",
+     "nrp": "60578057",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Palangkaraya",
+     "id_satker": 288
+    },
+    {
+     "nip": "198702242014031001",
+     "nama": "NOFANDA PRAYUDHA. B., S.H.",
+     "nrp": "61487312",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Waringin Timur",
+     "id_satker": 289
+    },
+    {
+     "nip": "198602132009121001",
+     "nama": "AMIR GIRI MURYAWAN, S.H.,M.H",
+     "nrp": "61086730",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kapuas",
+     "id_satker": 290
+    },
+    {
+     "nip": "198512312009121002",
+     "nama": "MOCHAMAD ARIFFUDIN, S.H.",
+     "nrp": "61085690",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Barito Utara",
+     "id_satker": 292
+    },
+    {
+     "nip": "198408142009121001",
+     "nama": "PANDU NUGRAHANTO, S.H.",
+     "nrp": "61084349",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI KOTAWARINGIN BARAT",
+     "id_satker": 293
+    },
+    {
+     "nip": "198308082008121001",
+     "nama": "ANTONI KUSUMO, S.H.",
+     "nrp": "600983117",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Barito Selatan",
+     "id_satker": 294
+    },
+    {
+     "nip": "197704242002121002",
+     "nama": "AEP SAEPULLOH, S.H.",
+     "nrp": "403770393",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Murung Raya",
+     "id_satker": 295
+    },
+    {
+     "nip": "198012202007121001",
+     "nama": "ANGGA SAPUTRA, S.H.",
+     "nrp": "60880346",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 296
+    },
+    {
+     "nip": "198302172007121002",
+     "nama": "TEGUH ISKANDAR, S.H.",
+     "nrp": "60883216",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Gunung Mas",
+     "id_satker": 297
+    },
+    {
+     "nip": "198109252006031001",
+     "nama": "MUGIONO KURNIAWAN, S.H.",
+     "nrp": "60681243",
+     "jabatan": "Kepala Seksi Intelijen pada  Kejaksaan Negeri Pulang Pisau",
+     "id_satker": 298
+    },
+    {
+     "nip": "198108212002121004",
+     "nama": "RONALD PERONIKO, S.H.",
+     "nrp": "40381595",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 299
+    },
+    {
+     "nip": "196908251993031002",
+     "nama": "MUHAMMAD KARYADIE, S.H.",
+     "nrp": "49369166",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Seruyan",
+     "id_satker": 300
+    },
+    {
+     "nip": "198305292005011002",
+     "nama": "MA'RUF MUZAKIR, S.H.",
+     "nrp": "40583494",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 301
+    },
+    {
+     "nip": "198401172009121001",
+     "nama": "BERSY PRIMA, S.H.",
+     "nrp": "61084411",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 302
+    },
+    {
+     "nip": "198603122009121002",
+     "nama": "DIMAS PURNAMA PUTRA, S.H., M.H.",
+     "nrp": "61086383",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 304
+    },
+    {
+     "nip": "198709252009121001",
+     "nama": "M. REZEKI KURNIAWAN, S.H.",
+     "nrp": "61087379",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Hulu Sungai Selatan",
+     "id_satker": 305
+    },
+    {
+     "nip": "199102262014031001",
+     "nama": "MOHAMAD FIKRI NURIANA, S.H., M.H.",
+     "nrp": "61491200",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 306
+    },
+    {
+     "nip": "199012272015021002",
+     "nama": "FAJAR GIGIH WIBOWO, S.H., M.H.",
+     "nrp": "61590238",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 307
+    },
+    {
+     "nip": "198110272009121001",
+     "nama": "ASIS BUDIANTO, S.H., M.H.",
+     "nrp": "61081389",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 308
+    },
+    {
+     "nip": "198107242006031002",
+     "nama": "MUHAMMAD RACHMADHANI, S.H.",
+     "nrp": "60681222",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI HULU SUNGAI TENGAH",
+     "id_satker": 309
+    },
+    {
+     "nip": "198910012015021003",
+     "nama": "MUHAMMAD FADHIL, S.H.",
+     "nrp": "61589412",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tabalong",
+     "id_satker": 310
+    },
+    {
+     "nip": "198310312008121002",
+     "nama": "RONALD OKTHA, S.H.",
+     "nrp": "60983966",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 311
+    },
+    {
+     "nip": "199111192015021001",
+     "nama": "RADITYO WISNU AJI, S.H., M.H.",
+     "nrp": "61591320",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tanah Laut",
+     "id_satker": 312
+    },
+    {
+     "nip": "198504212007121001",
+     "nama": "MOHAMMAD HAMIDUN NOOR, S.H.",
+     "nrp": "60885214",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Barito Kuala",
+     "id_satker": 313
+    },
+    {
+     "nip": "199003232015021001",
+     "nama": "DWINANDA PRARAMADHANISIDI KARIM, S.H.",
+     "nrp": "61590163",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Banjarbaru",
+     "id_satker": 314
+    },
+    {
+     "nip": "197911072007121002",
+     "nama": "SENO AJI, S.H.",
+     "nrp": "60879220",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tanah Bumbu",
+     "id_satker": 315
+    },
+    {
+     "nip": "199105062015021002",
+     "nama": "DIMAS SATRIA PUTRA, S.H.",
+     "nrp": "61591348",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Balangan",
+     "id_satker": 316
+    },
+    {
+     "nip": "198608152008121001",
+     "nama": "ALI MUSTOFA, S.H., M.H.",
+     "nrp": "60986750",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Balikpapan",
+     "id_satker": 318
+    },
+    {
+     "nip": "198509212008121003",
+     "nama": "ERFANDY RUSDY QUILIEM, S.H., M.H.",
+     "nrp": "60985728",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Samarinda",
+     "id_satker": 319
+    },
+    {
+     "nip": "198310082009121002",
+     "nama": "FARIZ OKTAN, S.H., M.H.",
+     "nrp": "61083241",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 320
+    },
+    {
+     "nip": "198901072014031002",
+     "nama": "HENDI SINATRYA IMRAN, S.H.",
+     "nrp": "61489358",
+     "jabatan": "KEPALA SEKSI INTELIJEN KEJAKSAAN NEGERI PASER",
+     "id_satker": 321
+    },
+    {
+     "nip": "198912142014031001",
+     "nama": "DEDI RIYANTO, S.H., M.H.",
+     "nrp": "61489268",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 322
+    },
+    {
+     "nip": "198402232009121001",
+     "nama": "HARISMAND, S.H.",
+     "nrp": "61084647",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 323
+    },
+    {
+     "nip": "198105062003121004",
+     "nama": "ISWAN NOOR, S.H., M.H.",
+     "nrp": "60481260",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Nunukan",
+     "id_satker": 324
+    },
+    {
+     "nip": "197809062006031001",
+     "nama": "DANANG LEKSONO WIBOWO, S.H.,M.H.",
+     "nrp": "60678142",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 325
+    },
+    {
+     "nip": "198401062007121001",
+     "nama": "CHRISTHEAN ARUNG, S.H.",
+     "nrp": "60884262",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 327
+    },
+    {
+     "nip": "198205082002121003",
+     "nama": "MUHAMMAD ISRAQ, S.H.",
+     "nrp": "403820696",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 328
+    },
+    {
+     "nip": "198909012014031001",
+     "nama": "ALI AKBAR NUGROHO, S.H.",
+     "nrp": "61489217",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Malinau",
+     "id_satker": 329
+    },
+    {
+     "nip": "198403262002121003",
+     "nama": "DONY DWI WIJAYANTO, S.H.",
+     "nrp": "403840669",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 330
+    },
+    {
+     "nip": "197503061997031002",
+     "nama": "HIJRAN SAFAR, S.H., M.H.",
+     "nrp": "49775049",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Manado",
+     "id_satker": 332
+    },
+    {
+     "nip": "198205042007121001",
+     "nama": "MEIDY WENSEN, S.H.",
+     "nrp": "60882258",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 334
+    },
+    {
+     "nip": "198103072008121001",
+     "nama": "RONY KURNIAWAN, S.H.",
+     "nrp": "60981150",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 336
+    },
+    {
+     "nip": "198201182009121002",
+     "nama": "SUHENDRO GANDA KUSUMA, S.H.",
+     "nrp": "61082697",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 337
+    },
+    {
+     "nip": "198305162008121001",
+     "nama": "ORCHIDO BELLAMARGA, S.H.",
+     "nrp": "60983244",
+     "jabatan": "KEPALA SEKSI INTELIJEN KEJAKSAAN NEGERI BITUNG",
+     "id_satker": 337
+    },
+    {
+     "nip": "198912252014031003",
+     "nama": "CHRISTIAN EVANI SINGAL, S.H.",
+     "nrp": "6148963",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 338
+    },
+    {
+     "nip": "198502252007121001",
+     "nama": "DEDYKARTO ANSIGA, S.H.",
+     "nrp": "60885288",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 339
+    },
+    {
+     "nip": "198711052014031002",
+     "nama": "HASBULLAH, S.H.",
+     "nrp": "61487128",
+     "jabatan": "Kepala Seksi Intelijen Kejaksaan Negeri Kepulauan Talaud",
+     "id_satker": 340
+    },
+    {
+     "nip": "198005112006031001",
+     "nama": "FRANSISCUS JUAN PALEMPUNG, S.H.",
+     "nrp": "60680277",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 342
+    },
+    {
+     "nip": "198802152010121001",
+     "nama": "MUHAMAD JUFRI TABAH, S.H.",
+     "nrp": "6118889",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kepulauan Siau Tagulandang Biaro",
+     "id_satker": 343
+    },
+    {
+     "nip": "198311022007121001",
+     "nama": "YASSER SAMAHATI, S.H.",
+     "nrp": "60883290",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bolaang Mongondow Utara",
+     "id_satker": 345
+    },
+    {
+     "nip": "197702201998031002",
+     "nama": "I NYOMAN PURYA, S.H., M.H.",
+     "nrp": "49877255",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 347
+    },
+    {
+     "nip": "198209042008121002",
+     "nama": "SARMAN SANTOSA TANDISAU, S.H.",
+     "nrp": "60982696",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Banggai",
+     "id_satker": 348
+    },
+    {
+     "nip": "198401312008121001",
+     "nama": "ACHMAD BHIRAWA BISSAWAB, S.H.",
+     "nrp": "60984717",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Toli-Toli",
+     "id_satker": 351
+    },
+    {
+     "nip": "198209212007121001",
+     "nama": "MUHAMMAD REZA KURNIAWAN, S.H., M.H.",
+     "nrp": "60882140",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Poso",
+     "id_satker": 355
+    },
+    {
+     "nip": "198403162005011004",
+     "nama": "IKRAM, S.H.",
+     "nrp": "40584590",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Donggala",
+     "id_satker": 357
+    },
+    {
+     "nip": "198901162010121001",
+     "nama": "ANDI PRAWIRO SETIONO, S.H. M.H.",
+     "nrp": "61189128",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 360
+    },
+    {
+     "nip": "197611082001121003",
+     "nama": "IRWANTO, S.H.",
+     "nrp": "60276198",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 361
+    },
+    {
+     "nip": "199009212014031002",
+     "nama": "LINDU AJI SAPUTRO, S.H.",
+     "nrp": "61490458",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Buol",
+     "id_satker": 364
+    },
+    {
+     "nip": "198805042014031004",
+     "nama": "LA ODE MUHAMMAD NUZUL, S.H.",
+     "nrp": "6148813",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tojo Una-Una",
+     "id_satker": 367
+    },
+    {
+     "nip": "198912222014031003",
+     "nama": "TEDDY ARISANDI, S.H., M.H.",
+     "nrp": "6148984",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Morowali",
+     "id_satker": 369
+    },
+    {
+     "nip": "198601212008121001",
+     "nama": "BUSTANIL NADJAMUDDIN ARIFIN, S.H.",
+     "nrp": "6098699",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 372
+    },
+    {
+     "nip": "198405222007121002",
+     "nama": "WAHYU WIBOWO SAPUTRO, S.H.",
+     "nrp": "60884427",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bau-Bau",
+     "id_satker": 373
+    },
+    {
+     "nip": "197803212006031001",
+     "nama": "ILMIAWAN TIBE HAFID, S.H.",
+     "nrp": "60678298",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 374
+    },
+    {
+     "nip": "198002272005011004",
+     "nama": "FERY FEBRIANTO, S.H.",
+     "nrp": "50580040",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Muna",
+     "id_satker": 375
+    },
+    {
+     "nip": "198303112008121001",
+     "nama": "ZULKARNAEN PERDANA MUSTAKA, S.H.",
+     "nrp": "60983959",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 376
+    },
+    {
+     "nip": "198006102007031001",
+     "nama": "DENI MULYAWAN, S.H.",
+     "nrp": "60780315",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 377
+    },
+    {
+     "nip": "198510022009121001",
+     "nama": "LA ODE MUHAMAD FIRMAN, S.H., M.H.",
+     "nrp": "61085471",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kolaka Utara",
+     "id_satker": 378
+    },
+    {
+     "nip": "199204142014031001",
+     "nama": "TEGUH OKI TRIBOWO, S.H., M.H.",
+     "nrp": "61492414",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Konawe Selatan",
+     "id_satker": 379
+    },
+    {
+     "nip": "199106062015021001",
+     "nama": "NORBERTUS DHENDY RESTU PRAYOGO, S.H.",
+     "nrp": "61591306",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Buton",
+     "id_satker": 380
+    },
+    {
+     "nip": "198602192009121001",
+     "nama": "HORAS ERWIN SIREGAR, S.H.",
+     "nrp": "6108670",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bombana",
+     "id_satker": 381
+    },
+    {
+     "nip": "198103032006031001",
+     "nama": "ANDI ALAMSYAH, S.H.,M.H.",
+     "nrp": "60681228",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Makassar",
+     "id_satker": 383
+    },
+    {
+     "nip": "198408012007121001",
+     "nama": "ANDI HAIRIL AKHMAD, S.H., M.H.",
+     "nrp": "60884361",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bone",
+     "id_satker": 386
+    },
+    {
+     "nip": "197807172006031001",
+     "nama": "SISWANDI, S.H., M.H.",
+     "nrp": "60678299",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Palopo",
+     "id_satker": 390
+    },
+    {
+     "nip": "198010022002121004",
+     "nama": "ACHMAD ARAFAT ARIEF BULU, S.H., M.H.",
+     "nrp": "403800816",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Gowa",
+     "id_satker": 392
+    },
+    {
+     "nip": "198404202006041002",
+     "nama": "ANDI UNRU, S.H.",
+     "nrp": "40684352",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Maros",
+     "id_satker": 394
+    },
+    {
+     "nip": "198401092009121001",
+     "nama": "YENI CAHYO RISDIANTORO, S.H.",
+     "nrp": "61084554",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 396
+    },
+    {
+     "nip": "198712092009121002",
+     "nama": "FAUZAN EKA PRASETIA, S.H., M.H.",
+     "nrp": "61087562",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pinrang",
+     "id_satker": 397
+    },
+    {
+     "nip": "198707192014031003",
+     "nama": "A. SAIFULLAH, S.H., M.H.",
+     "nrp": "61487138",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Wajo",
+     "id_satker": 398
+    },
+    {
+     "nip": "198103282002121005",
+     "nama": "REKAFIT M, S.H.",
+     "nrp": "403810767",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Soppeng",
+     "id_satker": 399
+    },
+    {
+     "nip": "198009042005011005",
+     "nama": "DERI FUAD RACHMAN, S.H.",
+     "nrp": "40580343",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Barru",
+     "id_satker": 400
+    },
+    {
+     "nip": "198104212006031001",
+     "nama": "MUHAMMAD YUSRAN SETIAWAN, S.H.",
+     "nrp": "60681307",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bulukumba",
+     "id_satker": 401
+    },
+    {
+     "nip": "198405072008121001",
+     "nama": "HENDARTA, S.H., M.H.",
+     "nrp": "60984354",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 403
+    },
+    {
+     "nip": "197709031999031002",
+     "nama": "MUHAMMAD EDRIYADI DJUFRI, S.H.",
+     "nrp": "49977219",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Enrekang",
+     "id_satker": 404
+    },
+    {
+     "nip": "198411132010121001",
+     "nama": "MUHAMMAD AKBAR, S.H.",
+     "nrp": "6118493",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tana Toraja",
+     "id_satker": 405
+    },
+    {
+     "nip": "199101122014031001",
+     "nama": "SULFIKAR, S.H.",
+     "nrp": "61491147",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 407
+    },
+    {
+     "nip": "198305192009121001",
+     "nama": "LA ODE FARIADIN, S.H.",
+     "nrp": "61083468",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 408
+    },
+    {
+     "nip": "198601312009121002",
+     "nama": "ZAINAL ABIDIN SALAMPESSY, S.H., M.H.",
+     "nrp": "61086662",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sidenrengrappang",
+     "id_satker": 409
+    },
+    {
+     "nip": "198103112002121004",
+     "nama": "ANDI SULKIFLI HERMAN, S.H.",
+     "nrp": "403810820",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 410
+    },
+    {
+     "nip": "198512042009121004",
+     "nama": "MUH MUSDAR, S.H.",
+     "nrp": "61085525",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Takalar",
+     "id_satker": 411
+    },
+    {
+     "nip": "197007241994031002",
+     "nama": "YULIANTO ALWI LATIF, S.H.",
+     "nrp": "48470102",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 412
+    },
+    {
+     "nip": "198203082009121003",
+     "nama": "ANDI ARDIAMAN, S.H.",
+     "nrp": "61082523",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Luwu",
+     "id_satker": 413
+    },
+    {
+     "nip": "198109142005011006",
+     "nama": "BARA MANTIO IRSAHARA, S.H., M.H.",
+     "nrp": "60581210",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 414
+    },
+    {
+     "nip": "198202102007031001",
+     "nama": "ADY WIRA BHAKTI, S.H.,M.H.",
+     "nrp": "60782285",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Denpasar",
+     "id_satker": 417
+    },
+    {
+     "nip": "197706042001121002",
+     "nama": "IDA BAGUS ALIT AMBARA PIDADA, S.H., M.H.",
+     "nrp": "60277243",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Buleleng",
+     "id_satker": 418
+    },
+    {
+     "nip": "199010202014031001",
+     "nama": "I NYOMAN TRIARTA KURNIAWAN, S.H.",
+     "nrp": "61490428",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Klungkung",
+     "id_satker": 419
+    },
+    {
+     "nip": "197703132001121002",
+     "nama": "I NENGAH GUNARTA, S.H., M.H.",
+     "nrp": "40277173",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bangli",
+     "id_satker": 421
+    },
+    {
+     "nip": "198701272009121001",
+     "nama": "I KOMANG UGRA JAGIWIRATA, S.H., M.H.",
+     "nrp": "61087645",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Karangasem",
+     "id_satker": 422
+    },
+    {
+     "nip": "198208242002121004",
+     "nama": "KOMANG ADI WIJAYA, S.H.",
+     "nrp": "403820862",
+     "jabatan": "Kepala Seksi Intelijen Kejaksaan Negeri Gianyar",
+     "id_satker": 423
+    },
+    {
+     "nip": "198203112008121001",
+     "nama": "FAJAR SAID, S.H., LL.M.",
+     "nrp": "600982661",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI JEMBRANA",
+     "id_satker": 424
+    },
+    {
+     "nip": "198204012002121002",
+     "nama": "I GUSTI NGURAH ANOM SUKAWINATA, S.H.",
+     "nrp": "403820873",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 425
+    },
+    {
+     "nip": "198610052009121003",
+     "nama": "GDE ANCANA, S.H.,M.H.",
+     "nrp": "61086388",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Badung",
+     "id_satker": 426
+    },
+    {
+     "nip": "198503092008121002",
+     "nama": "IDA BAGUS PUTU WIDNYANA, S.H., M.H.",
+     "nrp": "60985711",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Mataram",
+     "id_satker": 427
+    },
+    {
+     "nip": "198111112000031001",
+     "nama": "MUHAMMAD HARUN ALRASYID, S.H.",
+     "nrp": "40081119",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Mataram",
+     "id_satker": 428
+    },
+    {
+     "nip": "198510022007121001",
+     "nama": "I MADE JURI IMANU, S.H., M.H.",
+     "nrp": "60885425",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Lombok Tengah",
+     "id_satker": 429
+    },
+    {
+     "nip": "197901022006031001",
+     "nama": "LALU MOHAMAD RASYIDI, S.H., M.H.",
+     "nrp": "60679342",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Lombok Timur",
+     "id_satker": 430
+    },
+    {
+     "nip": "199103072014031001",
+     "nama": "ZANUAR IRKHAM, S.H.",
+     "nrp": "61491368",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sumbawa",
+     "id_satker": 431
+    },
+    {
+     "nip": "199102092014031002",
+     "nama": "DEBY FEBRIANTIKA FAUZI, S.H., M.H.",
+     "nrp": "61491160",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bima",
+     "id_satker": 432
+    },
+    {
+     "nip": "198706142010121001",
+     "nama": "JONI EKO WALUYO, S.H.",
+     "nrp": "6118767",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Dompu",
+     "id_satker": 433
+    },
+    {
+     "nip": "198907142014031001",
+     "nama": "RASYID YULIANSYAH, S.H., M.H.",
+     "nrp": "61489336",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sumbawa Barat",
+     "id_satker": 434
+    },
+    {
+     "nip": "198308282007121002",
+     "nama": "RINDAYA SITOMPUL, S.H., M.H.",
+     "nrp": "60883233",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kupang",
+     "id_satker": 436
+    },
+    {
+     "nip": "198607082006041002",
+     "nama": "I PUTU ERI SETIAWAN, S.H.",
+     "nrp": "40686374",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Timor Tengah Selatan",
+     "id_satker": 437
+    },
+    {
+     "nip": "198109072002121005",
+     "nama": "SEVIANE HENDRIK TIIP, S.H.",
+     "nrp": "403810956",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Timor Tengah Utara",
+     "id_satker": 438
+    },
+    {
+     "nip": "198505082009121003",
+     "nama": "BUDI RAHARJO, S.H.",
+     "nrp": "61085603",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Belu",
+     "id_satker": 439
+    },
+    {
+     "nip": "199010182015021002",
+     "nama": "ARBIN NU`MAN, S.H.",
+     "nrp": "61590423",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Ende",
+     "id_satker": 440
+    },
+    {
+     "nip": "199110062015021001",
+     "nama": "I PUTU BAYU PINARTA, S.H., M.H.",
+     "nrp": "61591432",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sikka",
+     "id_satker": 441
+    },
+    {
+     "nip": "197507151999031005",
+     "nama": "TAUFIK TADJUDDIN, S.H.",
+     "nrp": "49975116",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Flores Timur",
+     "id_satker": 442
+    },
+    {
+     "nip": "198912212014031001",
+     "nama": "JOJON DESDUAN LUMBAN GAOL, S.H.",
+     "nrp": "61489253",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Ngada",
+     "id_satker": 446
+    },
+    {
+     "nip": "198308212007121002",
+     "nama": "ABDUL HARIS, S.H., M.H.",
+     "nrp": "60883392",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sumba Timur",
+     "id_satker": 447
+    },
+    {
+     "nip": "199008032014031001",
+     "nama": "TOMMY HARIZON, S.H.",
+     "nrp": "6149090",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Sumba Barat",
+     "id_satker": 448
+    },
+    {
+     "nip": "198811062014031006",
+     "nama": "ZAKARIA SULISTIONO, S.H.",
+     "nrp": "61488204",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 449
+    },
+    {
+     "nip": "198301292005011002",
+     "nama": "JANU WIDONO, S.H.",
+     "nrp": "40583339",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Rote Ndao",
+     "id_satker": 450
+    },
+    {
+     "nip": "198804222010121001",
+     "nama": "TEDDY VALENTINO, S.H.",
+     "nrp": "6118878",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Lembata",
+     "id_satker": 451
+    },
+    {
+     "nip": "198207272007121001",
+     "nama": "TONY AJI KURNIAWAN, S.H.",
+     "nrp": "60882409",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 452
+    },
+    {
+     "nip": "198005062006031001",
+     "nama": "I WAYAN AGUS WILAYANA, S.H., M.H.",
+     "nrp": "60680328",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kabupaten Kupang",
+     "id_satker": 453
+    },
+    {
+     "nip": "197509082000031005",
+     "nama": "SUSENO, S.H.",
+     "nrp": "40075205",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 454
+    },
+    {
+     "nip": "197304082000121001",
+     "nama": "ALI TOATUBUN, S.H.",
+     "nrp": "60173266",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 456
+    },
+    {
+     "nip": "198303012009121001",
+     "nama": "MARCUS YONGEN PANGKEY, S.H.",
+     "nrp": "61083657",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Maluku Tengah",
+     "id_satker": 459
+    },
+    {
+     "nip": "198508092009121002",
+     "nama": "RENDRA TAQWA AGUSTO, S.H.",
+     "nrp": "6108552",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tual",
+     "id_satker": 462
+    },
+    {
+     "nip": "199208192015021001",
+     "nama": "GUSTIAN WINANDA, S.H.",
+     "nrp": "61592110",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Buru",
+     "id_satker": 464
+    },
+    {
+     "nip": "198401102009121002",
+     "nama": "ROMI PRASETIYA NITI SASMITO, S.H.",
+     "nrp": "61084607",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 466
+    },
+    {
+     "nip": "198909132014031002",
+     "nama": "FRENGKY ANDRI PUTRA, S.H.",
+     "nrp": "61489286",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Seram Bagian Barat",
+     "id_satker": 467
+    },
+    {
+     "nip": "199008112015021002",
+     "nama": "RIAN JOZE LOPULALAN , S.H.",
+     "nrp": "61590448",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Seram Bagian Timur",
+     "id_satker": 468
+    },
+    {
+     "nip": "197902172003121004",
+     "nama": "TOGI HAMONANGAN SIRAIT, S.H.",
+     "nrp": "50479029",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Jayapura",
+     "id_satker": 471
+    },
+    {
+     "nip": "199202102015021003",
+     "nama": "CHRISPO MUAL NATIO SIMANJUNTAK, S.H.",
+     "nrp": "6159242",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Biak Numfor",
+     "id_satker": 472
+    },
+    {
+     "nip": "198504222009121002",
+     "nama": "WILLY ATER, S.H.",
+     "nrp": "61085667",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Merauke",
+     "id_satker": 473
+    },
+    {
+     "nip": "198408272009121001",
+     "nama": "ALFISIUS ADRIAN SOMBO, S.H.",
+     "nrp": "61084675",
+     "jabatan": "Kepala Seksi Intelijen Kejaksaan Negeri Jayawijaya",
+     "id_satker": 474
+    },
+    {
+     "nip": "198203132002121005",
+     "nama": "PIRLY MAXON MOMONGAN, S.H.",
+     "nrp": "403821090",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Nabire",
+     "id_satker": 475
+    },
+    {
+     "nip": "198112192007121002",
+     "nama": "HERRY ARUNG BORO, S.H.",
+     "nrp": "60881445",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kepulauan Yapen",
+     "id_satker": 476
+    },
+    {
+     "nip": "198409292005011001",
+     "nama": "MASDALIANTO, S.H.",
+     "nrp": "40584499",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Mimika",
+     "id_satker": 477
+    },
+    {
+     "nip": "197905262006031001",
+     "nama": "AAN SYAEFUL ANWAR, S.H., M.H.",
+     "nrp": "60679421",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Ternate",
+     "id_satker": 479
+    },
+    {
+     "nip": "198201072006031003",
+     "nama": "GAMA PALIAS, S.H.",
+     "nrp": "60682404",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 480
+    },
+    {
+     "nip": "198301162009121001",
+     "nama": "OSTEN GERHAN POLTAK, S.H.",
+     "nrp": "6108364",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Halmahera Selatan",
+     "id_satker": 481
+    },
+    {
+     "nip": "198409262009121001",
+     "nama": "RIDZKY SEPTRIANANDA, S.H.",
+     "nrp": "61084565",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Halmahera Utara",
+     "id_satker": 482
+    },
+    {
+     "nip": "199003062015021003",
+     "nama": "DICKY DWI PUTRA, S.H.",
+     "nrp": "61590194",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kepulauan Sula",
+     "id_satker": 483
+    },
+    {
+     "nip": "197806152005011005",
+     "nama": "GERALD SALHUTERU, S.H.",
+     "nrp": "60578327",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 484
+    },
+    {
+     "nip": "198508212009121004",
+     "nama": "ERLY ANDIKA WURARA, S.H.",
+     "nrp": "61085453",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 485
+    },
+    {
+     "nip": "198207102008121001",
+     "nama": "EDY DJUEBANG, S.H.,M.H.",
+     "nrp": "60982227",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 486
+    },
+    {
+     "nip": "198601092014031001",
+     "nama": "IVAN DAY ISWANDY, S.H.",
+     "nrp": "61486311",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Halmahera Timur",
+     "id_satker": 487
+    },
+    {
+     "nip": "198602212014031001",
+     "nama": "NAZAMUDDIN, S.H.",
+     "nrp": "6148615",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 488
+    },
+    {
+     "nip": "198007312003121004",
+     "nama": "REZKINIL JUSAR, S.H., M.H.",
+     "nrp": "60480053",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Serang",
+     "id_satker": 490
+    },
+    {
+     "nip": "198209092009121003",
+     "nama": "KHUSNUL FUAD, S.H.",
+     "nrp": "61082595",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Tangerang",
+     "id_satker": 491
+    },
+    {
+     "nip": "198806172014031001",
+     "nama": "WILDANI  HAPIT, S.H.",
+     "nrp": "61488207",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pandeglang",
+     "id_satker": 492
+    },
+    {
+     "nip": "198505182010121001",
+     "nama": "ANDI MUHAMMAD NUR INDRAMAHAVIRA ARIEF, S.H.",
+     "nrp": "6118524",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 493
+    },
+    {
+     "nip": "198602062009121001",
+     "nama": "FEBY GUMILANG, S.H., M.H.",
+     "nrp": "61086122",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Cilegon",
+     "id_satker": 494
+    },
+    {
+     "nip": "198210282009121002",
+     "nama": "DONI SAPUTRA, S.H.",
+     "nrp": "61082133",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kabupaten Tangerang",
+     "id_satker": 495
+    },
+    {
+     "nip": "198512182006041002",
+     "nama": "HASBULLAH, S.H., M.H.",
+     "nrp": "40685125",
+     "jabatan": "Kepala Seksi Intelijen Kejaksaan Negeri Tangerang Selatan",
+     "id_satker": 496
+    },
+    {
+     "nip": "198002022003121003",
+     "nama": "BINTANG SIMATUPANG, S.H., M.H.",
+     "nrp": "60480023",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Pangkal Pinang",
+     "id_satker": 498
+    },
+    {
+     "nip": "198008142003121007",
+     "nama": "MUHAMMAD AGUSSYAHFITRI, S.H.",
+     "nrp": "40480412",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bangka",
+     "id_satker": 499
+    },
+    {
+     "nip": "198308222007121002",
+     "nama": "RIKI GUSWANDRI, S.H.",
+     "nrp": "6088356",
+     "jabatan": "Kepala Seksi Intelijen pada  Kejaksaan Negeri Belitung",
+     "id_satker": 501
+    },
+    {
+     "nip": "198406082008121001",
+     "nama": "YOYOK JUNAIDI, S.H., M.H.",
+     "nrp": "60984368",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 503
+    },
+    {
+     "nip": "198501282008121001",
+     "nama": "MICHAEL YANDI PANGIHUTAN TAMPUBOLON, S.H., M.H.",
+     "nrp": "60985200",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bangka Selatan",
+     "id_satker": 504
+    },
+    {
+     "nip": "198003082003121001",
+     "nama": "IVAN GAUTAMA S, S.H., M.H.",
+     "nrp": "60480099",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 505
+    },
+    {
+     "nip": "198904102014031002",
+     "nama": "YESKY VERLANGGA WOHON, S.H.",
+     "nrp": "61489294",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 507
+    },
+    {
+     "nip": "198408162008121001",
+     "nama": "RICARDO , S.H.",
+     "nrp": "609848",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kota Gorontalo",
+     "id_satker": 508
+    },
+    {
+     "nip": "199004302015021001",
+     "nama": "MUHAMAD REZA RUMONDOR, S.H., M.H.",
+     "nrp": "61590431",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Boalemo",
+     "id_satker": 509
+    },
+    {
+     "nip": "198501302005011004",
+     "nama": "SANTO MUSA, S.H.,M.H.",
+     "nrp": "40585816",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 510
+    },
+    {
+     "nip": "198201152009121002",
+     "nama": "IWAN SOFYAN, S.H., M.H.",
+     "nrp": "61082474",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 511
+    },
+    {
+     "nip": "197903282000031004",
+     "nama": "EDDIE SOEDRADJAT, S.H.",
+     "nrp": "40079227",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 512
+    },
+    {
+     "nip": "198603272010121001",
+     "nama": "DEDEK SYUMARTA SUIR, S.H.",
+     "nrp": "611861",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tanjung Pinang",
+     "id_satker": 514
+    },
+    {
+     "nip": "198003162005011005",
+     "nama": "ANDREAS TARIGAN, S.H.,M.H",
+     "nrp": "60580023",
+     "jabatan": "KEPALA SEKSI INTELIJEN KEJAKSAAN NEGERI BATAM",
+     "id_satker": 515
+    },
+    {
+     "nip": "198307032008121001",
+     "nama": "REZI DHARMAWAN, S.H.,M.H.",
+     "nrp": "60983137",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 516
+    },
+    {
+     "nip": "198110182007121001",
+     "nama": "MAIMAN LIMBONG, S.H., M.H.",
+     "nrp": "6088179",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 519
+    },
+    {
+     "nip": "198311162008121001",
+     "nama": "MUHAMMAD BAHARUDDIN, S.H., M.H.",
+     "nrp": "600983230",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Mamuju",
+     "id_satker": 524
+    },
+    {
+     "nip": "198705082009121002",
+     "nama": "M. ZAKI MUBARAK, S.H.",
+     "nrp": "61087519",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Majene",
+     "id_satker": 525
+    },
+    {
+     "nip": "198007212002121001",
+     "nama": "M. FARID, S.H.",
+     "nrp": "40380834",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Polewali Mandar",
+     "id_satker": 526
+    },
+    {
+     "nip": "198307302009121001",
+     "nama": "ARJELY PONGBANNY, S.H.",
+     "nrp": "61083664",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 527
+    },
+    {
+     "nip": "198206292007121001",
+     "nama": "IWAN MEX NAMARA, S.H.,M.H.",
+     "nrp": "60882278",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI PASANGKAYU",
+     "id_satker": 528
+    },
+    {
+     "nip": "197303292000121001",
+     "nama": "MUHAMMAD IHSAN HUSNI, S.H.",
+     "nrp": "60173181",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Manokwari",
+     "id_satker": 530
+    },
+    {
+     "nip": "198709262010121001",
+     "nama": "I PUTU SASTRA ADI WICAKSANA, SH.",
+     "nrp": "61187104",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 531
+    },
+    {
+     "nip": "198702052014072001",
+     "nama": "SARAH EMELIA CLAUDIA BUKORSYOM, S.H.",
+     "nrp": "61487470",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Fak-Fak",
+     "id_satker": 532
+    },
+    {
+     "nip": "198311202010121001",
+     "nama": "YUSRAN ALI BAADILLA, S.H.",
+     "nrp": "61183113",
+     "jabatan": "Kepala Seksi INTELIJEN",
+     "id_satker": 533
+    },
+    {
+     "nip": "199211082015021001",
+     "nama": "AHMAD FAHRUDIN, S.H.",
+     "nrp": "61592329",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Kaimana",
+     "id_satker": 534
+    },
+    {
+     "nip": "198503212008121001",
+     "nama": "ADE CHANDRA PRAKARSA, S.H.",
+     "nrp": "600985386",
+     "jabatan": "KEPALA SEKSI INTELIJEN",
+     "id_satker": 521
+    },
+    {
+     "nip": "198112162008121001",
+     "nama": "DONGAN MARINGAN TUA SIRAIT, S.H.",
+     "nrp": "600981474",
+     "jabatan": "Kepala Seksi Perdata dan Tata Usaha Negara Kejaksaan Negeri Bintan",
+     "id_satker": 522
+    },
+    {
+     "nip": "198404062007031001",
+     "nama": "SAMSUL APRIWAHYUDI SAHUBAUWA, S.H.",
+     "nrp": "60784296",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Bintan",
+     "id_satker": 522
+    },
+    {
+     "nip": "198501292008121001",
+     "nama": "ARDI HERLIAN SYAH, S.H.",
+     "nrp": "600985332",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Mesuji",
+     "id_satker": 535
+    },
+    {
+     "nip": "198611222009121002",
+     "nama": "DODI ARIYANSYAH, SH. MH.",
+     "nrp": "61086282",
+     "jabatan": "Kepala Seksi Intelijen pada Kejaksaan Negeri Tulang Bawang Barat",
+     "id_satker": 536
+    },
+    {
+     "nip": "198303152006031001",
+     "nama": "M REZA PAHLEPI, S.H.",
+     "nrp": "60683266",
+     "jabatan": "KEPALA SEKSI INTELIJEN PADA KEJAKSAAN NEGERI BULUNGAN",
+     "id_satker": 326
+    }
+   ]
