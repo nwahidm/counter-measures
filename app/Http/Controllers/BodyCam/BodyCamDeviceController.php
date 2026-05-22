@@ -127,12 +127,8 @@ class BodyCamDeviceController extends Controller
     public function show(Request $request, $id)
     {
         $data = BodyCamDevice::find($id);
-        // dd($data);
-
-        $satker = MasterSatker::findOrFail($data->device_used_for);
-
+        $satker = MasterSatker::where('kode_satker', $data->device_used_for)->first();
         $location = DataHelper::getLocation($data->device_dahua_id);
-        // dd($location);
         $data->lat = $location["lat"];
         $data->long = $location["long"];
         

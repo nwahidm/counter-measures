@@ -137,10 +137,10 @@ class BodycamDeviceDataHelper
 
 
 
-    public static function getBodycamDatabyId($bodycam_id = null)
+    public static function getBodycamDatabyId($bodycam_id)
     {
 
-
+    
         $bodycam_id = request()->query('bodycam_id') ?? $bodycam_id;
 
         if (!$bodycam_id) {
