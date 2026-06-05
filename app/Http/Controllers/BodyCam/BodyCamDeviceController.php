@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\Bodycam;
+namespace App\Http\Controllers\BodyCam;
 
 use Carbon\Carbon;
 use App\Http\Controllers\Controller;
