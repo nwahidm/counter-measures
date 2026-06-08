@@ -80,11 +80,11 @@
                                                         <label for="nama_target" class="fs-6 fw-semibold mb-2">NIK</label>
                                                         <input type="text" class="form-control" name="nik" id="nik" placeholder="" value="{{$data->target_identity_number}}" >                                                        
                                                         <br>
-                                                        <div class="form-group">
+                                                        <!-- <div class="form-group">
                                                             {{-- <button onclick="processCekNik()" id="buttonProcessNik" type="button" class="btn btn-primary btn-lg btn-block">
                                                                 Cari
                                                             </button> --}}
-                                                        </div>
+                                                        </div> -->
                                                     </div>
                                                     <div class="form-group col-md-6">
                                                         <label for="target_name" class="fs-6 fw-semibold mb-2 required">Nama Lengkap Target</label>
@@ -794,11 +794,11 @@
                                                                 <label for="elicitation_interview_target_identity_number" class="fs-6 fw-semibold mb-2 required">NIK</label>
                                                                 <input type="text" class="form-control" name="elicitation_interview_target_identity_number" id="elicitation_interview_target_identity_number" placeholder="" value="{{ old('elicitation_interview_target_identity_number', $data->elicitation_interview_target_identity_number) }}" >                                                        
                                                                 <br>
-                                                                {{-- <div class="form-group">
+                                                                <!-- {{-- <div class="form-group">
                                                                     <button onclick="processCekNikElicitation()" id="buttonProcessNikElicitation" type="button" class="btn btn-primary btn-lg btn-block">
                                                                         Cari
                                                                     </button>
-                                                                </div> --}}
+                                                                </div> --}} -->
                                                             </div>
                                                             <div class="row mb-12">
                                                                 <div class="form-group col-md-6">

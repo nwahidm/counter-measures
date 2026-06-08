@@ -53,11 +53,11 @@
                                                         <label for="no_identitas" class="fs-6 fw-semibold mb-2 required">NIK</label>
                                                         <input type="text" class="form-control" name="no_identitas" id="no_identitas" placeholder="" value="{{$data->target_identity_number}}" required="required">                                                        
                                                         <br>
-                                                        <div class="form-group">
+                                                        <!-- <div class="form-group">
                                                             <button onclick="processCekNik()" id="buttonProcessNik" type="button" class="btn btn-primary btn-lg btn-block">
                                                                 Cari
                                                             </button>
-                                                        </div>
+                                                        </div> -->
                                                     </div>
                                                     <div class="form-group col-md-6">
                                                         <label for="nama_target" class="fs-6 fw-semibold mb-2 required">Nama Lengkap Target</label>

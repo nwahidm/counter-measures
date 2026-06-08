@@ -72,11 +72,11 @@
                                                     <label for="target_identity_number" class="fs-6 fw-semibold mb-2 required">NIK</label>
                                                     <input type="text" class="form-control" name="target_identity_number" id="target_identity_number" placeholder="" value="{{$data->target_identity_number}}" required="required">                                                        
                                                     <br>
-                                                    <div class="form-group">
+                                                    <!-- <div class="form-group">
                                                         <button onclick="processCekNik()" id="buttonProcessNik" type="button" class="btn btn-primary btn-lg btn-block">
                                                             Cari
                                                         </button>
-                                                    </div>
+                                                    </div> -->
                                                     <br>
                                                 </div>
                                                 <div class="row mb-7">

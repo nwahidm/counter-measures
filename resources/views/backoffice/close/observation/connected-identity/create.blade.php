@@ -119,11 +119,11 @@
                                                     <label for="nama_target" class="fs-6 fw-semibold mb-2">NIK</label>
                                                     <input type="text" class="form-control" name="nik" id="nik" placeholder="" value="{{old('nik')}}" required="required">                                                        
                                                     <br>
-                                                    <div class="form-group">
+                                                    <!-- <div class="form-group">
                                                         <button onclick="processCekNik()" id="buttonProcessNik" type="button" class="btn btn-primary btn-lg btn-block">
                                                             Cari
                                                         </button>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                                 <div class="row mb-7">
                                                     <div class="form-group col-md-6">
